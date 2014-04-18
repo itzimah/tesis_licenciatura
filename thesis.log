@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.11 (TeX Live 2010) (format=pdflatex 2010.7.21)  2 APR 2014 00:07
+This is pdfTeX, Version 3.1415926-1.40.11 (TeX Live 2010) (format=pdflatex 2010.7.21)  9 APR 2014 02:27
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -507,9 +507,13 @@ Package: subcaption 2008/08/31 v1.0b Adding subcaptions (AR)
 \c@subfigure=\count152
 \c@subtable=\count153
 )
-(./thesis.aux (./content/front/cioCIO.aux) (./content/main/capitulo2.aux)
-(./content/main/capitulo3.aux) (./content/main/resultados.aux)
-(./content/back/bibliography.aux))
+(./thesis.aux (./content/front/titlepage_cio.aux) (./content/front/abstract.aux
+) (./content/main/introduction.aux) (./content/main/capitulo2.aux)
+(./content/main/capitulo3.aux) (./content/main/resultados.aux
+
+LaTeX Warning: Label `ghghh' multiply defined.
+
+) (./content/back/bibliography.aux))
 \openout1 = `thesis.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 45.
@@ -668,57 +672,19 @@ Package minitoc Info: I0033
 (minitoc)             Writing thesis.mtc4.
 \openout3 = `thesis.mtc4'.
 
-\openout2 = `content/front/cioCIO.aux'.
+Package minitoc Info: I0033
+(minitoc)             Writing thesis.mtc5.
+\openout3 = `thesis.mtc5'.
+
+\openout2 = `content/front/titlepage_cio.aux'.
 
 
-(./content/front/cioCIO.tex
-<content/images/frontmatter/logo.png, id=105, 373.6359pt x 119.9682pt>
-File: content/images/frontmatter/logo.png Graphic file (type png)
-
-<use content/images/frontmatter/logo.png>
-LaTeX Font Info:    Try loading font information for OT1+lmr on input line 11.
-
-(/usr/local/texlive/2010/texmf-dist/tex/latex/lm/ot1lmr.fd
-File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
-)
-LaTeX Font Info:    Try loading font information for OML+lmm on input line 11.
-
-(/usr/local/texlive/2010/texmf-dist/tex/latex/lm/omllmm.fd
-File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
-)
-LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 11.
-
-
-(/usr/local/texlive/2010/texmf-dist/tex/latex/lm/omslmsy.fd
-File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
-)
-LaTeX Font Info:    Try loading font information for OMX+lmex on input line 11.
-
-
-(/usr/local/texlive/2010/texmf-dist/tex/latex/lm/omxlmex.fd
-File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
-)
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10.95> on input line 11.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 11.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 11.
-LaTeX Font Info:    Try loading font information for U+msa on input line 11.
-
-(/usr/local/texlive/2010/texmf-dist/tex/latex/amsfonts/umsa.fd
-File: umsa.fd 2009/06/22 v3.00 AMS symbols A
-)
-LaTeX Font Info:    Try loading font information for U+msb on input line 11.
-
-(/usr/local/texlive/2010/texmf-dist/tex/latex/amsfonts/umsb.fd
-File: umsb.fd 2009/06/22 v3.00 AMS symbols B
-)
-<content/images/frontmatter/escudoUGTO.png, id=106, 97.59296pt x 113.71619pt>
+(./content/front/titlepage_cio.tex
+<content/images/frontmatter/escudoUGTO.png, id=129, 97.59296pt x 113.71619pt>
 File: content/images/frontmatter/escudoUGTO.png Graphic file (type png)
 
 <use content/images/frontmatter/escudoUGTO.png>
-LaTeX Font Info:    Try loading font information for T1+lmtt on input line 32.
+LaTeX Font Info:    Try loading font information for T1+lmtt on input line 17.
 
 (/usr/local/texlive/2010/texmf-dist/tex/latex/lm/t1lmtt.fd
 File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
@@ -728,34 +694,75 @@ File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
 
 
 {/usr/local/texlive/2010/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./conte
-nt/images/frontmatter/logo.png (PNG copy)> <./content/images/frontmatter/escudo
-UGTO.png>])
-(./thesis.toc)
+nt/images/frontmatter/escudoUGTO.png>])
+\openout2 = `content/front/abstract.aux'.
+
+ (./content/front/abstract.tex)pdfTeX warning (ext4): destination with the same
+ identifier (name{page.I}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.59 \include{content/front/abstract}
+                                      [1
+
+
+] (./thesis.toc
+LaTeX Font Info:    Try loading font information for OT1+lmr on input line 4.
+
+(/usr/local/texlive/2010/texmf-dist/tex/latex/lm/ot1lmr.fd
+File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Try loading font information for OML+lmm on input line 4.
+
+(/usr/local/texlive/2010/texmf-dist/tex/latex/lm/omllmm.fd
+File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 4.
+
+(/usr/local/texlive/2010/texmf-dist/tex/latex/lm/omslmsy.fd
+File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Try loading font information for OMX+lmex on input line 4.
+
+(/usr/local/texlive/2010/texmf-dist/tex/latex/lm/omxlmex.fd
+File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <10.95> on input line 4.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <8> on input line 4.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <6> on input line 4.
+LaTeX Font Info:    Try loading font information for U+msa on input line 4.
+
+(/usr/local/texlive/2010/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2009/06/22 v3.00 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 4.
+
+(/usr/local/texlive/2010/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2009/06/22 v3.00 AMS symbols B
+) [2
+
+
+])
 \tf@toc=\write6
 \openout6 = `thesis.toc'.
 
-pdfTeX warning (ext4): destination with the same identifier (name{page.I}) has 
-been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.66 \listoffigures
-                    [1
+ [3]
+(./thesis.lof
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <10> on input line 19.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <7> on input line 19.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <5> on input line 19.
+ [4
 
-
-] (./thesis.lof
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 14.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 14.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 14.
-)
+])
 \tf@lof=\write7
 \openout7 = `thesis.lof'.
 
- [2
-
-] (./base/fancyheaders.tex
+ [5] (./base/fancyheaders.tex
 
 Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is use
 less on input line 6.
@@ -765,75 +772,119 @@ Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is use
 less on input line 7.
 
 )
-\openout2 = `content/main/capitulo2.aux'.
+\openout2 = `content/main/introduction.aux'.
 
- (./content/main/capitulo2.tex
+ (./content/main/introduction.tex
 Cap\'{\i }tulo 1.
 \openout3 = `thesis.mtc'.
 
 \openout3 = `thesis.mtc'.
 
-(./thesis.mtc1
-Overfull \hbox (2.79501pt too wide) in paragraph at lines 11--11
- [][] [][][]\T1/lmr/m/n/10 Transferencia de Ener-gía de Re-so-nan-cia Förs-ter 
-(FRET)[][] [][]  
- []
-
-) [1
+(./thesis.mtc1) [1
 
 
 
 
 
 ]
-<content/images/capitulo2/airydisk.png, id=231, 499.8675pt x 249.93375pt>
-File: content/images/capitulo2/airydisk.png Graphic file (type png)
+<content/images/c1_Introduction/intro.png, id=298, 1067.99pt x 492.84125pt>
+File: content/images/c1_Introduction/intro.png Graphic file (type png)
 
-<use content/images/capitulo2/airydisk.png>
+<use content/images/c1_Introduction/intro.png>
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 13.59999pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[2 <./content/images/capitulo2/airydisk.png (PNG copy)>] [3]
-<content/images/capitulo2/micrfluor.png, id=251, 390.45876pt x 322.20375pt>
+[2 <./content/images/c1_Introduction/intro.png (PNG copy)>]
+<content/images/c1_Introduction/FluorescentCells.jpg, id=307, 513.92pt x 513.92
+pt>
+File: content/images/c1_Introduction/FluorescentCells.jpg Graphic file (type jp
+g)
+ <use content/images/c1_Introduction/FluorescentCells.jpg>
+Overfull \hbox (13.511pt too wide) in paragraph at lines 57--57
+[]\T1/lmr/bx/n/14.4 Diferentes ti-pos de mar-ca-do-res fluo-res-cen-tes ?`Por
+ []
+
+[3] <content/images/c1_Introduction/qdots.png, id=319, 658.46pt x 379.4175pt>
+File: content/images/c1_Introduction/qdots.png Graphic file (type png)
+
+<use content/images/c1_Introduction/qdots.png>
+
+Package Fancyhdr Warning: \headheight is too small (13.59999pt): 
+ Make it at least 25.2232pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[4 <./content/images/c1_Introduction/FluorescentCells.jpg>] [5 <./content/image
+s/c1_Introduction/qdots.png>]
+Overfull \hbox (21.86061pt too wide) in paragraph at lines 89--89
+[]\T1/lmr/bx/n/14.4 Nanopartículas or-gá-ni-cas fun-cio-na-li-za-das con PEG
+ []
+
+[6]) [7]
+\openout2 = `content/main/capitulo2.aux'.
+
+ (./content/main/capitulo2.tex
+Cap\'{\i }tulo 2.
+\openout3 = `thesis.mtc'.
+
+\openout3 = `thesis.mtc'.
+
+(./thesis.mtc2
+Overfull \hbox (2.79501pt too wide) in paragraph at lines 11--11
+ [][] [][][]\T1/lmr/m/n/10 Transferencia de Ener-gía de Re-so-nan-cia Förs-ter 
+(FRET)[][] [][]  
+ []
+
+) [8
+
+
+
+]
+<content/images/capitulo2/airydisk.png, id=364, 499.8675pt x 249.93375pt>
+File: content/images/capitulo2/airydisk.png Graphic file (type png)
+
+<use content/images/capitulo2/airydisk.png> [9 <./content/images/capitulo2/airy
+disk.png (PNG copy)>] [10]
+<content/images/capitulo2/micrfluor.png, id=381, 390.45876pt x 322.20375pt>
 File: content/images/capitulo2/micrfluor.png Graphic file (type png)
 
-<use content/images/capitulo2/micrfluor.png> [4 <./content/images/capitulo2/mic
-rfluor.png (PNG copy)>]
-<content/images/capitulo2/confocal2.png, id=259, 514.92375pt x 281.05pt>
+<use content/images/capitulo2/micrfluor.png> [11 <./content/images/capitulo2/mi
+crfluor.png (PNG copy)>]
+<content/images/capitulo2/confocal2.png, id=388, 514.92375pt x 281.05pt>
 File: content/images/capitulo2/confocal2.png Graphic file (type png)
 
-<use content/images/capitulo2/confocal2.png> [5 <./content/images/capitulo2/con
-focal2.png (PNG copy)>]
-<content/images/capitulo2/compara.png, id=268, 619.31375pt x 365.365pt>
+<use content/images/capitulo2/confocal2.png> [12 <./content/images/capitulo2/co
+nfocal2.png (PNG copy)>]
+<content/images/capitulo2/compara.png, id=397, 619.31375pt x 365.365pt>
 File: content/images/capitulo2/compara.png Graphic file (type png)
 
-<use content/images/capitulo2/compara.png> [6 <./content/images/capitulo2/compa
-ra.png (PNG copy)>]
-<content/images/capitulo2/tpa1.png, id=275, 409.53pt x 175.65625pt>
+<use content/images/capitulo2/compara.png> [13 <./content/images/capitulo2/comp
+ara.png (PNG copy)>]
+<content/images/capitulo2/tpa1.png, id=405, 409.53pt x 175.65625pt>
 File: content/images/capitulo2/tpa1.png Graphic file (type png)
 
-<use content/images/capitulo2/tpa1.png> [7 <./content/images/capitulo2/tpa1.png
- (PNG copy)>]
-<content/images/capitulo2/penetras.png, id=284, 465.74pt x 226.8475pt>
+<use content/images/capitulo2/tpa1.png> [14 <./content/images/capitulo2/tpa1.pn
+g (PNG copy)>]
+<content/images/capitulo2/penetras.png, id=414, 465.74pt x 226.8475pt>
 File: content/images/capitulo2/penetras.png Graphic file (type png)
 
-<use content/images/capitulo2/penetras.png> [8 <./content/images/capitulo2/pene
-tras.png (PNG copy)>] [9] [10]
+<use content/images/capitulo2/penetras.png> [15 <./content/images/capitulo2/pen
+etras.png (PNG copy)>] [16] [17]
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <9> on input line 182.
- [11]
-<content/images/capitulo2/tercerorden.png, id=331, 309.155pt x 126.4725pt>
+ [18]
+<content/images/capitulo2/tercerorden.png, id=460, 309.155pt x 126.4725pt>
 File: content/images/capitulo2/tercerorden.png Graphic file (type png)
 
-<use content/images/capitulo2/tercerorden.png> [12] [13 <./content/images/capit
-ulo2/tercerorden.png (PNG copy)>] [14]
-<content/images/capitulo2/gra2.png, id=372, 257.96375pt x 196.735pt>
+<use content/images/capitulo2/tercerorden.png> [19] [20 <./content/images/capit
+ulo2/tercerorden.png (PNG copy)>] [21]
+<content/images/capitulo2/gra2.png, id=502, 257.96375pt x 196.735pt>
 File: content/images/capitulo2/gra2.png Graphic file (type png)
 
-<use content/images/capitulo2/gra2.png> [15]
+<use content/images/capitulo2/gra2.png> [22]
 
 LaTeX Warning: Command \' invalid in math mode on input line 313.
 
@@ -843,7 +894,7 @@ LaTeX Warning: Command \' invalid in math mode on input line 313.
 
 LaTeX Warning: Command \' invalid in math mode on input line 313.
 
-[16 <./content/images/capitulo2/gra2.png (PNG copy)>]
+[23 <./content/images/capitulo2/gra2.png (PNG copy)>]
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <12> on input line 327.
 
@@ -863,26 +914,26 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 327.
 
-[17] [18] [19]
-<content/images/capitulo2/fret.png, id=430, 338.26375pt x 377.41pt>
+[24] [25] [26]
+<content/images/capitulo2/fret.png, id=560, 338.26375pt x 377.41pt>
 File: content/images/capitulo2/fret.png Graphic file (type png)
 
-<use content/images/capitulo2/fret.png> [20 <./content/images/capitulo2/fret.pn
+<use content/images/capitulo2/fret.png> [27 <./content/images/capitulo2/fret.pn
 g (PNG copy)>]
-<content/images/capitulo2/overlap.png, id=436, 429.605pt x 413.545pt>
+<content/images/capitulo2/overlap.png, id=566, 429.605pt x 413.545pt>
 File: content/images/capitulo2/overlap.png Graphic file (type png)
 
-<use content/images/capitulo2/overlap.png> [21]) [22 <./content/images/capitulo
+<use content/images/capitulo2/overlap.png> [28]) [29 <./content/images/capitulo
 2/overlap.png (PNG copy)>]
 \openout2 = `content/main/capitulo3.aux'.
 
  (./content/main/capitulo3.tex
-Cap\'{\i }tulo 2.
+Cap\'{\i }tulo 3.
 \openout3 = `thesis.mtc'.
 
 \openout3 = `thesis.mtc'.
 
-(./thesis.mtc2)
+(./thesis.mtc3)
 Overfull \hbox (3.00566pt too wide) in paragraph at lines 4--4
 []\T1/lmr/bx/n/14.4 Metodología: Des-crip-ción de ca-rac-te-ri-za-ción óp-
  []
@@ -893,25 +944,25 @@ Overfull \hbox (1.00563pt too wide) in paragraph at lines 10--11
 reali-
  []
 
-[23
+[30
 
 
 
-] <content/images/capitulo3/arturo.png, id=466, 482.80376pt x 370.38374pt>
+] <content/images/capitulo3/arturo.png, id=595, 482.80376pt x 370.38374pt>
 File: content/images/capitulo3/arturo.png Graphic file (type png)
 
 <use content/images/capitulo3/arturo.png>
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<content/images/capitulo3/PMC300.png, id=469, 375.4025pt x 185.69376pt>
+<content/images/capitulo3/PMC300.png, id=598, 375.4025pt x 185.69376pt>
 File: content/images/capitulo3/PMC300.png Graphic file (type png)
 
 <use content/images/capitulo3/PMC300.png>
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<content/images/capitulo3/HIDALGO.png, id=471, 522.95375pt x 399.4925pt>
+<content/images/capitulo3/HIDALGO.png, id=600, 522.95375pt x 399.4925pt>
 File: content/images/capitulo3/HIDALGO.png Graphic file (type png)
 
 <use content/images/capitulo3/HIDALGO.png>
@@ -919,103 +970,103 @@ File: content/images/capitulo3/HIDALGO.png Graphic file (type png)
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-Overfull \hbox (0.20436pt too wide) in paragraph at lines 50--51
+Overfull \hbox (0.20436pt too wide) in paragraph at lines 49--50
 \T1/lmr/m/n/10.95 5000 y PEG 2000, el pe-so mo-le-cu-lar pro-me-dio $\OML/lmm/m
 /it/10.95 M[]$ \T1/lmr/m/n/10.95 es de $\OT1/lmr/m/n/10.95 5000\OML/lmm/m/it/10
 .95 g=mol$ \T1/lmr/m/n/10.95 y $\OT1/lmr/m/n/10.95 2000\OML/lmm/m/it/10.95 g=mo
 l$
  []
 
-<content/images/capitulo3/peg.png, id=473, 530.98375pt x 224.84pt>
+[31] <content/images/capitulo3/peg.png, id=608, 530.98375pt x 224.84pt>
 File: content/images/capitulo3/peg.png Graphic file (type png)
 
-<use content/images/capitulo3/peg.png> [24]
+<use content/images/capitulo3/peg.png>
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[25 <./content/images/capitulo3/arturo.png (PNG copy)>]
-<content/images/capitulo3/reprecipitacion.png, id=488, 537.00626pt x 225.84375p
+[32 <./content/images/capitulo3/arturo.png (PNG copy)>]
+<content/images/capitulo3/reprecipitacion.png, id=618, 537.00626pt x 225.84375p
 t>
 File: content/images/capitulo3/reprecipitacion.png Graphic file (type png)
  <use content/images/capitulo3/reprecipitacion.png>
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[26 <./content/images/capitulo3/PMC300.png>] [27 <./content/images/capitulo3/HI
+[33 <./content/images/capitulo3/PMC300.png>] [34 <./content/images/capitulo3/HI
 DALGO.png (PNG copy)>]
-<content/images/capitulo3/emision_lineal.png, id=500, 451.6875pt x 273.02pt>
+<content/images/capitulo3/emision_lineal.png, id=630, 451.6875pt x 273.02pt>
 File: content/images/capitulo3/emision_lineal.png Graphic file (type png)
 
 <use content/images/capitulo3/emision_lineal.png>
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[28 <./content/images/capitulo3/peg.png (PNG copy)> <./content/images/capitulo3
+[35 <./content/images/capitulo3/peg.png (PNG copy)> <./content/images/capitulo3
 /reprecipitacion.png (PNG copy)>]
-<content/images/capitulo3/arreglo_qy.png, id=507, 533.995pt x 328.22626pt>
+<content/images/capitulo3/arreglo_qy.png, id=636, 533.995pt x 328.22626pt>
 File: content/images/capitulo3/arreglo_qy.png Graphic file (type png)
 
 <use content/images/capitulo3/arreglo_qy.png>
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[29 <./content/images/capitulo3/emision_lineal.png (PNG copy)>] [30 <./content/
+[36 <./content/images/capitulo3/emision_lineal.png (PNG copy)>] [37 <./content/
 images/capitulo3/arreglo_qy.png (PNG copy)>]
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <14.4> on input line 144.
+(Font)              <14.4> on input line 143.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 144.
+(hyperref)                removing `math shift' on input line 143.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\sigma' on input line 144.
+(hyperref)                removing `\sigma' on input line 143.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `superscript' on input line 144.
+(hyperref)                removing `superscript' on input line 143.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 144.
+(hyperref)                removing `math shift' on input line 143.
 
-[31] <content/images/capitulo3/tpa.png, id=526, 720.6925pt x 289.08pt>
+[38] <content/images/capitulo3/tpa.png, id=656, 720.6925pt x 289.08pt>
 File: content/images/capitulo3/tpa.png Graphic file (type png)
 
 <use content/images/capitulo3/tpa.png>
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 162.
+(hyperref)                removing `math shift' on input line 161.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\sigma' on input line 162.
+(hyperref)                removing `\sigma' on input line 161.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `superscript' on input line 162.
+(hyperref)                removing `superscript' on input line 161.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 162.
+(hyperref)                removing `math shift' on input line 161.
 
-[32 <./content/images/capitulo3/tpa.png (PNG copy)>]
-<content/images/capitulo3/tpa_femto.png, id=531, 516.93124pt x 358.33875pt>
+[39 <./content/images/capitulo3/tpa.png (PNG copy)>]
+<content/images/capitulo3/tpa_femto.png, id=661, 516.93124pt x 358.33875pt>
 File: content/images/capitulo3/tpa_femto.png Graphic file (type png)
 
-<use content/images/capitulo3/tpa_femto.png> [33 <./content/images/capitulo3/tp
-a_femto.png (PNG copy)>]) [34]
+<use content/images/capitulo3/tpa_femto.png> [40 <./content/images/capitulo3/tp
+a_femto.png (PNG copy)>]) [41]
 \openout2 = `content/main/resultados.aux'.
 
  (./content/main/resultados.tex
-Cap\'{\i }tulo 3.
+Cap\'{\i }tulo 4.
 \openout3 = `thesis.mtc'.
 
 \openout3 = `thesis.mtc'.
 
-(./thesis.mtc3)
-<content/images/resultados/sec1/comp.png, id=547, 555.07375pt x 431.6125pt>
+(./thesis.mtc4)
+<content/images/resultados/sec1/comp.png, id=676, 555.07375pt x 431.6125pt>
 File: content/images/resultados/sec1/comp.png Graphic file (type png)
 
 <use content/images/resultados/sec1/comp.png>
@@ -1023,37 +1074,83 @@ File: content/images/resultados/sec1/comp.png Graphic file (type png)
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-<content/images/resultados/sec1/emilinealtodas.png, id=550, 576.1525pt x 439.64
+<content/images/resultados/sec1/emilinealtodas.png, id=679, 576.1525pt x 439.64
 25pt>
 File: content/images/resultados/sec1/emilinealtodas.png Graphic file (type png)
 
  <use content/images/resultados/sec1/emilinealtodas.png>
-<content/images/resultados/sec1/emilinealnorm3N.png, id=551, 542.025pt x 418.56
+<content/images/resultados/sec1/emilinealnorm3N.png, id=680, 542.025pt x 418.56
 375pt>
 File: content/images/resultados/sec1/emilinealnorm3N.png Graphic file (type png
 )
- <use content/images/resultados/sec1/emilinealnorm3N.png> [35
+ <use content/images/resultados/sec1/emilinealnorm3N.png> [42
 
 
 
 ]
-Overfull \hbox (4.21967pt too wide) in paragraph at lines 46--47
+Overfull \hbox (4.21968pt too wide) in paragraph at lines 46--47
  [][] 
  []
 
-
-Package Fancyhdr Warning: \headheight is too small (13.59999pt): 
- Make it at least 25.2232pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-[36 <./content/images/resultados/sec1/comp.png (PNG copy)>] [37 <./content/imag
+[43 <./content/images/resultados/sec1/comp.png (PNG copy)>] [44 <./content/imag
 es/resultados/sec1/emilinealtodas.png (PNG copy)> <./content/images/resultados/
-sec1/emilinealnorm3N.png (PNG copy)>]) [38]
+sec1/emilinealnorm3N.png (PNG copy)>]
+<content/images/resultados/sec1/nojalo.png, id=703, 507.8975pt x 421.575pt>
+File: content/images/resultados/sec1/nojalo.png Graphic file (type png)
+
+<use content/images/resultados/sec1/nojalo.png>
+<content/images/resultados/sec1/sijalo.png, id=704, 522.95375pt x 410.53375pt>
+File: content/images/resultados/sec1/sijalo.png Graphic file (type png)
+
+<use content/images/resultados/sec1/sijalo.png>
+<content/images/resultados/sec1/TPA_1.png, id=705, 517.935pt x 407.5225pt>
+File: content/images/resultados/sec1/TPA_1.png Graphic file (type png)
+
+<use content/images/resultados/sec1/TPA_1.png>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+<content/images/resultados/sec1/abs_peg5000.png, id=709, 515.9275pt x 405.515pt
+>
+File: content/images/resultados/sec1/abs_peg5000.png Graphic file (type png)
+ <use content/images/resultados/sec1/abs_peg5000.png>
+<content/images/resultados/sec1/emi_peg5000.png, id=710, 524.96124pt x 408.5262
+5pt>
+File: content/images/resultados/sec1/emi_peg5000.png Graphic file (type png)
+ <use content/images/resultados/sec1/emi_peg5000.png>
+<content/images/resultados/sec1/TPA_PEG1.png, id=712, 509.905pt x 407.5225pt>
+File: content/images/resultados/sec1/TPA_PEG1.png Graphic file (type png)
+
+<use content/images/resultados/sec1/TPA_PEG1.png>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[45] [46 <./content/images/resultados/sec1/nojalo.png (PNG copy)> <./content/im
+ages/resultados/sec1/sijalo.png (PNG copy)>]
+<content/images/resultados/sec1/TPA_femto.png, id=724, 494.84875pt x 415.5525pt
+>
+File: content/images/resultados/sec1/TPA_femto.png Graphic file (type png)
+ <use content/images/resultados/sec1/TPA_femto.png>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<content/images/resultados/sec1/tem.png, id=726, 698.61pt x 331.2375pt>
+File: content/images/resultados/sec1/tem.png Graphic file (type png)
+
+<use content/images/resultados/sec1/tem.png>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[47 <./content/images/resultados/sec1/TPA_1.png (PNG copy)>]) [48 <./content/im
+ages/resultados/sec1/abs_peg5000.png (PNG copy)> <./content/images/resultados/s
+ec1/emi_peg5000.png (PNG copy)>] [49 <./content/images/resultados/sec1/TPA_PEG1
+.png (PNG copy)> <./content/images/resultados/sec1/TPA_femto.png (PNG copy)>]
+[50 <./content/images/resultados/sec1/tem.png (PNG copy)>]
 \openout2 = `content/back/bibliography.aux'.
 
- (./content/back/bibliography.tex
-(./thesis.bbl
+
+(./content/back/bibliography.tex (./thesis.bbl
 Underfull \hbox (badness 10000) in paragraph at lines 55--60
 []\T1/lmr/m/n/10.95 Michael W. Da-vid-son Nat-han S. Clax-ton, Tho-mas J. Fe-
  []
@@ -1082,12 +1179,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 55--60
 /m/n/10.95 , pa-ge 37,
  []
 
-[39
+[51
 
 
 
 
-] [40])) [41]
+] [52])) [53]
 Package minitoc Info: I0009
 (minitoc)             Listing minitoc auxiliary files. 
 (minitoc)             Creating the thesis.maf file.
@@ -1110,25 +1207,30 @@ Package minitoc(hints) Warning: W0024
 (minitoc(hints))                in the thesis.log file.
 
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 84.
-[42
+[54
 
 ]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 84.
- (./thesis.aux (./content/front/cioCIO.aux) (./content/main/capitulo2.aux)
-(./content/main/capitulo3.aux) (./content/main/resultados.aux)
-(./content/back/bibliography.aux))
+ (./thesis.aux (./content/front/titlepage_cio.aux)
+(./content/front/abstract.aux) (./content/main/introduction.aux)
+(./content/main/capitulo2.aux) (./content/main/capitulo3.aux)
+(./content/main/resultados.aux) (./content/back/bibliography.aux))
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 84.
 Package rerunfilecheck Info: File `thesis.out' has not changed.
-(rerunfilecheck)             Checksum: 91BB2AB03B8DE97A6F7037F984B96441;2254.
+(rerunfilecheck)             Checksum: 008C87F0F418FEF802A8148DB3D42D19;2872.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
  ) 
 Here is how much of TeX's memory you used:
- 10383 strings out of 493747
- 153801 string characters out of 3143546
- 267193 words of memory out of 3000000
- 13005 multiletter control sequences out of 15000+200000
- 95086 words of font info for 82 fonts, out of 3000000 for 9000
+ 10515 strings out of 493747
+ 157041 string characters out of 3143546
+ 274333 words of memory out of 3000000
+ 13074 multiletter control sequences out of 15000+200000
+ 95405 words of font info for 83 fonts, out of 3000000 for 9000
  714 hyphenation exceptions out of 8191
- 37i,13n,44p,1160b,501s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 37i,13n,44p,1160b,532s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/usr/local/texlive/2010/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/lo
 cal/texlive/2010/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/local/texliv
 e/2010/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{/usr/local/texlive/2010/texmf-d
@@ -1156,10 +1258,10 @@ e1/public/lm/lmsy7.pfb></usr/local/texlive/2010/texmf-dist/fonts/type1/public/l
 m/lmsy8.pfb></usr/local/texlive/2010/texmf-dist/fonts/type1/public/lm/lmsy9.pfb
 ></usr/local/texlive/2010/texmf-dist/fonts/type1/public/lm/lmtt12.pfb></usr/loc
 al/texlive/2010/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on thesis.pdf (45 pages, 3469886 bytes).
+Output written on thesis.pdf (60 pages, 3894985 bytes).
 PDF statistics:
- 724 PDF objects out of 1000 (max. 8388607)
- 617 compressed objects within 7 object streams
- 154 named destinations out of 1000 (max. 500000)
- 325 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 895 PDF objects out of 1000 (max. 8388607)
+ 761 compressed objects within 8 object streams
+ 183 named destinations out of 1000 (max. 500000)
+ 423 words of extra memory for PDF output out of 10000 (max. 10000000)
 

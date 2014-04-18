@@ -1,10 +1,11 @@
-{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {2.1}Metodolog\'ia: Descripci\'on de caracterizaci\'on \'optica}{\reset@font\mtcSfont 23}{section.2.1}}
-{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {2.2}Materiales y reactivos}{\reset@font\mtcSfont 24}{section.2.2}}
-{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {2.3}Fabricaci\'on de nanopart\'iculas por el m\'etodo de reprecipitaci\'on}{\reset@font\mtcSfont 25}{section.2.3}}
-{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {2.3.1}Recubrimiento de nanopart\'iculas con PEG}{\reset@font\mtcSSfont 26}{subsection.2.3.1}}
-{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {2.4}Espectros de absorci\'on y emisi\'on lineal}{\reset@font\mtcSfont 27}{section.2.4}}
-{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {2.5}Medici\'on de eficiencia cu\'antica de fluorescencia}{\reset@font\mtcSfont 29}{section.2.5}}
-{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {2.6}Medici\'on de $\sigma ^{TPA}$ de 740 a 840 nm}{\reset@font\mtcSfont 31}{section.2.6}}
-{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {2.7}Medici\'on de $\sigma ^{TPA}$ de 650 a 760 nm}{\reset@font\mtcSfont 33}{section.2.7}}
-{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {2.8}Fotoestabilidad de las nanopart\'iculas}{\reset@font\mtcSfont 34}{section.2.8}}
-{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {2.9}Internalizaci\'on de nanopart\'iculas en l\'ineas celulares X}{\reset@font\mtcSfont 34}{section.2.9}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {2.1}Microscop\'ia de Fluorescencia}{\reset@font\mtcSfont 8}{section.2.1}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {2.1.1}Fundamentos de la microscop\'ia}{\reset@font\mtcSSfont 8}{subsection.2.1.1}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {2.1.2}Microscopio de epifluorescencia}{\reset@font\mtcSSfont 11}{subsection.2.1.2}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {2.1.3}Microscop\'ia confocal de barrido l\'aser}{\reset@font\mtcSSfont 12}{subsection.2.1.3}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {2.1.4}Microscop\'ia multifot\'on}{\reset@font\mtcSSfont 13}{subsection.2.1.4}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {2.2}Propiedades \'opticas de marcadores en microscopia de fluorescencia}{\reset@font\mtcSfont 15}{section.2.2}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {2.2.1}Eficiencia cu\'antica de fluorescencia}{\reset@font\mtcSSfont 15}{subsection.2.2.1}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {2.2.1.1}M\'etodo relativo de la esfera integradora para medir eficiencia cu\'antica de fluorescencia}{\reset@font\mtcSSSfont 16}{subsubsection.2.2.1.1}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {2.2.2}Procesos no lineales: Absorci\'on de dos fotones}{\reset@font\mtcSSfont 18}{subsection.2.2.2}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {2.2.3}Medici\'on de $\sigma ^{TPA}$ mediante la t\'ecnica de TPEF}{\reset@font\mtcSSfont 24}{subsection.2.2.3}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {2.2.4}Transferencia de Energ\'ia de Resonancia F\"orster (FRET)}{\reset@font\mtcSSfont 27}{subsection.2.2.4}}

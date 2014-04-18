@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.11 (TeX Live 2010) (format=pdflatex 2010.7.21)  30 NOV 2013 20:17
+This is pdfTeX, Version 3.1415926-1.40.11 (TeX Live 2010) (format=pdflatex 2010.7.21)  9 APR 2014 01:58
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -17,19 +17,19 @@ telugu, indonesian, interlingua, irish, italian, kurmanji, lao, latin, latvian,
 nian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, turkish,
  turkmen, ukrainian, uppersorbian, welsh, loaded.
 
-./abstract.tex:1: LaTeX Error: Environment vcenterpage undefined.
+./abstract.tex:2: LaTeX Error: Environment vcenterpage undefined.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1 \begin{vcenterpage}
+l.2 \begin{vcenterpage}
                        
 ? 
-./abstract.tex:1: Emergency stop.
+./abstract.tex:2: Emergency stop.
  ...                                              
                                                   
-l.1 \begin{vcenterpage}
+l.2 \begin{vcenterpage}
                        
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -44,4 +44,4 @@ Here is how much of TeX's memory you used:
  3640 words of font info for 14 fonts, out of 3000000 for 9000
  714 hyphenation exceptions out of 8191
  5i,0n,4p,46b,16s stack positions out of 5000i,500n,10000p,200000b,50000s
-./abstract.tex:1:  ==> Fatal error occurred, no output PDF file produced!
+./abstract.tex:2:  ==> Fatal error occurred, no output PDF file produced!
