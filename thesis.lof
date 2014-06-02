@@ -2,39 +2,52 @@
 \select@language {spanish}
 \addvspace {10\p@ }
 \contentsline {xchapter}{Introducci\'on}{1}{chapter.1}
-\contentsline {figure}{\numberline {1.1}{\ignorespaces Alcance multidisciplinario de la Biofot\'onica en el cuidado de la salud \relax }}{2}{figure.caption.3}
-\contentsline {figure}{\numberline {1.2}{\ignorespaces \relax \fontsize {10}{12}\selectfont \abovedisplayskip 10\p@ plus2\p@ minus5\p@ \abovedisplayshortskip \z@ plus3\p@ \belowdisplayshortskip 6\p@ plus3\p@ minus3\p@ \def \leftmargin \leftmargini \topsep \z@ \parsep \parskip \itemsep \z@ {\leftmargin \leftmargini \topsep 6\p@ plus2\p@ minus2\p@ \parsep 3\p@ plus2\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip {C\'elulas endoteliales bajo microscopio de fluorescencia. En azul, el n\'ucleo te\~{n}ido con el colorante DAPI, en verde y rojo, los microt\'ubulos y filamentos de actina te\~{n}idos por la adhesi\'on de los colorantes FITC y TRITC en anticuerpos.} \relax }}{4}{figure.caption.4}
-\contentsline {figure}{\numberline {1.3}{\ignorespaces Puntos cu\'anticos\relax }}{5}{figure.caption.5}
+\contentsline {figure}{\numberline {1.1}{\ignorespaces Alcance multidisciplinario de la Biofot\'onica en el cuidado de la salud \relax }}{2}{figure.caption.4}
+\contentsline {figure}{\numberline {1.2}{\ignorespaces \relax \fontsize {10}{12}\selectfont \abovedisplayskip 10\p@ plus2\p@ minus5\p@ \abovedisplayshortskip \z@ plus3\p@ \belowdisplayshortskip 6\p@ plus3\p@ minus3\p@ \def \leftmargin \leftmargini \topsep \z@ \parsep \parskip \itemsep \z@ {\leftmargin \leftmargini \topsep 6\p@ plus2\p@ minus2\p@ \parsep 3\p@ plus2\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip {C\'elulas endoteliales bajo microscopio de fluorescencia. En azul, el n\'ucleo te\~{n}ido con el colorante DAPI, en verde y rojo, los microt\'ubulos y filamentos de actina te\~{n}idos por la adhesi\'on de los colorantes FITC y TRITC en anticuerpos.} \relax }}{4}{figure.caption.5}
+\contentsline {figure}{\numberline {1.3}{\ignorespaces Puntos cu\'anticos\relax }}{5}{figure.caption.6}
 \addvspace {10\p@ }
 \contentsline {xchapter}{Marco te\'orico}{8}{chapter.2}
-\contentsline {figure}{\numberline {2.1}{\ignorespaces Distribuci\'on de intensidad de un haz de luz y patr\'on de difracci\'on conocido como \emph {Airy Disk} \relax }}{9}{figure.caption.6}
-\contentsline {figure}{\numberline {2.2}{\ignorespaces Principio b\'asico de microscopio de epifluorescencia \relax }}{11}{figure.caption.7}
-\contentsline {figure}{\numberline {2.3}{\ignorespaces \relax \fontsize {10}{12}\selectfont \abovedisplayskip 10\p@ plus2\p@ minus5\p@ \abovedisplayshortskip \z@ plus3\p@ \belowdisplayshortskip 6\p@ plus3\p@ minus3\p@ \def \leftmargin \leftmargini \topsep \z@ \parsep \parskip \itemsep \z@ {\leftmargin \leftmargini \topsep 6\p@ plus2\p@ minus2\p@ \parsep 3\p@ plus2\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip {Trayectoria de la luz en un microscopio confocal de fluorescencia. La luz fuera del plano focal no es detectada debido a la apertura confocal.}\relax }}{12}{figure.caption.8}
-\contentsline {figure}{\numberline {2.4}{\ignorespaces Haz de excitaci\'on para microscop\'ia de barrido l\'aser de uno y dos fotones. \emph {\relax \fontsize {8}{9.5}\selectfont {Imagen de Steve Ruzin y Holly Aaron, UC Berkeley.}}\relax }}{13}{figure.caption.9}
-\contentsline {figure}{\numberline {2.5}{\ignorespaces Diagrama de energ\'ia para la transici\'on de uno y dos fotones. \emph {\relax \fontsize {8}{9.5}\selectfont {Imagen de D. Nowak}} \relax }}{14}{figure.caption.10}
-\contentsline {figure}{\numberline {2.6}{\ignorespaces Esquema de penetraci\'on del tejido a diferentes longitudes de onda \relax }}{15}{figure.caption.11}
-\contentsline {figure}{\numberline {2.7}{\ignorespaces Geometr\'ia del efecto de la polarizaci\'on no lineal de tercer orden \relax }}{20}{figure.caption.12}
-\contentsline {figure}{\numberline {2.8}{\ignorespaces Absorci\'on de dos fotones \relax }}{23}{figure.caption.13}
-\contentsline {figure}{\numberline {2.9}{\ignorespaces \relax \fontsize {10}{12}\selectfont \abovedisplayskip 10\p@ plus2\p@ minus5\p@ \abovedisplayshortskip \z@ plus3\p@ \belowdisplayshortskip 6\p@ plus3\p@ minus3\p@ \def \leftmargin \leftmargini \topsep \z@ \parsep \parskip \itemsep \z@ {\leftmargin \leftmargini \topsep 6\p@ plus2\p@ minus2\p@ \parsep 3\p@ plus2\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip {Esquema de la Transferencia de Energ\'ia de Resonancia F\"orster}\relax }}{27}{figure.caption.14}
-\contentsline {figure}{\numberline {2.10}{\ignorespaces \relax \fontsize {10}{12}\selectfont \abovedisplayskip 10\p@ plus2\p@ minus5\p@ \abovedisplayshortskip \z@ plus3\p@ \belowdisplayshortskip 6\p@ plus3\p@ minus3\p@ \def \leftmargin \leftmargini \topsep \z@ \parsep \parskip \itemsep \z@ {\leftmargin \leftmargini \topsep 6\p@ plus2\p@ minus2\p@ \parsep 3\p@ plus2\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip {Espectros de emisi\'on y absorci\'on de intensidad vs frecuencia, $\Omega '$ representa el ancho de la superposici\'on}\relax }}{29}{figure.caption.15}
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Distribuci\'on de intensidad de un haz de luz y patr\'on de difracci\'on conocido como \emph {Airy Disk} \relax }}{9}{figure.caption.7}
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Principio b\'asico de microscopio de epifluorescencia \relax }}{11}{figure.caption.8}
+\contentsline {figure}{\numberline {2.3}{\ignorespaces \relax \fontsize {10}{12}\selectfont \abovedisplayskip 10\p@ plus2\p@ minus5\p@ \abovedisplayshortskip \z@ plus3\p@ \belowdisplayshortskip 6\p@ plus3\p@ minus3\p@ \def \leftmargin \leftmargini \topsep \z@ \parsep \parskip \itemsep \z@ {\leftmargin \leftmargini \topsep 6\p@ plus2\p@ minus2\p@ \parsep 3\p@ plus2\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip {Trayectoria de la luz en un microscopio confocal de fluorescencia. La luz fuera del plano focal no es detectada debido a la apertura confocal.}\relax }}{12}{figure.caption.9}
+\contentsline {figure}{\numberline {2.4}{\ignorespaces Haz de excitaci\'on para microscop\'ia de barrido l\'aser de uno y dos fotones. \emph {\relax \fontsize {8}{9.5}\selectfont {Imagen de Steve Ruzin y Holly Aaron, UC Berkeley.}}\relax }}{13}{figure.caption.10}
+\contentsline {figure}{\numberline {2.5}{\ignorespaces Diagrama de energ\'ia para la transici\'on de uno y dos fotones. \emph {\relax \fontsize {8}{9.5}\selectfont {Imagen de D. Nowak}} \relax }}{14}{figure.caption.11}
+\contentsline {figure}{\numberline {2.6}{\ignorespaces Esquema de penetraci\'on del tejido a diferentes longitudes de onda \relax }}{15}{figure.caption.12}
+\contentsline {figure}{\numberline {2.7}{\ignorespaces Geometr\'ia del efecto de la polarizaci\'on no lineal de tercer orden \relax }}{19}{figure.caption.13}
+\contentsline {figure}{\numberline {2.8}{\ignorespaces Absorci\'on de dos fotones \relax }}{23}{figure.caption.14}
+\contentsline {figure}{\numberline {2.9}{\ignorespaces \relax \fontsize {10}{12}\selectfont \abovedisplayskip 10\p@ plus2\p@ minus5\p@ \abovedisplayshortskip \z@ plus3\p@ \belowdisplayshortskip 6\p@ plus3\p@ minus3\p@ \def \leftmargin \leftmargini \topsep \z@ \parsep \parskip \itemsep \z@ {\leftmargin \leftmargini \topsep 6\p@ plus2\p@ minus2\p@ \parsep 3\p@ plus2\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip {Esquema de la Transferencia de Energ\'ia de Resonancia F\"orster}\relax }}{27}{figure.caption.15}
+\contentsline {figure}{\numberline {2.10}{\ignorespaces \relax \fontsize {10}{12}\selectfont \abovedisplayskip 10\p@ plus2\p@ minus5\p@ \abovedisplayshortskip \z@ plus3\p@ \belowdisplayshortskip 6\p@ plus3\p@ minus3\p@ \def \leftmargin \leftmargini \topsep \z@ \parsep \parskip \itemsep \z@ {\leftmargin \leftmargini \topsep 6\p@ plus2\p@ minus2\p@ \parsep 3\p@ plus2\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip {Espectros de emisi\'on y absorci\'on de intensidad vs frecuencia, $\Omega '$ representa el ancho de la superposici\'on}\relax }}{28}{figure.caption.16}
 \addvspace {10\p@ }
 \contentsline {xchapter}{Desarrollo Experimental}{30}{chapter.3}
-\contentsline {figure}{\numberline {3.1}{\ignorespaces Mol\'eculas org\'anicas dipolar, cuadrupolar y octopolar\relax }}{32}{figure.caption.16}
-\contentsline {figure}{\numberline {3.2}{\ignorespaces Pol\'imero PMC300\relax }}{33}{figure.caption.17}
-\contentsline {figure}{\numberline {3.3}{\ignorespaces 15 sustituyentes $R$ en la estructura principal de la mol\'ecula \relax }}{34}{figure.caption.18}
-\contentsline {figure}{\numberline {3.4}{\ignorespaces Estructuras de a) PEG 5000 y b) PEG 2000 \relax }}{35}{figure.caption.19}
-\contentsline {figure}{\numberline {3.5}{\ignorespaces M\'etodo de reprecipitaci\'on\relax }}{35}{figure.caption.20}
-\contentsline {figure}{\numberline {3.6}{\ignorespaces Arreglo experimental para medir emisi\'on lineal\relax }}{36}{figure.caption.21}
-\contentsline {figure}{\numberline {3.7}{\ignorespaces Arreglo experimental para obtener la eficiencia cu\'antica de fluorescencia\relax }}{37}{figure.caption.22}
-\contentsline {figure}{\numberline {3.8}{\ignorespaces Arreglo experimental para medir $\sigma ^{TPA}$ (Rango 740-- 840 $nm$)\relax }}{39}{figure.caption.23}
-\contentsline {figure}{\numberline {3.9}{\ignorespaces Arreglo experimental para medir $\sigma ^{TPA}$ (Rango 650-- 760 $nm$)\relax }}{40}{figure.caption.24}
+\contentsline {figure}{\numberline {3.1}{\ignorespaces 15 sustituyentes $R$ en la estructura principal de la mol\'ecula \relax }}{32}{figure.caption.17}
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Copol\'imero de dos bloques\relax }}{32}{figure.caption.18}
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Mol\'eculas org\'anicas dipolar, cuadrupolar y octopolar\relax }}{33}{figure.caption.19}
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Pol\'imero PMC300\relax }}{33}{figure.caption.20}
+\contentsline {figure}{\numberline {3.5}{\ignorespaces Estructuras de a) PEG 5000 y b) PEG 2000 \relax }}{34}{figure.caption.21}
+\contentsline {figure}{\numberline {3.6}{\ignorespaces M\'etodo de reprecipitaci\'on\relax }}{35}{figure.caption.22}
+\contentsline {figure}{\numberline {3.7}{\ignorespaces Arreglo experimental para medir emisi\'on lineal\relax }}{36}{figure.caption.23}
+\contentsline {figure}{\numberline {3.8}{\ignorespaces Arreglo experimental para obtener la eficiencia cu\'antica de fluorescencia\relax }}{38}{figure.caption.24}
+\contentsline {figure}{\numberline {3.9}{\ignorespaces Arreglo experimental para medir $\sigma ^{TPA}$ (Rango 740-- 840 $nm$)\relax }}{40}{figure.caption.25}
+\contentsline {figure}{\numberline {3.10}{\ignorespaces Arreglo experimental para medir $\sigma ^{TPA}$ (Rango 650-- 760 $nm$)\relax }}{41}{figure.caption.26}
 \addvspace {10\p@ }
-\contentsline {xchapter}{Resultados}{42}{chapter.4}
-\contentsline {figure}{\numberline {4.1}{\ignorespaces Espectros de absorci\'on molar de 1NDS, 2NQS, 3NOS. Las etiquetas \emph {sol} y \emph {susp} se refieren a los sistemas moleculares en soluci\'on y suspensi\'on respectivamente\relax }}{43}{figure.caption.25}
-\contentsline {figure}{\numberline {4.2}{\ignorespaces Espectros de emisi\'on lineal de 1NDS, 2NQS y 3NOS\relax }}{44}{figure.caption.26}
-\contentsline {figure}{\numberline {4.3}{\ignorespaces Espectros de emisi\'on no lineal\relax }}{46}{figure.caption.28}
-\contentsline {figure}{\numberline {4.4}{\ignorespaces Espectro de absorci\'on no lineal de 3NOS en soluci\'on y suspensi\'on\relax }}{47}{figure.caption.29}
-\contentsline {figure}{\numberline {4.5}{\ignorespaces Espectros de la mol\'ecula octopolar en soluci\'on \emph {Sol} y en suspensiones con CTAB \emph {Susp CTAB} y PEG \emph {Susp PEG 5000}\relax }}{48}{figure.caption.30}
-\contentsline {figure}{\numberline {4.6}{\ignorespaces Espectro de absorci\'on no lineal para 3NOS en soluci\'on \emph {Sol} y suspensiones con CTAB \emph {Susp CTAB} y PEG 5000, \emph {Susp PEG 5000}\relax }}{49}{figure.caption.31}
-\contentsline {figure}{\numberline {4.7}{\ignorespaces Espectros de absorci\'on no lineal para 3NOS en soluci\'on de 650--760 nm y de $740-840nm$\relax }}{49}{figure.caption.32}
-\contentsline {figure}{\numberline {4.8}{\ignorespaces Im\'agenes TEM con escala de 20 y 500 $nm$\relax }}{50}{figure.caption.33}
+\contentsline {xchapter}{Resultados}{43}{chapter.4}
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Espectros de absorci\'on molar de las mol\'eculas 3, 6, 7, 10, 13 y 15 (Notaci\'on de acuerdo a la fig. \ref {muchacha}). Las etiquetas \emph {Sol} y \emph {Susp} se refieren a las mol\'eculas en soluci\'on y suspensi\'on respectivamente.\relax }}{44}{figure.caption.27}
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Espectros de emisi\'on lineal de las muestras 6, 10 y 13 en soluci\'on y de las muestras 3 y 7 en soluci\'on y suspensi\'on de nanopart\'iculas.\relax }}{45}{figure.caption.28}
+\contentsline {figure}{\numberline {4.3}{\ignorespaces De izquierda a derecha, fluorescencia de las muestras 10, 7, 13 y 3 en suspensi\'on bajo una l\'ampara UV como fuente de excitaci\'on.\relax }}{46}{figure.caption.29}
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Espectros de emisi\'on no lineal de las mol\'eculas 10 y 13 en soluci\'on y 7 en soluci\'on y suspensi\'on (Excitaci\'on a 750 $nm$).\relax }}{47}{figure.caption.31}
+\contentsline {figure}{\numberline {4.5}{\ignorespaces Epectros de absorci\'on no lineal de las mol\'eculas 10 y 13 en soluci\'on y 7 en soluci\'on y suspensi\'on\relax }}{48}{figure.caption.32}
+\contentsline {figure}{\numberline {4.6}{\ignorespaces Espectros de absorci\'on molar de soluciones y suspensi\'on. Concentraciones: \emph {Sol 1}- $9.25 \times 10 ^{-6} M$, \emph {Sol 2}- $6.66\times 10^{-8} M$ y \emph {Susp}- $6.66\times 10^{-8} M$.\relax }}{49}{figure.caption.33}
+\contentsline {figure}{\numberline {4.7}{\ignorespaces Espectros de absorci\'on molar normalizados para la soluci\'on 1, 2 y una suspensi\'on acuosa.\relax }}{50}{figure.caption.34}
+\contentsline {figure}{\numberline {4.8}{\ignorespaces Espectros de emisi\'on lineal del copol\'imero en soluci\'on. Concentraciones: \emph {Sol 1}- $9.25 \times 10 ^{-6} M$ y \emph {Sol 2}- $6.66\times 10^{-8} M$ .\relax }}{50}{figure.caption.35}
+\contentsline {figure}{\numberline {4.9}{\ignorespaces Espectros de emisi\'on no lineal del copol\'imero en soluci\'on. Longitudes de excitaci\'on: 760, 790 y 810 $nm$.\relax }}{51}{figure.caption.36}
+\contentsline {figure}{\numberline {4.10}{\ignorespaces Espectros de absorci\'on no lineal del copol\'imero en soluci\'on, c=$9.25 \times 10 ^{-6} M$.\relax }}{51}{figure.caption.37}
+\contentsline {figure}{\numberline {4.11}{\ignorespaces Espectros de absorci\'on molar de 1NDS, 2NQS, 3NOS. Las etiquetas \emph {sol} y \emph {susp} se refieren a los sistemas moleculares en soluci\'on y suspensi\'on respectivamente\relax }}{53}{figure.caption.38}
+\contentsline {figure}{\numberline {4.12}{\ignorespaces Espectros de emisi\'on lineal de 1NDS, 2NQS y 3NOS en soluci\'on y suspensi\'on de nanopart\'iculas\relax }}{54}{figure.caption.39}
+\contentsline {figure}{\numberline {4.13}{\ignorespaces Espectros normalizados y fluorescencia visible de 3NOS en soluci\'on (azul) y suspensi\'on (amarilla)\relax }}{55}{figure.caption.40}
+\contentsline {figure}{\numberline {4.14}{\ignorespaces Espectros de emisi\'on no lineal\relax }}{56}{figure.caption.42}
+\contentsline {figure}{\numberline {4.15}{\ignorespaces Espectro de absorci\'on no lineal de 3NOS en soluci\'on y suspensi\'on\relax }}{57}{figure.caption.43}
+\contentsline {figure}{\numberline {4.16}{\ignorespaces Espectros de la mol\'ecula octopolar en soluci\'on \emph {Sol} y en suspensiones con CTAB \emph {Susp CTAB} y PEG \emph {Susp PEG 5000}\relax }}{58}{figure.caption.44}
+\contentsline {figure}{\numberline {4.20}{\ignorespaces Im\'agenes TEM con escala de 20 y 500 $nm$\relax }}{58}{figure.caption.48}
+\contentsline {figure}{\numberline {4.17}{\ignorespaces Espectro de absorci\'on no lineal para 3NOS en soluci\'on \emph {Sol} y suspensiones con CTAB \emph {Susp CTAB} y PEG 5000, \emph {Susp PEG 5000}\relax }}{59}{figure.caption.45}
+\contentsline {figure}{\numberline {4.18}{\ignorespaces Espectros de absorci\'on no lineal para 3NOS en soluci\'on de 650--760 nm y de $740-840nm$\relax }}{59}{figure.caption.46}
+\contentsline {figure}{\numberline {4.19}{\ignorespaces Im\'agenes TEM con escala de 20 y 500 $nm$\relax }}{60}{figure.caption.47}

@@ -137,7 +137,7 @@ Los procesos de decaimiento que llevan a una mol\'ecula  del estado excitado al 
 
 %La luminiscencia puede ser fosforescencia o fluorescencia, dependiendo de la naturaleza del estado excitado. La tasa de emisi\'on de la fosforescencia es de $10^{3}$ a $1 s^{-1}$ y tiene un tiempo de vida del orden de milisegundos; sin embargo, la tasa de emisi\'on de la fluorescencia es t\'ipicamente del orden de  y tiene un tiempo de vida de varios nanosegundos .
 
-La eficiencia cu\'antica de fluorescencia $\Phi_{f}$ es la fracci\'on de los fotones que, absorbidos por un compuesto, son emitidos mediante fluorescencia como se muestra en la ecuaci\'on \ref{eficuan}. La eficiencia cu\'antica de fluorescencia, determina la probabilidad de que una mol\'ecula en estado excitado tenga un decaimiento radiativo por fluorescencia, en lugar de cualquier otro mecanismo no radiativo \cite{UK}.
+La eficiencia cu\'antica de fluorescencia $\Phi_{f}$ es la raz\'on que hay entre los fotones absorbidos por un compuesto y los emitidos mediante fluorescencia como se muestra en la ecuaci\'on \ref{eficuan}. La eficiencia cu\'antica de fluorescencia, determina la probabilidad de que una mol\'ecula en estado excitado tenga un decaimiento radiativo por fluorescencia, en lugar de cualquier otro mecanismo no radiativo \cite{UK}.
 
 \begin{equation}
 \Phi_{f}=\frac{\# fotones \hspace{0.2cm} emitidos}{\# fotones  \hspace{0.2cm} absorbidos} \label{eficuan}
@@ -151,11 +151,11 @@ Debido a las complejas correcciones que requieren diversos m\'etodos absolutos, 
 
 \subsubsection{M\'etodo relativo de la esfera integradora para medir eficiencia cu\'antica de fluorescencia}
 
-En este m\'etodo se mide la eficiencia cu\'antica de fluorescencia $ \Phi$ para un compuesto en soluci\'on o suspensi\'on de nanopart\'iculas mediante la detecci\'on de emisi\'on de luz de \'este en una esfera integradora; para ello se utiliza un sistema de detecci\'on, que puede ser constituido por un monocromador, una c\'amara CCD, un analizador multicanal fot\'onico, un fotodetector etc... Particularmente, en este trabajo se utiliz\'o un un tubo fotomultiplicador o PMT por sus siglas en ingles y un amplificador lock- in. 
+En este m\'etodo se mide la eficiencia cu\'antica de fluorescencia $ \Phi_f$ para un compuesto en soluci\'on o suspensi\'on de nanopart\'iculas mediante la detecci\'on de emisi\'on de luz de \'este en una esfera integradora; para ello se utiliza un sistema de detecci\'on, que puede ser constituido por un monocromador, una c\'amara CCD, un analizador multicanal fot\'onico, un fotodetector etc... Particularmente, en este trabajo se utiliz\'o un un tubo fotomultiplicador o PMT por sus siglas en ingles y un amplificador lock- in. 
 
 Las soluciones o suspensiones se colocan en celdas de cuarzo de $0.1\times1\times4 cm^{3}$ a concentraciones del orden de $10^{-6}$ y $10^{-7}$ M. La emisi\'on de luz de la muestra es reflejada con la misma intensidad en todas direcciones dentro de la esfera integradora y detectada por un PMT colocado en una abertura de la esfera. El PMT, detecta los fotones de emisi\'on y crea una se\~{n}al el\'ectrica que es enviada a un amplificador lock- in. Finalmente el amplificador arroja el valor, en volts, de la se\~{n}al causada por la intensidad de fluorescencia.
 
-El proceso anterior se realiza para una soluci\'on utilizada como referencia con valor de eficiencia cu\'antica de fluorescencia conocido. Comparando la emisi\'on de luz de la muestra de inter\'es con la emisi\'on de luz de la referencia se puede conocer $\Phi$ para la muestra, como se explica a continuaci\'on. 
+El proceso anterior se repite para una soluci\'on utilizada como referencia con valor de eficiencia cu\'antica de fluorescencia conocido. Comparando la emisi\'on de luz de la muestra de inter\'es con la emisi\'on de luz de la referencia se puede conocer $\Phi_f$ para la muestra, como se explica a continuaci\'on. 
 
 Cuando el haz de excitaci\'on incide en un medio, en este caso la celda, parte de la luz ser\'a transmitida, reflejada y absorbida por el medio. La aplicaci\'on de la conservaci\'on de energ\'ia, determina que la suma de la transmisi\'on $t$ , reflexi\'on $r$ y absorci\'on $a$ de la luz incidente es igual a la unidad.
 
@@ -165,36 +165,36 @@ t+r+a=1  \label{1}
 
 En el m\'etodo utilizado en este trabajo, el reflejo del haz de excitaci\'on en la celda se dirigi\'o hacia afuera de la esfera integradora para no ser detectado y as\'i suponer que $r=0$ en la ecuaci\'on \ref{1}. %%%no es cierto en la realidad la luz reflejada es distinta de cero pero su contribución se elimina utilizando también la referencia!!!!
 
-La intensidad de la luz emitida por una muestra $I_m$ es proporcional a la intensidad de luz del haz incidente $I_0 m$, eficiencia cu\'antica de fluorescencia $\Phi_{m}$ y absorci\'on $a$; esta \'ultima se puede expresar como $a=1-t$ para escribir:
+La intensidad de la luz emitida por una muestra $I_m$ es proporcional a la intensidad de luz del haz incidente $I_{0 _m}$, eficiencia cu\'antica de fluorescencia $\Phi_{f_m}$ y absorci\'on $a$; esta \'ultima se puede expresar como $a=1-t$ para escribir:
 
 \begin{equation}
-I_{m}\propto I_{0m} \Phi_{m}(1-t) \label{prop}
+I_{m}\propto I_{0m} \Phi_{f_m}(1-t) \label{prop}
 \end{equation}  
 
-Utilizando la Ley de Lambert- Beer es posible expresar la transmisi\'on como $t=10^{-A_{m}}$, donde $A_{m}$ es la absorbancia de la muestra. La ecuaci\'on \ref{prop} puede escribirse como 
+N\'otese que se ha utilizado el sub\'indice $m$ para hacer referencia a los par\'ametros de la muestra de inter\'es. Utilizando la Ley de Lambert- Beer es posible expresar la transmisi\'on como $t=10^{-A_{m}}$, donde $A_{m}$ es la absorbancia de la muestra. La ecuaci\'on \ref{prop} puede escribirse como 
 
 \begin{equation}
 I_{m}=k I_{0m} \Phi_{m}(1-10^{-A_{m}}) \label{igual}
 \end{equation}  
  
-donde se introdujo la constante instrumental $k$. El valor de esta constante de correcci\'on para el sistema completo de medici\'on de eficiencia cu\'antica no es conocido, pero puede ser eliminado de la ecuaci\'on \ref{igual} midiendo una soluci\'on de referencia con valor de eficiencia cu\'antica de fluorescencia conocido. Es decir, la intensidad de emisi\'on de la muestra de referencia $I_{ref}$ es  $I_{ref}=k I_{0 ref} \Phi_{ref}(1-10^{-A_{ref}})$, donde se especifica que se trata de la referencia con el sub\'indice $ref$. 
+donde se introdujo la constante instrumental $k$. El valor de esta constante de correcci\'on para el sistema completo de medici\'on de eficiencia cu\'antica no es conocido, pero puede ser eliminado de la ecuaci\'on \ref{igual} utilizando una soluci\'on de prueba o referencia con valor de eficiencia cu\'antica de fluorescencia conocido. Es decir, la intensidad de emisi\'on de la muestra de referencia $I_{ref}$ es  $I_{ref}=k I_{0 ref} \Phi_{f_{ref}}(1-10^{-A_{ref}})$, donde se especifica que se trata de la referencia con el sub\'indice $ref$. 
 
-En los experimentos realizados en este trabajo, se midi\'o la intensidad de fluorescencia de la muestra de inter\'es y de la referencia bajo las mismas condiciones y se utiliz\'o la misma intensidad de excitaci\'on\footnote{No es una condici\'on necesaria cuando el sistema de detecci\'on responde de manera lineal para distintos valores de intensidades incidentes de inter\'es}, es decir, $I_{0}=I_{0 ref}$. Bajo estas circunstancias, resolviendo el sistema de ecuaciones para $\Phi_{m}$ se tiene que: 
+En los experimentos realizados en este trabajo, se midi\'o la intensidad de fluorescencia de la muestra de inter\'es y de la referencia bajo las mismas condiciones y se utiliz\'o la misma intensidad de excitaci\'on\footnote{No es una condici\'on necesaria cuando el sistema de detecci\'on responde de manera lineal para distintos valores de intensidades incidentes de inter\'es}, es decir, $I_{0m}=I_{0 ref}$. Bajo estas circunstancias, resolviendo el sistema de ecuaciones para $\Phi_{f_m}$ se tiene que: 
 
 \begin{equation}
-\Phi_{m}= \Phi_{ref} \frac{I_{m}}{I_{ref}} \frac{(1-10^{-A_{ref}})}{(1-10^{-A_{m}})}  \label{final}
+\Phi_{f_m}= \Phi_{f_{ref}} \frac{I_{m}}{I_{ref}} \frac{(1-10^{-A_{ref}})}{(1-10^{-A_{m}})}  \label{final}
 \end{equation}  
  
-$ \Phi_{ref}$ es el valor conocido de la eficiencia cu\'antica de fluorescencia para la referencia. En este experimento $I_{m}$ e $I_{ref}$ son par\'ametros referentes a la detecci\'on del nivel de intensidad de emisi\'on de la muestra y de la referencia, cuyos valores (al ser detectados con un PMT) est\'an dados en volts; los valores de absorbancia para la muestra y la referencia a la misma longitud de onda que el haz de excitaci\'on se conocen con los espectros de absorci\'on, los cuales se adquieren en celdas de cuarzo con la misma longitud de camino \'optico y la misma concentraci\'on molar que se utilizaron en este m\'etodo.
+$ \Phi_{f_{ref}}$ es el valor conocido de la eficiencia cu\'antica de fluorescencia para la referencia. En este experimento $I_{m}$ e $I_{ref}$ son par\'ametros referentes a la detecci\'on del nivel de intensidad de emisi\'on de la muestra y de la referencia, cuyos valores (al ser detectados con un PMT) est\'an dados en volts; los valores de absorbancia para la muestra y la referencia a la misma longitud de onda que el haz de excitaci\'on se conocen con los espectros de absorci\'on, los cuales se adquieren en celdas de cuarzo con la misma longitud de camino \'optico y la misma concentraci\'on molar que se utilizaron en este m\'etodo.
  
   
 %Essentially, solutions of the standard and test samples with identical absorbance at the same excitation wavelength can be assumed to be absorbing the same number of photons.
 
 \subsection{Procesos no lineales: Absorci\'on de dos fotones}
 
-La \'optica no lineal estudia los fen\'omenos que ocurren como consecuencia de la modificaci\'on de las propiedades \'opticas de un material por la presencia de luz, t\'ipicamente luz l\'aser. Los fen\'omenos \'opticos son no lineales, porque ocurren cuando la respuesta de un material al campo \'optico aplicado depende de una manera no lineal de la fuerza de dicho campo \'optico \cite{boyd}.
+La \'optica no lineal estudia los fen\'omenos que ocurren como consecuencia de la modificaci\'on de las propiedades \'opticas de un material por la presencia de luz, t\'ipicamente luz l\'aser. Los fen\'omenos \'opticos son no lineales, porque ocurren cuando la respuesta de un material al campo \'optico aplicado depende de una manera no lineal de la amplitud de dicho campo \'optico \cite{boyd}.
 
-Para comprender lo anterior es importante analizar la dependencia que tiene la polarizaci\'on de un material con la fuerza del campo el\'ectrico aplicado. En la \'optica convencional o lineal, la polarizaci\'on inducida depende linealmente de la fuerza del campo el\'ectrico; sin embargo, en \'optica no lineal la respuesta se generaliza expresando la polarizaci\'on inducida $P(t)$ como sigue:
+Para comprender lo anterior es importante analizar la dependencia que tiene la polarizaci\'on de un material con la amplitud del campo el\'ectrico aplicado. En la \'optica convencional o lineal, la polarizaci\'on inducida depende linealmente de la amplitud del campo el\'ectrico; sin embargo, en \'optica no lineal la respuesta se generaliza expresando la polarizaci\'on inducida $P(t)$ como sigue:
  
 \begin{equation}
 \label{que}
@@ -238,7 +238,7 @@ Si se considera un campo incidente de frecuencia $w$ y se analiza la contribuci\
 P_i^{(3)}(\vec{r},w)=3  \epsilon_0 \chi^{(3)}_{ijkl}(-w;w,w,-w)E_j(\vec{r},w)E_k(\vec{r},w) E^{\ast}_l(\vec{r},w)
 \end{equation}
 
-donde $E^{\ast}_l(\vec{r},w)=E_l(\vec{r},-w)$. Si el material es isotr\'opico, es decir, sus propiedades son las mismas en todas direcciones, entonces $i=j=k=l$ y la expresi\'on anterior se escribe como $P^{(3)}(\vec{r},w)=3  \epsilon_0 \chi^{(3)}(-w;w,w,-w)E(\vec{r},w) |E (\vec{r},w)|^2$. As\'i la polarizaci\'on total $P_T(\vec{r},w)$ para este caso en el que hay un campo incidente de frecuencia $w$ se escribe como:
+donde $E^{\ast}_l(\vec{r},w)=E_l(\vec{r},-w)$. Si el material es isotr\'opico, es decir, sus propiedades son las mismas en todas direcciones y asumimos que $i=j=k$, entonces debe observarse que $i=j=k=l$ y la expresi\'on anterior se escribe como $P^{(3)}(\vec{r},w)=3  \epsilon_0 \chi^{(3)}(-w;w,w,-w)E(\vec{r},w) |E (\vec{r},w)|^2$. As\'i la polarizaci\'on total $P_T(\vec{r},w)$ para este caso en el que hay un campo incidente de frecuencia $w$ se escribe como:
 
 \begin{align}
 P_T(\vec{r},w)=\epsilon_0[ \chi^{(1)}+ 3 \chi^{(3)} |E(\vec{r},w)|^2] E(\vec{r},w)\label{pt} 
@@ -262,7 +262,7 @@ Proponiendo la soluci\'on $E_{i}(z,w)=\xi(z)e^{ikz}$ y utilizando la Aproximaci\
 
 en donde $(1+\chi^{(1)}_{ii})(w^2/c^2)=k^2$. 
 
-Si se asume que que $\chi^{(3)}_{iiii}$ es real y se integra la ecuaci\'on \ref{svea} se obtiene como soluci\'on $E(z,w)=\xi_0 e^{i\{ \frac{w}{c}n+  \frac{3}{2}\frac{w}{c}\frac{1}{n} \chi^{(3)}_{iiii} |\xi_0|^2\}z}$ donde se utiliz\'o que $k=\frac{w}{c}n$. En analog\'ia con el r\'egimen lineal se puede apreciar que el \'indice de refracci\'on de fondo o lineal $n$ ahora tiene la contribuci\'on no lineal  $\frac{3}{2}\frac{1}{n} \chi^{(3)}_{iiii} |\xi_0|^2$; por lo que en t\'erminos de intensidad se tiene que el \'indice de refracci\'on total $n_T$ es:
+Si se asume que que $\chi^{(3)}_{iiii}$ es real y se integra la ecuaci\'on \ref{svea} se obtiene como soluci\'on $E(z,w)=\xi_0 e^{i\{ \frac{w}{c}n+  \frac{3}{2}\frac{w}{c}\frac{1}{n} \chi^{(3)}_{iiii} |\xi_0|^2\}z}$ donde se utiliz\'o que $k=\frac{w}{c}n$. En analog\'ia con el r\'egimen lineal se puede apreciar que el \'indice de refracci\'on total $n_T$ , ahora tiene la contribuci\'on no lineal  $\frac{3}{2}\frac{1}{n} \chi^{(3)}_{iiii} |\xi_0|^2$; por lo que en t\'erminos de intensidad se tiene que el \'indice de refracci\'on total $n_T$ es:
 
 \begin{align}
 n_T=n+  n_2 I
@@ -302,24 +302,30 @@ En este proceso, un \'atomo hace una transici\'on del estado base a un estado ex
 %Una aplicaci\'on basada en los efectos de la absorci\'on de dos fotones es un limitador \'optico que no permite el paso de luz si la intensidad es grande, evitando as\'i posibles da\~{n}os en circuitos \'opticos.
 
 
-El efecto de absorci\'on de dos fotones se puede cuantificar introduciendo un par\'ametro conocido como secci\'on transversal de absorci\'on de dos fotones $\sigma^{TPA}$, el cual determina la fuerza del mismo proceso de absorci\'on. 
+El efecto de absorci\'on de dos fotones se puede cuantificar introduciendo un par\'ametro conocido como secci\'on transversal de absorci\'on de dos fotones $\sigma^{TPA}$, el cual determina la magnitud del mismo proceso de absorci\'on. 
 
-De la misma manera que la secci\'on transversal de absorci\'on lineal est\'a relacionada con el coeficiente de absorci\'on lineal, $\beta$ es proporcional a $\sigma^{TPA}$. La ecuaci\'on \ref{porfin} se puede escribir de la siguiente manera:
+De la misma manera que la secci\'on transversal de absorci\'on lineal est\'a relacionada con el coeficiente de absorci\'on lineal, la relaci\'on entre $\beta$ y $\sigma^{TPA}$ es:
+
+\begin{align}
+\beta=N_g \frac{\sigma^{TPA}}{\hbar w}
+\end{align}
+
+donde $N_g$ es el n\'umero de mol\'eculas por volumen en el estado base. As\'i la ecuaci\'on \ref{porfin} se puede escribir de la siguiente manera:
 
 \begin{align}
 \frac{dI}{dz}= -N_g \sigma^{*TPA} I^2= -N_g \frac{\sigma^{TPA}}{\hbar w} I^2
 \end{align}
 
-donde $N_g$ es el n\'umero de mol\'eculas por volumen en el estado base y $\sigma^{*TPA}$ es un coeficiente relacionado con la absorci\'on de dos fotones \cite{rescatetpa}. Las unidades de la secci\'on transversal de absorci\'on de dos fotones $\sigma^{TPA}$ son los G\"oppert- Mayer o [GM] (1GM=$10^{-50} cm^4 s fot\'on^{-1} mol\'ecula^{-1}$) mientras que las unidades de $\sigma^{*TPA}$ son [$longitud^4  mol\'ecula^{-1} potencia^{-1}$].
+donde $\sigma^{*TPA}$ es un coeficiente relacionado con la absorci\'on de dos fotones \cite{rescatetpa}. Las unidades de la secci\'on transversal de absorci\'on de dos fotones $\sigma^{TPA}$ son los G\"oppert- Mayer o [GM] (1GM=$10^{-50} cm^4 s fot\'on^{-1} mol\'ecula^{-1}$) mientras que las unidades de $\sigma^{*TPA}$ son [$longitud^4  mol\'ecula^{-1} potencia^{-1}$].
 
 En t\'erminos del flujo de fotones $f$ teniendo en cuenta que $f=I/\hbar w$ la ecuaci\'on anterior se expresa como: $\frac{df}{dz}= -N_g \sigma^{TPA} f^2 \label{flujo}$. Sin embargo, el t\'ermino $df/dz$ representa la velocidad de atenuaci\'on por la absorci\'on de dos fotones a lo largo de la direcci\'on de propagaci\'on; esto significa que el n\'umero de fotones absorbidos $N(t)$ por unidad de tiempo y volumen es:
  
 \begin{align}
-N(t)= -\frac{df}{dz}=N_g \frac{\sigma^{TPA}}{(\hbar w)^2} I^2
+N(t)= -\frac{df}{dz}=N_g \frac{\sigma^{TPA}}{(\hbar w)^2} I^2=\frac{\beta I^2}{\hbar w}
 \end{align}
 
 
-Hay diversas t\'ecnicas experimentales para determinar $\sigma^{TPA}$, pueden ser t\'ecnicas directas, indirectas y de mezcla de ondas.
+Hay diversas t\'ecnicas experimentales para determinar $\sigma^{TPA}$ o bien $\beta$, pueden ser t\'ecnicas directas, indirectas y de mezcla de ondas.
 
 Los m\'etodos directos se basan en medir la atenuaci\'on de un haz l\'aser al atravesar el medio absorbedor; en los m\'etodos indirectos se mide uno de los efectos inducidos por la absorci\'on de dos fotones y en el mezclado de ondas se utiliza m\'as de un haz, com\'unmente incidiendo en direcciones diferentes en el medio.
 
@@ -331,10 +337,8 @@ Un material que presenta una absorci\'on de dos fotones pasa del estado base al 
 La t\'ecnica indirecta m\'as com\'un, utilizada en este trabajo, se denomina t\'ecnica de emisi\'on inducida por absorci\'on de dos fotones (TPEF por sus siglas en ingl\'es). En esta t\'ecnica se utiliza un haz l\'aser de gran intensidad, generalmente pulsado y enfocado para concentrar la energ\'ia en la muestra, y se mide la se\~{n}al de fluorescencia generada por la absorci\'on de dos fotones; de esta se\~{n}al de fluorescencia se puede determinar la secci\'on transversal de excitaci\'on de dos fotones $\sigma^{TPE}$, la cual es linealmente proporcional a la secci\'on transversal de absorci\'on de dos fotones $\sigma^{TPA}$ \cite{pre_rigo}, o bien:
 
 \begin{align}
-\sigma^{TPE}=\Phi \sigma^{TPA}
+\sigma^{TPE}=\Phi_f \sigma^{TPA}
 \end{align}
-
-donde $\Phi$ es la eficiencia cu\'antica de fluorescencia de la muestra. 
 
 Como se vio en la secci\'on anterior el n\'umero de fotones absorbidos $N(t)$ por mol\'ecula, por unidad de tiempo es proporcional a la secci\'on transversal de absorci\'on de dos fotones y del cuadrado de la intensidad incidente. Sin embargo en un experimento particular, el n\'umero total de fotones absorbidos $N_{abs}(t)$ est\'a en funci\'on tambi\'en de la concentraci\'on $c$ de la muestra y del volumen $V$ iluminado en la misma \cite{maso}:
 
@@ -348,28 +352,28 @@ Adem\'as se suele separar la dependencia temporal y espacial de la intensidad de
  N_{abs}(t)= \sigma^{TPA} c I_0^2(t)\int_V  S^2(\vec{r})dV \label{k}
 \end{align}
 
-Por otra parte, el n\'umero total de fotones absorbidos por unidad de tiempo $N_{abs}(t)$ en un proceso de absorci\'on de dos fotones, est\'a relacionado con el n\'umero de fotones de fluorescencia $F(t)$ detectados en el experimento de la siguiente manera: $F(t)=\frac{1}{2}\eta \Phi N_{abs}(t)$, donde $\eta$ es la eficiencia de colecci\'on de fluorescencia del sistema experimental. N\'otese que el factor de $1/2$ refleja el hecho de que dos fotones son necesarios en cada evento de excitaci\'on.
+Por otra parte, el n\'umero total de fotones absorbidos por unidad de tiempo $N_{abs}(t)$ en un proceso de absorci\'on de dos fotones, est\'a relacionado con el n\'umero de fotones de fluorescencia $F(t)$ detectados en el experimento de la siguiente manera: $F(t)=\frac{1}{2}\eta \Phi_f N_{abs}(t)$, donde $\eta$ es la eficiencia de colecci\'on de fluorescencia del sistema experimental. N\'otese que el factor de $1/2$ refleja el hecho de que dos fotones son necesarios en cada evento de excitaci\'on.
 
 Sin embargo, en la pr\'actica solo el promedio temporal del flujo de fotones emitidos $\langle F(t)\rangle$ es medido, es decir: 
 
 \begin{align}
-\langle F(t)\rangle=1/2 \eta \Phi c \sigma^{TPA} \langle I_0^2(t)\rangle \int_V dV S^2(\vec{r})
+\langle F(t)\rangle=\frac{1}{2} \eta \Phi_f c \sigma^{TPA} \langle I_0^2(t)\rangle \int_V dV S^2(\vec{r})
 \end{align}
 
 donde se utiliz\'o el valor de $N_{abs}(t)$ de la ecuaci\'on \ref{k}. Como la mayor\'ia de los detectores entregan solo la se\~{n}al proporcional a $\langle I_0(t)\rangle$ se introduce el par\'ametro $g=\langle I_0^2(t)\rangle/\langle I_0(t)\rangle^2$ o grado de coherencia temporal de segundo orden\footnote{El grado de coherencia temporal de segundo orden se refiere a las fluctuaciones temporales del flujo de fotones incidentes}, de tal manera que la ecuaci\'on anterior se escribe como.
 
 \begin{align}
-\langle F(t)\rangle=1/2 g \eta \Phi c \sigma^{TPA} \langle I_0(t)\rangle^2 \int_V dV S^2(\vec{r})  \label{yacasi}
+\langle F(t)\rangle= \frac{1}{2} g \eta \Phi_f c \sigma^{TPA} \langle I_0(t)\rangle^2 \int_V dV S^2(\vec{r})  \label{yacasi}
 \end{align}
 
-De lo anterior es posible notar que la determinaci\'on experimental de $\sigma^{TPA}$ implica la caracterizaci\'on de cuatro par\'ametros: la disribuci\'on espacial de la luz incidente, el grado de coherencia temporal de segundo orden $g$, la eficiencia de colecci\'on de luz $\eta$ y la eficiencia cu\'antica de fluorescencia de la muestra $\Phi$ \cite{maso}.
+De lo anterior es posible notar que la determinaci\'on experimental de $\sigma^{TPA}$ implica la caracterizaci\'on de cuatro par\'ametros: la disribuci\'on espacial de la luz incidente, el grado de coherencia temporal de segundo orden $g$, la eficiencia de colecci\'on de luz $\eta$ y la eficiencia cu\'antica de fluorescencia de la muestra $\Phi_f$ \cite{maso}.
 
 La dependencia espacial de la ecuaci\'on \ref{yacasi} se resuelve considerando una distribuci\'on de intensidad en el volumen focal limitado por la difracci\'on de una apertura, en este caso una lente; definiendo las intensidades de los pulsos como intensidades instant\'aneas promediadas con respecto a la duraci\'on del pulso y utilizando m\'etodos num\'ericos para encontrar la soluci\'on de la integral. Para la dependencia temporal se considera un l\'aser pulsado como haz de excitaci\'on siendo $I_0(t)$ una funci\'on peri\'odica en el tiempo; se considera una excitaci\'on pulsada porque en este trabajo se determin\'o experimentalmente $\sigma^{TPA}$ utilizando un l\'aser de femtosegundos.
 
 Por la naturaleza peri\'odica del tren de pulsos es necesario calcular $g$ solo para un ciclo, para eso se introduce la cantidad adimensional $g_p$ que cumple la relaci\'on $g=g_p/(f \tau)$; donde $f$ es la frecuencia de repetici\'on del haz y $\tau$ es el ancho temporal a media altura del pulso o FWHM por sus siglas en ingl\'es \cite{maso}. Asumiendo entonces una fuente de excitaci\'on pulsada, el promedio temporal de la fluorescencia detectada se puede escribir como:
 
 \begin{align}
-\langle F(t)\rangle \approx1/2 \eta \Phi c \sigma^{TPA} \frac{g_p}{f \tau}     \frac{8n\langle P(t)\rangle^2}{\pi \lambda}     
+\langle F(t)\rangle \approx  \frac{1}{2}  \eta \Phi_f c \sigma^{TPA} \frac{g_p}{f \tau}     \frac{8n\langle P(t)\rangle^2}{\pi \lambda}     
 \end{align}
 
 donde $n$ es el indice de refracci\'on, $\langle P(t)\rangle$ es el promedio temporal de la potencia incidente y $\lambda$ es la longitud de onda del haz de excitaci\'on.
@@ -378,20 +382,20 @@ La fluorescencia depende fuertemente de la coherencia temporal del pulso de exci
 
 
 \begin{align}
-\frac{\langle F(t)\rangle_{ref} }{\langle F(t)\rangle } =  \frac{\eta_{ref} \Phi_{ref} c_{ref} \sigma^{TPA}_{ref} \langle P(t)\rangle_{ref}^2 n_{ref}}{\eta \Phi c \sigma^{TPA} \langle P(t)\rangle^2 n}  
+\frac{\langle F(t)\rangle_{ref} }{\langle F(t)\rangle } =  \frac{\eta_{ref} \Phi_{f_{ref}} c_{ref} \sigma^{TPA}_{ref} \langle P(t)\rangle_{ref}^2 n_{ref}}{\eta \Phi_f c \sigma^{TPA} \langle P(t)\rangle^2 n}  
 \end{align}
 
 donde los sub\'indices $ref$ indican los par\'ametros de la muestra de referencia mientras que los par\'ametros sin sub\'indice pertenecen a la muestra de inter\'es. Despejando $\sigma^{TPA}$ de la igualdad anterior se obtiene finalmente:
 
 \begin{align}
- \sigma^{TPA}=  \frac{\eta_{ref} \Phi_{ref} c_{ref} \sigma^{TPA}_{ref} \langle P(t)\rangle_{ref}^2 n_{ref} \langle F(t)\rangle   }{\eta \Phi c \langle P(t)\rangle^2 n    \langle F(t)\rangle_{ref} }\label{finalsigma}  
+ \sigma^{TPA}=  \frac{\eta_{ref} \Phi_{f_{ref}} c_{ref} \sigma^{TPA}_{ref} \langle P(t)\rangle_{ref}^2 n_{ref} \langle F(t)\rangle   }{\eta \Phi_f c \langle P(t)\rangle^2 n    \langle F(t)\rangle_{ref} }\label{finalsigma}  
 \end{align}
 
 
 
 \subsection{Transferencia de Energ\'ia de Resonancia F\"orster (FRET)}
 
-En esta modalidad, la energ\'ia es transferida mediante un proceso no radiativo entre una mol\'ecula donadora y una mol\'ecula aceptora en resonancia. La mol\'ecula donadora es excitada por un haz de luz y la energ\'ia de excitaci\'on es transferida a la mol\'ecula aceptora; simult\'aneamente la mol\'ecula donadora vuelve a su estado base. El mecanismo de esta transferencia de energ\'ia de resonancia involucra interacciones d\'ebiles de tipo diolo--dipolo, las cuales se dan en estado l\'iquido y cuando la distancia entre la mol\'ecula donadora y aceptora es mucho mayor que sus dimensiones.
+En esta modalidad, la energ\'ia es transferida mediante un proceso no radiativo entre una mol\'ecula donadora y una mol\'ecula aceptora en resonancia. La mol\'ecula donadora es excitada por un haz de luz y la energ\'ia de excitaci\'on es transferida a la mol\'ecula aceptora; simult\'aneamente la mol\'ecula donadora vuelve a su estado base. El mecanismo de esta transferencia de energ\'ia de resonancia involucra interacciones d\'ebiles de tipo diolo--dipolo, las cuales se dan cuando la distancia entre la mol\'ecula donadora y aceptora es mucho mayor que sus dimensiones.
 
 Para dos mol\'eculas poliat\'omicas en soluci\'on, una mol\'ecula donadora y otra aceptora, el espectro de absorci\'on de la mol\'ecula aceptora debe traslaparse con el espectro de emisi\'on de la mol\'ecula donadora (Ver Figura \ref{fretito}).
 

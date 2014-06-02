@@ -22,7 +22,7 @@
     pdfsubject={A very modular LaTeX template that is appropriate for a masters or doctoral thesis.},
     pdfkeywords={masters} {doctoral} {phd} {thesis} {dissertation} {latex}}
   
-\usepackage[lmargin=1.95in,rmargin=1.4in]{geometry}    
+\usepackage[lmargin=1.8in,rmargin=1.4in]{geometry}    
 \usepackage[T1]{fontenc}% T1 font encoding for special characters.
 \usepackage{lmodern}% Better Latin Modern font.
 \usepackage[spanish,activeacute]{babel}
@@ -30,15 +30,19 @@
 \usepackage[latin1]{inputenc}
 \usepackage{layout}
 \usepackage{caption}
+\usepackage{float}
 \usepackage{subcaption}
 %\usepackage{draftwatermark}% Add watermark to background
 %\SetWatermarkText{DRAFT}
 %\SetWatermarkScale{2}
 %\SetWatermarkLightness{0.87}
+
+\addto\captionsspanish{%
+  \renewcommand{\tablename}{Tabla}%
+}
+
 %\SetWatermarkFontSize{2cm}
-
 %\usepackage{showkeys}% Shows all \label values for quick troubleshooting
-
 %\includeonly{}% Select individual chapters for quicker drafts
 %\addtolength{\voffset}{-0.96cm} 
 %\addtolength{\hoffset}{0.9cm}
@@ -51,8 +55,8 @@
 
 \frontmatter
 
-\include{content/front/titlepage_cio}   %% esta es la portada de la ug
-%\include{content/front/cioCIO} %esta es del cio ug
+%%%%%%%%%%%%%%%%%%\include{content/front/titlepage_cio}   %% esta es la portada de la ug
+\include{content/front/cioCIO} %esta es del cio ug
 %\include{content/front/copyright}
 %\include{content/front/signature_page}
 %\include{content/front/epigraph}

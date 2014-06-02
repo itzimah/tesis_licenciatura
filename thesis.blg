@@ -1,11 +1,12 @@
 This is BibTeX, Version 0.99d (TeX Live 2010)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: thesis.aux
-A level-1 auxiliary file: content/front/titlepage_cio.aux
+A level-1 auxiliary file: content/front/cioCIO.aux
 A level-1 auxiliary file: content/front/abstract.aux
 A level-1 auxiliary file: content/main/introduction.aux
 A level-1 auxiliary file: content/main/capitulo2.aux
 A level-1 auxiliary file: content/main/capitulo3.aux
+A level-1 auxiliary file: content/main/resultados.aux
 A level-1 auxiliary file: content/back/bibliography.aux
 The style file: unsrt.bst
 Database file #1: base/thesis.bib
@@ -80,45 +81,57 @@ Too many commas in name 1 of "Y. S. Zhao, H. Fu, A. Peng, Y. Ma, D. Xiao, J. Yao
 while executing---line 944 of file unsrt.bst
 Too many commas in name 1 of "Y. S. Zhao, H. Fu, A. Peng, Y. Ma, D. Xiao, J. Yao" for entry coloidal
 while executing---line 944 of file unsrt.bst
-You've used 22 entries,
+Too many commas in name 1 of "A. Gutacker, S. Adamczyk, A. Helfer, L. E. Garner, R. C. Evans, S. M. Fonseca, M. Knaapila, G. C. Bazan, H. D. Burrowsd and U. Scherf" for entry scherf
+while executing---line 944 of file unsrt.bst
+Too many commas in name 1 of "A. Gutacker, S. Adamczyk, A. Helfer, L. E. Garner, R. C. Evans, S. M. Fonseca, M. Knaapila, G. C. Bazan, H. D. Burrowsd and U. Scherf" for entry scherf
+while executing---line 944 of file unsrt.bst
+Too many commas in name 1 of "A. Gutacker, S. Adamczyk, A. Helfer, L. E. Garner, R. C. Evans, S. M. Fonseca, M. Knaapila, G. C. Bazan, H. D. Burrowsd and U. Scherf" for entry scherf
+while executing---line 944 of file unsrt.bst
+Too many commas in name 1 of "A. Gutacker, S. Adamczyk, A. Helfer, L. E. Garner, R. C. Evans, S. M. Fonseca, M. Knaapila, G. C. Bazan, H. D. Burrowsd and U. Scherf" for entry scherf
+while executing---line 944 of file unsrt.bst
+Too many commas in name 1 of "A. Gutacker, S. Adamczyk, A. Helfer, L. E. Garner, R. C. Evans, S. M. Fonseca, M. Knaapila, G. C. Bazan, H. D. Burrowsd and U. Scherf" for entry scherf
+while executing---line 944 of file unsrt.bst
+Too many commas in name 1 of "A. Gutacker, S. Adamczyk, A. Helfer, L. E. Garner, R. C. Evans, S. M. Fonseca, M. Knaapila, G. C. Bazan, H. D. Burrowsd and U. Scherf" for entry scherf
+while executing---line 944 of file unsrt.bst
+You've used 23 entries,
             1791 wiz_defined-function locations,
-            577 strings with 7387 characters,
-and the built_in function-call counts, 4216 in all, are:
-= -- 406
-> -- 112
+            583 strings with 7635 characters,
+and the built_in function-call counts, 4469 in all, are:
+= -- 432
+> -- 120
 < -- 2
-+ -- 50
-- -- 28
-* -- 222
-:= -- 681
-add.period$ -- 66
-call.type$ -- 22
-change.case$ -- 18
++ -- 53
+- -- 30
+* -- 240
+:= -- 720
+add.period$ -- 69
+call.type$ -- 23
+change.case$ -- 19
 chr.to.int$ -- 0
-cite$ -- 25
-duplicate$ -- 207
-empty$ -- 443
-format.name$ -- 28
-if$ -- 934
+cite$ -- 26
+duplicate$ -- 216
+empty$ -- 468
+format.name$ -- 30
+if$ -- 989
 int.to.chr$ -- 0
-int.to.str$ -- 22
-missing$ -- 25
-newline$ -- 113
-num.names$ -- 22
-pop$ -- 60
+int.to.str$ -- 23
+missing$ -- 26
+newline$ -- 118
+num.names$ -- 23
+pop$ -- 61
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 82
+skip$ -- 86
 stack$ -- 0
-substring$ -- 304
-swap$ -- 34
+substring$ -- 335
+swap$ -- 35
 text.length$ -- 2
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
 warning$ -- 3
-while$ -- 45
-width$ -- 24
-write$ -- 235
-(There were 31 error messages)
+while$ -- 48
+width$ -- 25
+write$ -- 246
+(There were 37 error messages)
