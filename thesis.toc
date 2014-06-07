@@ -21,17 +21,17 @@
 \contentsline {chapter}{\numberline {3}Desarrollo Experimental}{30}{chapter.3}
 \contentsline {section}{\numberline {3.1}Metodolog\'ia: Descripci\'on de caracterizaci\'on \'optica}{30}{section.3.1}
 \contentsline {section}{\numberline {3.2}Materiales y reactivos}{31}{section.3.2}
-\contentsline {section}{\numberline {3.3}Fabricaci\'on de nanopart\'iculas por el m\'etodo de reprecipitaci\'on}{34}{section.3.3}
-\contentsline {subsection}{\numberline {3.3.1}Recubrimiento de nanopart\'iculas con PEG}{35}{subsection.3.3.1}
+\contentsline {section}{\numberline {3.3}Fabricaci\'on de nanopart\'iculas por el m\'etodo de reprecipitaci\'on}{35}{section.3.3}
+\contentsline {subsection}{\numberline {3.3.1}Recubrimiento de nanopart\'iculas con PEG}{36}{subsection.3.3.1}
 \contentsline {section}{\numberline {3.4}Espectros de absorci\'on y emisi\'on lineal}{36}{section.3.4}
 \contentsline {section}{\numberline {3.5}Medici\'on de eficiencia cu\'antica de fluorescencia}{37}{section.3.5}
 \contentsline {section}{\numberline {3.6}Medici\'on de $\sigma ^{TPA}$ de 740 a 840 nm}{39}{section.3.6}
-\contentsline {section}{\numberline {3.7}Medici\'on de $\sigma ^{TPA}$ de 650 a 760 nm}{40}{section.3.7}
-\contentsline {section}{\numberline {3.8}Fotoestabilidad de las nanopart\'iculas}{42}{section.3.8}
-\contentsline {section}{\numberline {3.9}Internalizaci\'on de nanopart\'iculas en l\'ineas celulares X}{42}{section.3.9}
-\contentsline {chapter}{\numberline {4}Resultados}{43}{chapter.4}
-\contentsline {section}{\numberline {4.1}Propiedades \'opticas de algunas mol\'eculas $\pi $ conjugadas}{43}{section.4.1}
-\contentsline {section}{\numberline {4.2}Copol\'imero PF2/6-b-P3TMAHT}{48}{section.4.2}
-\contentsline {section}{\numberline {4.3}Comparaci\'on de propiedades \'opticas entre sistemas moleculares dipolar, cuadrupolar y octopolar}{52}{section.4.3}
-\contentsline {section}{\numberline {4.4}Nanopart\'iculas del pol\'imero PMC300}{58}{section.4.4}
-\contentsline {chapter}{Bibliograf\'{\i }a}{61}{appendix*.49}
+\contentsline {section}{\numberline {3.7}Medici\'on de $\sigma ^{TPA}$ de 650 a 760 nm}{41}{section.3.7}
+\contentsline {section}{\numberline {3.8}Fotoestabilidad de las nanopart\'iculas}{43}{section.3.8}
+\contentsline {section}{\numberline {3.9}Internalizaci\'on de nanopart\'iculas en l\'ineas celulares X}{43}{section.3.9}
+\contentsline {chapter}{\numberline {4}Resultados}{44}{chapter.4}
+\contentsline {section}{\numberline {4.1}Propiedades \'opticas de algunas mol\'eculas $\pi $ conjugadas}{44}{section.4.1}
+\contentsline {section}{\numberline {4.2}Copol\'imero PF2/6-b-P3TMAHT}{49}{section.4.2}
+\contentsline {section}{\numberline {4.3}Comparaci\'on de propiedades \'opticas entre sistemas moleculares dipolar, cuadrupolar y octopolar}{53}{section.4.3}
+\contentsline {section}{\numberline {4.4}Nanopart\'iculas del pol\'imero PMC300}{61}{section.4.4}
+\contentsline {chapter}{Bibliograf\'{\i }a}{63}{appendix*.50}

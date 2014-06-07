@@ -1,4 +1,4 @@
-This is BibTeX, Version 0.99d (TeX Live 2010)
+This is BibTeX, Version 0.99d (TeX Live 2013)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: thesis.aux
 A level-1 auxiliary file: content/front/cioCIO.aux
@@ -81,7 +81,7 @@ Too many commas in name 1 of "Y. S. Zhao, H. Fu, A. Peng, Y. Ma, D. Xiao, J. Yao
 while executing---line 944 of file unsrt.bst
 Too many commas in name 1 of "Y. S. Zhao, H. Fu, A. Peng, Y. Ma, D. Xiao, J. Yao" for entry coloidal
 while executing---line 944 of file unsrt.bst
-Too many commas in name 1 of "A. Gutacker, S. Adamczyk, A. Helfer, L. E. Garner, R. C. Evans, S. M. Fonseca, M. Knaapila, G. C. Bazan, H. D. Burrowsd and U. Scherf" for entry scherf
+Name 1 in "N. S. Makarov, M. Drobizhev, and A. Rebane" has a comma at the end for entry rusitos
 while executing---line 944 of file unsrt.bst
 Too many commas in name 1 of "A. Gutacker, S. Adamczyk, A. Helfer, L. E. Garner, R. C. Evans, S. M. Fonseca, M. Knaapila, G. C. Bazan, H. D. Burrowsd and U. Scherf" for entry scherf
 while executing---line 944 of file unsrt.bst
@@ -93,45 +93,61 @@ Too many commas in name 1 of "A. Gutacker, S. Adamczyk, A. Helfer, L. E. Garner,
 while executing---line 944 of file unsrt.bst
 Too many commas in name 1 of "A. Gutacker, S. Adamczyk, A. Helfer, L. E. Garner, R. C. Evans, S. M. Fonseca, M. Knaapila, G. C. Bazan, H. D. Burrowsd and U. Scherf" for entry scherf
 while executing---line 944 of file unsrt.bst
-You've used 23 entries,
+Too many commas in name 1 of "A. Gutacker, S. Adamczyk, A. Helfer, L. E. Garner, R. C. Evans, S. M. Fonseca, M. Knaapila, G. C. Bazan, H. D. Burrowsd and U. Scherf" for entry scherf
+while executing---line 944 of file unsrt.bst
+Too many commas in name 1 of "L. Aparicio-Ixta, G. Ramos-Ortiz, J. L. Pichardo-Molina, J. Luis Maldonado, M. Rodr\'iguez, V. M. Tellez-Lopez, D. Martinez-Fong, M. G. Zolotukhin, S. Fomine, M. A. Meneses-Nava and O. Barbosa-Garc\'ia" for entry laurita
+while executing---line 944 of file unsrt.bst
+Too many commas in name 1 of "L. Aparicio-Ixta, G. Ramos-Ortiz, J. L. Pichardo-Molina, J. Luis Maldonado, M. Rodr\'iguez, V. M. Tellez-Lopez, D. Martinez-Fong, M. G. Zolotukhin, S. Fomine, M. A. Meneses-Nava and O. Barbosa-Garc\'ia" for entry laurita
+while executing---line 944 of file unsrt.bst
+Too many commas in name 1 of "L. Aparicio-Ixta, G. Ramos-Ortiz, J. L. Pichardo-Molina, J. Luis Maldonado, M. Rodr\'iguez, V. M. Tellez-Lopez, D. Martinez-Fong, M. G. Zolotukhin, S. Fomine, M. A. Meneses-Nava and O. Barbosa-Garc\'ia" for entry laurita
+while executing---line 944 of file unsrt.bst
+Too many commas in name 1 of "L. Aparicio-Ixta, G. Ramos-Ortiz, J. L. Pichardo-Molina, J. Luis Maldonado, M. Rodr\'iguez, V. M. Tellez-Lopez, D. Martinez-Fong, M. G. Zolotukhin, S. Fomine, M. A. Meneses-Nava and O. Barbosa-Garc\'ia" for entry laurita
+while executing---line 944 of file unsrt.bst
+Too many commas in name 1 of "L. Aparicio-Ixta, G. Ramos-Ortiz, J. L. Pichardo-Molina, J. Luis Maldonado, M. Rodr\'iguez, V. M. Tellez-Lopez, D. Martinez-Fong, M. G. Zolotukhin, S. Fomine, M. A. Meneses-Nava and O. Barbosa-Garc\'ia" for entry laurita
+while executing---line 944 of file unsrt.bst
+Too many commas in name 1 of "L. Aparicio-Ixta, G. Ramos-Ortiz, J. L. Pichardo-Molina, J. Luis Maldonado, M. Rodr\'iguez, V. M. Tellez-Lopez, D. Martinez-Fong, M. G. Zolotukhin, S. Fomine, M. A. Meneses-Nava and O. Barbosa-Garc\'ia" for entry laurita
+while executing---line 944 of file unsrt.bst
+Too many commas in name 1 of "L. Aparicio-Ixta, G. Ramos-Ortiz, J. L. Pichardo-Molina, J. Luis Maldonado, M. Rodr\'iguez, V. M. Tellez-Lopez, D. Martinez-Fong, M. G. Zolotukhin, S. Fomine, M. A. Meneses-Nava and O. Barbosa-Garc\'ia" for entry laurita
+while executing---line 944 of file unsrt.bst
+You've used 25 entries,
             1791 wiz_defined-function locations,
-            583 strings with 7635 characters,
-and the built_in function-call counts, 4469 in all, are:
-= -- 432
-> -- 120
+            594 strings with 8199 characters,
+and the built_in function-call counts, 4975 in all, are:
+= -- 484
+> -- 136
 < -- 2
-+ -- 53
-- -- 30
-* -- 240
-:= -- 720
-add.period$ -- 69
-call.type$ -- 23
-change.case$ -- 19
++ -- 59
+- -- 34
+* -- 276
+:= -- 798
+add.period$ -- 75
+call.type$ -- 25
+change.case$ -- 21
 chr.to.int$ -- 0
-cite$ -- 26
-duplicate$ -- 216
-empty$ -- 468
-format.name$ -- 30
-if$ -- 989
+cite$ -- 28
+duplicate$ -- 234
+empty$ -- 518
+format.name$ -- 34
+if$ -- 1099
 int.to.chr$ -- 0
-int.to.str$ -- 23
-missing$ -- 26
-newline$ -- 118
-num.names$ -- 23
-pop$ -- 61
+int.to.str$ -- 25
+missing$ -- 28
+newline$ -- 128
+num.names$ -- 25
+pop$ -- 63
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 86
+skip$ -- 94
 stack$ -- 0
-substring$ -- 335
-swap$ -- 35
+substring$ -- 397
+swap$ -- 37
 text.length$ -- 2
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
 warning$ -- 3
-while$ -- 48
-width$ -- 25
-write$ -- 246
-(There were 37 error messages)
+while$ -- 54
+width$ -- 27
+write$ -- 268
+(There were 45 error messages)

@@ -1,24 +1,14 @@
-This is pdfTeX, Version 3.1415926-1.40.11 (TeX Live 2010) (format=pdflatex 2010.7.21)  2 JUN 2014 15:26
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2014.4.4)  7 JUN 2014 18:46
 entering extended mode
- \write18 enabled.
- file:line:error style messages enabled.
+ restricted \write18 enabled.
  %&-line parsing enabled.
-**thesis.tex
+**thesis.tex -recorder
 (./thesis.tex
-LaTeX2e <2009/09/24>
-Babel <v3.8l> and hyphenation patterns for english, dumylang, nohyphenation, ge
-rman-x-2009-06-19, ngerman-x-2009-06-19, ancientgreek, ibycus, arabic, armenian
-, basque, bulgarian, catalan, pinyin, coptic, croatian, czech, danish, dutch, u
-kenglish, usenglishmax, esperanto, estonian, farsi, finnish, french, galician, 
-german, ngerman, swissgerman, monogreek, greek, hungarian, icelandic, assamese,
- bengali, gujarati, hindi, kannada, malayalam, marathi, oriya, panjabi, tamil, 
-telugu, indonesian, interlingua, irish, italian, kurmanji, lao, latin, latvian,
- lithuanian, mongolian, mongolianlmc, bokmal, nynorsk, polish, portuguese, roma
-nian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, turkish,
- turkmen, ukrainian, uppersorbian, welsh, loaded.
-(/usr/local/texlive/2010/texmf-dist/tex/latex/base/book.cls
+LaTeX2e <2011/06/27>
+Babel <3.9k> and hyphenation patterns for 78 languages loaded.
+(/usr/local/texlive/2013/texmf-dist/tex/latex/base/book.cls
 Document Class: book 2007/10/19 v1.4h Standard LaTeX document class
-(/usr/local/texlive/2010/texmf-dist/tex/latex/base/bk11.clo
+(/usr/local/texlive/2013/texmf-dist/tex/latex/base/bk11.clo
 File: bk11.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count79
@@ -35,51 +25,51 @@ File: bk11.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 \bibindent=\dimen102
 )
 (./base/definitions.tex
-(/usr/local/texlive/2010/texmf-dist/tex/latex/xmpincl/xmpincl.sty
+(/usr/local/texlive/2013/texmf-dist/tex/latex/xmpincl/xmpincl.sty
 Package: xmpincl 2008/05/10 v2.2 Include XMP data in pdflatex
 
-(/usr/local/texlive/2010/texmf-dist/tex/generic/oberdiek/ifpdf.sty
-Package: ifpdf 2010/01/28 v2.1 Provides the ifpdf switch (HO)
-Package ifpdf Info: pdfTeX in pdf mode detected.
+(/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
 )
-(/usr/local/texlive/2010/texmf-dist/tex/latex/base/ifthen.sty
+(/usr/local/texlive/2013/texmf-dist/tex/latex/base/ifthen.sty
 Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
 ))
-(/usr/local/texlive/2010/texmf-dist/tex/latex/amsmath/amsmath.sty
-Package: amsmath 2000/07/18 v2.13 AMS math features
+(/usr/local/texlive/2013/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2013/01/14 v2.14 AMS math features
 \@mathmargin=\skip43
 
 For additional information on amsmath, use the `?' option.
-(/usr/local/texlive/2010/texmf-dist/tex/latex/amsmath/amstext.sty
+(/usr/local/texlive/2013/texmf-dist/tex/latex/amsmath/amstext.sty
 Package: amstext 2000/06/29 v2.01
 
-(/usr/local/texlive/2010/texmf-dist/tex/latex/amsmath/amsgen.sty
+(/usr/local/texlive/2013/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0
 \@emptytoks=\toks14
 \ex@=\dimen103
 ))
-(/usr/local/texlive/2010/texmf-dist/tex/latex/amsmath/amsbsy.sty
+(/usr/local/texlive/2013/texmf-dist/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d
 \pmbraise@=\dimen104
 )
-(/usr/local/texlive/2010/texmf-dist/tex/latex/amsmath/amsopn.sty
+(/usr/local/texlive/2013/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 1999/12/14 v2.01 operator names
 )
 \inf@bad=\count88
-LaTeX Info: Redefining \frac on input line 211.
+LaTeX Info: Redefining \frac on input line 210.
 \uproot@=\count89
 \leftroot@=\count90
-LaTeX Info: Redefining \overline on input line 307.
+LaTeX Info: Redefining \overline on input line 306.
 \classnum@=\count91
 \DOTSCASE@=\count92
-LaTeX Info: Redefining \ldots on input line 379.
-LaTeX Info: Redefining \dots on input line 382.
-LaTeX Info: Redefining \cdots on input line 467.
+LaTeX Info: Redefining \ldots on input line 378.
+LaTeX Info: Redefining \dots on input line 381.
+LaTeX Info: Redefining \cdots on input line 466.
 \Mathstrutbox@=\box26
 \strutbox@=\box27
 \big@size=\dimen105
-LaTeX Font Info:    Redeclaring font encoding OML on input line 567.
-LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
+LaTeX Font Info:    Redeclaring font encoding OML on input line 566.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
 \macc@depth=\count93
 \c@MaxMatrixCols=\count94
 \dotsspace@=\muskip10
@@ -100,23 +90,23 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
 \multlinegap=\skip44
 \multlinetaggap=\skip45
 \mathdisplay@stack=\toks18
-LaTeX Info: Redefining \[ on input line 2666.
-LaTeX Info: Redefining \] on input line 2667.
+LaTeX Info: Redefining \[ on input line 2665.
+LaTeX Info: Redefining \] on input line 2666.
 )
-(/usr/local/texlive/2010/texmf-dist/tex/latex/amsfonts/amssymb.sty
-Package: amssymb 2009/06/22 v3.00
+(/usr/local/texlive/2013/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
 
-(/usr/local/texlive/2010/texmf-dist/tex/latex/amsfonts/amsfonts.sty
-Package: amsfonts 2009/06/22 v3.00 Basic AMSFonts support
+(/usr/local/texlive/2013/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \symAMSa=\mathgroup4
 \symAMSb=\mathgroup5
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
-(Font)                  U/euf/m/n --> U/euf/b/n on input line 96.
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
 ))
-(/usr/local/texlive/2010/texmf-dist/tex/latex/ltxmisc/parskip.sty
+(/usr/local/texlive/2013/texmf-dist/tex/latex/parskip/parskip.sty
 Package: parskip 2001/04/09 non-zero parskip adjustments
 )
-(/usr/local/texlive/2010/texmf-dist/tex/latex/float/float.sty
+(/usr/local/texlive/2013/texmf-dist/tex/latex/float/float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \c@float@type=\count100
 \float@exts=\toks19
@@ -124,7 +114,7 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \@float@everytoks=\toks20
 \@floatcapt=\box29
 )
-(/usr/local/texlive/2010/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+(/usr/local/texlive/2013/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
 \fancy@headwidth=\skip46
 \f@ncyO@elh=\skip47
 \f@ncyO@erh=\skip48
@@ -135,175 +125,166 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \f@ncyO@olf=\skip53
 \f@ncyO@orf=\skip54
 )
-(/usr/local/texlive/2010/texmf-dist/tex/latex/graphics/graphicx.sty
+(/usr/local/texlive/2013/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
 
-(/usr/local/texlive/2010/texmf-dist/tex/latex/graphics/keyval.sty
+(/usr/local/texlive/2013/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
 \KV@toks@=\toks21
 )
-(/usr/local/texlive/2010/texmf-dist/tex/latex/graphics/graphics.sty
+(/usr/local/texlive/2013/texmf-dist/tex/latex/graphics/graphics.sty
 Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
 
-(/usr/local/texlive/2010/texmf-dist/tex/latex/graphics/trig.sty
+(/usr/local/texlive/2013/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
 )
-(/usr/local/texlive/2010/texmf-dist/tex/latex/latexconfig/graphics.cfg
+(/usr/local/texlive/2013/texmf-dist/tex/latex/latexconfig/graphics.cfg
 File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
 )
 Package graphics Info: Driver file: pdftex.def on input line 91.
 
-(/usr/local/texlive/2010/texmf-dist/tex/latex/pdftex-def/pdftex.def
-File: pdftex.def 2010/02/14 v0.04n Graphics/color for pdfTeX
+(/usr/local/texlive/2013/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+(/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
 \Gread@gobject=\count101
 ))
 \Gin@req@height=\dimen112
 \Gin@req@width=\dimen113
 )
-(/usr/local/texlive/2010/texmf-dist/tex/latex/graphics/color.sty
+(/usr/local/texlive/2013/texmf-dist/tex/latex/graphics/color.sty
 Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
 
-(/usr/local/texlive/2010/texmf-dist/tex/latex/latexconfig/color.cfg
+(/usr/local/texlive/2013/texmf-dist/tex/latex/latexconfig/color.cfg
 File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
 )
 Package color Info: Driver file: pdftex.def on input line 130.
 )
-(/usr/local/texlive/2010/texmf-dist/tex/latex/hyperref/hyperref.sty
-Package: hyperref 2010/06/18 v6.81g Hypertext links for LaTeX
+(/usr/local/texlive/2013/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2012/11/06 v6.83m Hypertext links for LaTeX
 
-(/usr/local/texlive/2010/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
-Package: ltxcmds 2010/04/26 v1.7 LaTeX kernel commands for general use (HO)
-)
-(/usr/local/texlive/2010/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
-Package: kvsetkeys 2010/03/01 v1.9 Key value parser (HO)
+(/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+Package: hobsub-hyperref 2012/05/28 v1.13 Bundle oberdiek, subset hyperref (HO)
 
-(/usr/local/texlive/2010/texmf-dist/tex/generic/oberdiek/infwarerr.sty
-Package: infwarerr 2010/04/08 v1.3 Providing info/warning/message (HO)
-)
-(/usr/local/texlive/2010/texmf-dist/tex/generic/oberdiek/etexcmds.sty
-Package: etexcmds 2010/01/28 v1.3 Prefix for e-TeX command names (HO)
+
+(/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
+Package: hobsub-generic 2012/05/28 v1.13 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2012/05/28 v1.13 Construct package bundles (HO)
+Package hobsub Info: Skipping package `infwarerr' (already loaded).
+Package hobsub Info: Skipping package `ltxcmds' (already loaded).
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+Package: intcalc 2007/09/27 v1.1 Expandable calculations with integers (HO)
+Package hobsub Info: Skipping package `ifpdf' (already loaded).
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
 Package etexcmds Info: Could not find \expanded.
 (etexcmds)             That can mean that you are not using pdfTeX 1.50 or
 (etexcmds)             that some package has redefined \expanded.
 (etexcmds)             In the latter case, load this package earlier.
-))
-(/usr/local/texlive/2010/texmf-dist/tex/generic/oberdiek/pdfescape.sty
-Package: pdfescape 2010/03/01 v1.9 Provides hex, PDF name and string conversion
-s (HO)
-
-(/usr/local/texlive/2010/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
-Package: pdftexcmds 2010/04/01 v0.9 Utility functions of pdfTeX for LuaTeX (HO)
-
-
-(/usr/local/texlive/2010/texmf-dist/tex/generic/oberdiek/ifluatex.sty
-Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
-Package ifluatex Info: LuaTeX not detected.
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
 )
 Package pdftexcmds Info: LuaTeX not detected.
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
-))
-(/usr/local/texlive/2010/texmf-dist/tex/generic/oberdiek/ifvtex.sty
-Package: ifvtex 2010/03/01 v1.5 Switches for detecting VTeX and its modes (HO)
-Package ifvtex Info: VTeX not detected.
+Package pdftexcmds Info: \pdfdraftmode found.
+Package: pdfescape 2011/11/25 v1.13 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2012/04/08 v1.3 Expandable calculations on big integers (HO
 )
-(/usr/local/texlive/2010/texmf-dist/tex/generic/ifxetex/ifxetex.sty
-Package: ifxetex 2009/01/23 v0.5 Provides ifxetex conditional
+Package: bitset 2011/01/30 v1.1 Handle bit-vector datatype (HO)
+Package: uniquecounter 2011/01/30 v1.2 Provide unlimited unique counter (HO)
 )
-(/usr/local/texlive/2010/texmf-dist/tex/latex/oberdiek/hycolor.sty
-Package: hycolor 2009/12/12 v1.6 Color options of hyperref/bookmark (HO)
-
-(/usr/local/texlive/2010/texmf-dist/tex/latex/oberdiek/xcolor-patch.sty
-Package: xcolor-patch 2009/12/12 xcolor patch
-))
-(/usr/local/texlive/2010/texmf-dist/tex/latex/oberdiek/letltxmacro.sty
-Package: letltxmacro 2008/06/24 v1.3 Let assignment for LaTeX macros (HO)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2010/09/02 v1.4 Let assignment for LaTeX macros (HO)
+Package: hopatch 2012/05/28 v1.2 Wrapper for package hooks (HO)
+Package: xcolor-patch 2011/01/30 xcolor patch
+Package: atveryend 2011/06/30 v1.8 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+Package: atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
+Package: refcount 2011/10/16 v3.4 Data extraction from label references (HO)
+Package: hycolor 2011/01/30 v1.7 Color options for hyperref/bookmark (HO)
+)
+(/usr/local/texlive/2013/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/oberdiek/auxhook.sty
+Package: auxhook 2011/03/04 v1.3 Hooks for auxiliary files (HO)
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
 )
 \@linkdim=\dimen114
 \Hy@linkcounter=\count102
 \Hy@pagecounter=\count103
 
-(/usr/local/texlive/2010/texmf-dist/tex/latex/hyperref/pd1enc.def
-File: pd1enc.def 2010/06/18 v6.81g Hyperref: PDFDocEncoding definition (HO)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2012/11/06 v6.83m Hyperref: PDFDocEncoding definition (HO)
 )
-(/usr/local/texlive/2010/texmf-dist/tex/generic/oberdiek/intcalc.sty
-Package: intcalc 2007/09/27 v1.1 Expandable integer calculations (HO)
-)
-(/usr/local/texlive/2010/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+\Hy@SavedSpaceFactor=\count104
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/latexconfig/hyperref.cfg
 File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
 )
-(/usr/local/texlive/2010/texmf-dist/tex/latex/oberdiek/kvoptions.sty
-Package: kvoptions 2010/02/22 v3.7 Keyval support for LaTeX options (HO)
-)
-Package hyperref Info: Option `colorlinks' set `true' on input line 3577.
-Package hyperref Info: Option `breaklinks' set `true' on input line 3577.
-Package hyperref Info: Hyper figures OFF on input line 3658.
-Package hyperref Info: Link nesting OFF on input line 3663.
-Package hyperref Info: Hyper index ON on input line 3666.
-Package hyperref Info: Plain pages OFF on input line 3673.
-Package hyperref Info: Backreferencing OFF on input line 3678.
+Package hyperref Info: Option `colorlinks' set `true' on input line 4319.
+Package hyperref Info: Option `breaklinks' set `true' on input line 4319.
+Package hyperref Info: Hyper figures OFF on input line 4443.
+Package hyperref Info: Link nesting OFF on input line 4448.
+Package hyperref Info: Hyper index ON on input line 4451.
+Package hyperref Info: Plain pages OFF on input line 4458.
+Package hyperref Info: Backreferencing OFF on input line 4463.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4688.
+\c@Hy@tempcnt=\count105
 
-Implicit mode ON; LaTeX internals redefined
-Package hyperref Info: Bookmarks ON on input line 3874.
-(/usr/local/texlive/2010/texmf-dist/tex/latex/url/url.sty
+(/usr/local/texlive/2013/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip11
-Package: url 2006/04/12  ver 3.3  Verb mode for urls, etc.
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-LaTeX Info: Redefining \url on input line 4159.
-
-(/usr/local/texlive/2010/texmf-dist/tex/generic/oberdiek/bitset.sty
-Package: bitset 2007/09/28 v1.0 Data type bit set (HO)
-
-(/usr/local/texlive/2010/texmf-dist/tex/generic/oberdiek/bigintcalc.sty
-Package: bigintcalc 2007/11/11 v1.1 Expandable big integer calculations (HO)
-))
-\Fld@menulength=\count104
-\Field@Width=\dimen115
-\Fld@charsize=\dimen116
-\Field@toks=\toks22
-Package hyperref Info: Hyper figures OFF on input line 5137.
-Package hyperref Info: Link nesting OFF on input line 5142.
-Package hyperref Info: Hyper index ON on input line 5145.
-Package hyperref Info: backreferencing OFF on input line 5152.
-Package hyperref Info: Link coloring ON on input line 5155.
-Package hyperref Info: Link coloring with OCG OFF on input line 5162.
-Package hyperref Info: PDF/A mode OFF on input line 5167.
-LaTeX Info: Redefining \ref on input line 5207.
-LaTeX Info: Redefining \pageref on input line 5211.
-
-(/usr/local/texlive/2010/texmf-dist/tex/generic/oberdiek/atbegshi.sty
-Package: atbegshi 2010/03/25 v1.12 At begin shipout hook (HO)
+LaTeX Info: Redefining \url on input line 5041.
+\XeTeXLinkMargin=\dimen115
+\Fld@menulength=\count106
+\Field@Width=\dimen116
+\Fld@charsize=\dimen117
+Package hyperref Info: Hyper figures OFF on input line 6295.
+Package hyperref Info: Link nesting OFF on input line 6300.
+Package hyperref Info: Hyper index ON on input line 6303.
+Package hyperref Info: backreferencing OFF on input line 6310.
+Package hyperref Info: Link coloring ON on input line 6313.
+Package hyperref Info: Link coloring with OCG OFF on input line 6320.
+Package hyperref Info: PDF/A mode OFF on input line 6325.
+LaTeX Info: Redefining \ref on input line 6365.
+LaTeX Info: Redefining \pageref on input line 6369.
+\Hy@abspage=\count107
+\c@Item=\count108
+\c@Hfootnote=\count109
 )
-\Hy@abspage=\count105
-\c@Item=\count106
-\c@Hfootnote=\count107
-)
-* hyperref using default driver hpdftex *
-(/usr/local/texlive/2010/texmf-dist/tex/latex/hyperref/hpdftex.def
-File: hpdftex.def 2010/06/18 v6.81g Hyperref driver for pdfTeX
 
-(/usr/local/texlive/2010/texmf-dist/tex/latex/oberdiek/atveryend.sty
-Package: atveryend 2010/03/24 v1.5 Hooks at very end of document (HO)
-Package atveryend Info: \enddocument detected (standard).
-)
-\Fld@listcount=\count108
-\c@bookmark@seq@number=\count109
+Package hyperref Message: Driver (autodetected): hpdftex.
 
-(/usr/local/texlive/2010/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
-Package: rerunfilecheck 2010/03/16 v1.6 Rerun checks for auxiliary files (HO)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2012/11/06 v6.83m Hyperref driver for pdfTeX
+\Fld@listcount=\count110
+\c@bookmark@seq@number=\count111
 
-(/usr/local/texlive/2010/texmf-dist/tex/generic/oberdiek/uniquecounter.sty
-Package: uniquecounter 2009/12/18 v1.1 Provides unlimited unique counter (HO)
-)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+Package: rerunfilecheck 2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
-71.
+82.
 )
 \Hy@SectionHShift=\skip55
 )
-(/usr/local/texlive/2010/texmf-dist/tex/latex/minitoc/minitoc.sty
+(/usr/local/texlive/2013/texmf-dist/tex/latex/minitoc/minitoc.sty
 Package: minitoc 2008/07/16 v60 Package minitoc (JPFD)
 
-(/usr/local/texlive/2010/texmf-dist/tex/latex/minitoc/mtcmess.sty
+(/usr/local/texlive/2013/texmf-dist/tex/latex/minitoc/mtcmess.sty
 Package: mtcmess 2006/03/14
 )
 Package minitoc Info: I0001
@@ -317,7 +298,7 @@ Package minitoc Info: I0023
 (minitoc)             part level macros available.
 Package minitoc Info: I0003
 (minitoc)             chapter level macros available.
-\mtc@toks=\toks23
+\mtc@toks=\toks22
 \mtc@strutbox=\box30
 \mtc@hstrutbox=\box31
 Package minitoc Info: I0002
@@ -337,26 +318,24 @@ Package minitoc Info: I0031
 
 \openout3 = `thesis.mtc0'.
 
-\c@mtc=\count110
-\c@minitocdepth=\count111
-\c@ptc=\count112
-\c@parttocdepth=\count113
+\c@mtc=\count112
+\c@minitocdepth=\count113
+\c@ptc=\count114
+\c@parttocdepth=\count115
 \ptcindent=\skip58
 Package minitoc Info: I0010
 (minitoc)             The english language is selected.
 (minitoc)              on input line 4910.
 
-(/usr/local/texlive/2010/texmf-dist/tex/latex/minitoc/english.mld
+(/usr/local/texlive/2013/texmf-dist/tex/latex/minitoc/english.mld
 File: english.mld 2006/01/13
 )
-(/usr/local/texlive/2010/texmf-dist/tex/latex/minitoc/english.mld
+(/usr/local/texlive/2013/texmf-dist/tex/latex/minitoc/english.mld
 File: english.mld 2006/01/13
 ))
-(/usr/local/texlive/2010/texmf-dist/tex/latex/tocbibind/tocbibind.sty
-Package: tocbibind 2009/12/28 v1.5j extra ToC listings
-
-
-Package tocbibind Note: The document has chapter divisions.
+(/usr/local/texlive/2013/texmf-dist/tex/latex/tocbibind/tocbibind.sty
+Package: tocbibind 2010/10/13 v1.5k extra ToC listings
+Package tocbibind Info: The document has chapter divisions on input line 50.
 
 
 Package tocbibind Note: Using chapter style headings, unless overridden.
@@ -367,29 +346,29 @@ Package tocbibind Note: Using chapter style headings, unless overridden.
 \openout4 = `base/CC_Attribution-NonCommercial-ShareAlike_3.0_Unported.xmpi'.
 
 <<base/CC_Attribution-NonCommercial-ShareAlike_3.0_Unported.xmpi>>
-(/usr/local/texlive/2010/texmf-dist/tex/latex/geometry/geometry.sty
-Package: geometry 2010/07/13 v5.5 Page Geometry
-\Gm@cnth=\count114
-\Gm@cntv=\count115
-\c@Gm@tempcnt=\count116
-\Gm@bindingoffset=\dimen117
-\Gm@wd@mp=\dimen118
-\Gm@odd@mp=\dimen119
-\Gm@even@mp=\dimen120
-\Gm@layoutwidth=\dimen121
-\Gm@layoutheight=\dimen122
-\Gm@layouthoffset=\dimen123
-\Gm@layoutvoffset=\dimen124
-\Gm@dimlist=\toks24
+(/usr/local/texlive/2013/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2010/09/12 v5.6 Page Geometry
+\Gm@cnth=\count116
+\Gm@cntv=\count117
+\c@Gm@tempcnt=\count118
+\Gm@bindingoffset=\dimen118
+\Gm@wd@mp=\dimen119
+\Gm@odd@mp=\dimen120
+\Gm@even@mp=\dimen121
+\Gm@layoutwidth=\dimen122
+\Gm@layoutheight=\dimen123
+\Gm@layouthoffset=\dimen124
+\Gm@layoutvoffset=\dimen125
+\Gm@dimlist=\toks23
 )
-(/usr/local/texlive/2010/texmf-dist/tex/latex/base/fontenc.sty
+(/usr/local/texlive/2013/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
 
-(/usr/local/texlive/2010/texmf-dist/tex/latex/base/t1enc.def
+(/usr/local/texlive/2013/texmf-dist/tex/latex/base/t1enc.def
 File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
 LaTeX Font Info:    Redeclaring font encoding T1 on input line 43.
 ))
-(/usr/local/texlive/2010/texmf-dist/tex/latex/lm/lmodern.sty
+(/usr/local/texlive/2013/texmf-dist/tex/latex/lm/lmodern.sty
 Package: lmodern 2009/10/30 v1.6 Latin Modern Fonts
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  OT1/cmr/m/n --> OT1/lmr/m/n on input line 22.
@@ -424,90 +403,95 @@ LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 (Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 38.
 )
-(/usr/local/texlive/2010/texmf-dist/tex/generic/babel/babel.sty
-Package: babel 2008/07/06 v3.8l The Babel package
+(/usr/local/texlive/2013/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2014/03/24 3.9k The Babel package
 
-(/usr/local/texlive/2010/texmf-dist/tex/generic/babel/spanish.ldf
-Language: spanish.ldf 2009/01/02 v5.0h Spanish support from the babel system
+(/usr/local/texlive/2013/texmf-dist/tex/generic/babel-spanish/spanish.ldf
+Language: spanish.ldf 2014/01/29 v5.0m Spanish support from the babel system
 
-(/usr/local/texlive/2010/texmf-dist/tex/generic/babel/babel.def
-File: babel.def 2008/07/06 v3.8l Babel common definitions
-\babel@savecnt=\count117
-\U@D=\dimen125
+(/usr/local/texlive/2013/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2014/03/24 3.9k Babel common definitions
+\babel@savecnt=\count119
+\U@D=\dimen126
 )
-\es@datefmt=\count118
-\es@quottoks=\toks25
-\es@quotdepth=\count119
-Package babel Info: Making " an active character on input line 492.
-Package babel Info: Making . an active character on input line 585.
-Package babel Info: Making < an active character on input line 630.
-Package babel Info: Making > an active character on input line 630.
-Package babel Info: Making ' an active character on input line 657.
+\es@datefmt=\count120
+\es@quottoks=\toks24
+\es@quotdepth=\count121
+Package babel Info: Making " an active character on input line 496.
+Package babel Info: Making . an active character on input line 599.
+Package babel Info: Making < an active character on input line 644.
+Package babel Info: Making > an active character on input line 644.
+Package babel Info: Making ' an active character on input line 671.
 ))
-(/usr/local/texlive/2010/texmf-dist/tex/latex/base/inputenc.sty
+(/usr/local/texlive/2013/texmf-dist/tex/latex/base/inputenc.sty
 Package: inputenc 2008/03/30 v1.1d Input encoding file
-\inpenc@prehook=\toks26
-\inpenc@posthook=\toks27
+\inpenc@prehook=\toks25
+\inpenc@posthook=\toks26
 
-(/usr/local/texlive/2010/texmf-dist/tex/latex/base/latin1.def
+(/usr/local/texlive/2013/texmf-dist/tex/latex/base/latin1.def
 File: latin1.def 2008/03/30 v1.1d Input encoding file
 ))
-(/usr/local/texlive/2010/texmf-dist/tex/latex/tools/layout.sty
+(/usr/local/texlive/2013/texmf-dist/tex/latex/tools/layout.sty
 Package: layout 2000/09/25 v1.2c Show layout parameters
-\oneinch=\count120
-\cnt@paperwidth=\count121
-\cnt@paperheight=\count122
-\cnt@hoffset=\count123
-\cnt@voffset=\count124
-\cnt@textheight=\count125
-\cnt@textwidth=\count126
-\cnt@topmargin=\count127
-\cnt@oddsidemargin=\count128
-\cnt@evensidemargin=\count129
-\cnt@headheight=\count130
-\cnt@headsep=\count131
-\cnt@marginparsep=\count132
-\cnt@marginparwidth=\count133
-\cnt@marginparpush=\count134
-\cnt@footskip=\count135
-\fheight=\count136
-\ref@top=\count137
-\ref@hoffset=\count138
-\ref@voffset=\count139
-\ref@head=\count140
-\ref@body=\count141
-\ref@foot=\count142
-\ref@margin=\count143
-\ref@marginwidth=\count144
-\ref@marginpar=\count145
-\Interval=\count146
-\ExtraYPos=\count147
-\PositionX=\count148
-\PositionY=\count149
-\ArrowLength=\count150
+\oneinch=\count122
+\cnt@paperwidth=\count123
+\cnt@paperheight=\count124
+\cnt@hoffset=\count125
+\cnt@voffset=\count126
+\cnt@textheight=\count127
+\cnt@textwidth=\count128
+\cnt@topmargin=\count129
+\cnt@oddsidemargin=\count130
+\cnt@evensidemargin=\count131
+\cnt@headheight=\count132
+\cnt@headsep=\count133
+\cnt@marginparsep=\count134
+\cnt@marginparwidth=\count135
+\cnt@marginparpush=\count136
+\cnt@footskip=\count137
+\fheight=\count138
+\ref@top=\count139
+\ref@hoffset=\count140
+\ref@voffset=\count141
+\ref@head=\count142
+\ref@body=\count143
+\ref@foot=\count144
+\ref@margin=\count145
+\ref@marginwidth=\count146
+\ref@marginpar=\count147
+\Interval=\count148
+\ExtraYPos=\count149
+\PositionX=\count150
+\PositionY=\count151
+\ArrowLength=\count152
 )
-(/usr/local/texlive/2010/texmf-dist/tex/latex/caption/caption.sty
-Package: caption 2010/01/09 v3.1m Customizing captions (AR)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2013/05/02 v3.3-89 Customizing captions (AR)
 
-(/usr/local/texlive/2010/texmf-dist/tex/latex/caption/caption3.sty
-Package: caption3 2010/01/14 v3.1m caption3 kernel (AR)
-\captionmargin=\dimen126
-\captionmargin@=\dimen127
-\captionwidth=\dimen128
-\caption@indent=\dimen129
-\caption@parindent=\dimen130
-\caption@hangindent=\dimen131
+(/usr/local/texlive/2013/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2013/05/02 v1.6-88 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 57.
+\captionmargin=\dimen127
+\captionmargin@=\dimen128
+\captionwidth=\dimen129
+\caption@tempdima=\dimen130
+\caption@indent=\dimen131
+\caption@parindent=\dimen132
+\caption@hangindent=\dimen133
 )
-\c@ContinuedFloat=\count151
+\c@ContinuedFloat=\count153
 Package caption Info: float package is loaded.
 Package caption Info: hyperref package is loaded.
 )
-(/usr/local/texlive/2010/texmf-dist/tex/latex/caption/subcaption.sty
-Package: subcaption 2008/08/31 v1.0b Adding subcaptions (AR)
-\c@subfigure=\count152
-\c@subtable=\count153
+(/usr/local/texlive/2013/texmf-dist/tex/latex/caption/subcaption.sty
+Package: subcaption 2013/02/03 v1.1-62 Sub-captions (AR)
+\c@subfigure=\count154
+\c@subtable=\count155
 )
-(./thesis.aux (./content/front/cioCIO.aux) (./content/front/abstract.aux)
+(./thesis.aux (./content/front/cioCIO.aux)
+LaTeX Info: Redefining \. on input line 28.
+LaTeX Info: Redefining \% on input line 28.
+ (./content/front/abstract.aux)
 (./content/main/introduction.aux) (./content/main/capitulo2.aux)
 (./content/main/capitulo3.aux) (./content/main/resultados.aux)
 (./content/back/bibliography.aux))
@@ -529,49 +513,47 @@ LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 49.
 LaTeX Font Info:    ... okay on input line 49.
 LaTeX Font Info:    Try loading font information for T1+lmr on input line 49.
 
-(/usr/local/texlive/2010/texmf-dist/tex/latex/lm/t1lmr.fd
+(/usr/local/texlive/2013/texmf-dist/tex/latex/lm/t1lmr.fd
 File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-(/usr/local/texlive/2010/texmf-dist/tex/context/base/supp-pdf.mkii
+(/usr/local/texlive/2013/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count154
-\scratchdimen=\dimen132
+\scratchcounter=\count156
+\scratchdimen=\dimen134
 \scratchbox=\box32
-\nofMPsegments=\count155
-\nofMParguments=\count156
-\everyMPshowfont=\toks28
-\MPscratchCnt=\count157
-\MPscratchDim=\dimen133
-\MPnumerator=\count158
-\everyMPtoPDFconversion=\toks29
-) (/usr/local/texlive/2010/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+\nofMPsegments=\count157
+\nofMParguments=\count158
+\everyMPshowfont=\toks27
+\MPscratchCnt=\count159
+\MPscratchDim=\dimen135
+\MPnumerator=\count160
+\makeMPintoPDFobject=\count161
+\everyMPtoPDFconversion=\toks28
+) (/usr/local/texlive/2013/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
 
-(/usr/local/texlive/2010/texmf-dist/tex/latex/oberdiek/grfext.sty
-Package: grfext 2007/09/30 v1.0 Managing graphics extensions (HO)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
 )
 Package grfext Info: Graphics extension search list:
 (grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
 G,.JBIG2,.JB2,.eps]
-(grfext)             \AppendGraphicsExtensions on input line 436.
+(grfext)             \AppendGraphicsExtensions on input line 452.
 
-(/usr/local/texlive/2010/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+(/usr/local/texlive/2013/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
 \AtBeginShipoutBox=\box33
 Package hyperref Info: Link coloring ON on input line 49.
 
-(/usr/local/texlive/2010/texmf-dist/tex/latex/hyperref/nameref.sty
-Package: nameref 2010/04/30 v2.40 Cross-referencing by name of section
+(/usr/local/texlive/2013/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 
-(/usr/local/texlive/2010/texmf-dist/tex/latex/oberdiek/refcount.sty
-Package: refcount 2008/08/11 v3.1 Data extraction from references (HO)
+(/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
-(/usr/local/texlive/2010/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
-Package: gettitlestring 2009/12/18 v1.3 Cleanup title references (HO)
-)
-\c@section@level=\count159
+\c@section@level=\count162
 )
 LaTeX Info: Redefining \ref on input line 49.
 LaTeX Info: Redefining \pageref on input line 49.
@@ -643,12 +625,14 @@ Package minitoc(hints) Warning: W0023
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
+LaTeX Info: Redefining \. on input line 49.
+LaTeX Info: Redefining \% on input line 49.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
 Package minitoc Info: I0010
 (minitoc)             The spanish2 language is selected.
 (minitoc)              on input line 50.
-(/usr/local/texlive/2010/texmf-dist/tex/latex/minitoc/spanish2.mld
+(/usr/local/texlive/2013/texmf-dist/tex/latex/minitoc/spanish2.mld
 File: spanish2.mld 2008/04/03
 )
 Package minitoc Info: I0024
@@ -681,26 +665,29 @@ Package minitoc Info: I0033
 File: content/images/frontmatter/logo.png Graphic file (type png)
 
 <use content/images/frontmatter/logo.png>
+Package pdftex.def Info: content/images/frontmatter/logo.png used on input line
+ 10.
+(pdftex.def)             Requested size: 153.1917pt x 49.18727pt.
 LaTeX Font Info:    Try loading font information for OT1+lmr on input line 11.
 
-(/usr/local/texlive/2010/texmf-dist/tex/latex/lm/ot1lmr.fd
+(/usr/local/texlive/2013/texmf-dist/tex/latex/lm/ot1lmr.fd
 File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Try loading font information for OML+lmm on input line 11.
 
-(/usr/local/texlive/2010/texmf-dist/tex/latex/lm/omllmm.fd
+(/usr/local/texlive/2013/texmf-dist/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 11.
 
 
-(/usr/local/texlive/2010/texmf-dist/tex/latex/lm/omslmsy.fd
+(/usr/local/texlive/2013/texmf-dist/tex/latex/lm/omslmsy.fd
 File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Try loading font information for OMX+lmex on input line 11.
 
 
-(/usr/local/texlive/2010/texmf-dist/tex/latex/lm/omxlmex.fd
+(/usr/local/texlive/2013/texmf-dist/tex/latex/lm/omxlmex.fd
 File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
@@ -711,30 +698,32 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <6> on input line 11.
 LaTeX Font Info:    Try loading font information for U+msa on input line 11.
 
-(/usr/local/texlive/2010/texmf-dist/tex/latex/amsfonts/umsa.fd
-File: umsa.fd 2009/06/22 v3.00 AMS symbols A
+(/usr/local/texlive/2013/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
 LaTeX Font Info:    Try loading font information for U+msb on input line 11.
 
-(/usr/local/texlive/2010/texmf-dist/tex/latex/amsfonts/umsb.fd
-File: umsb.fd 2009/06/22 v3.00 AMS symbols B
+(/usr/local/texlive/2013/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 <content/images/frontmatter/escudoUGTO.png, id=142, 97.59296pt x 113.71619pt>
 File: content/images/frontmatter/escudoUGTO.png Graphic file (type png)
 
 <use content/images/frontmatter/escudoUGTO.png>
+Package pdftex.def Info: content/images/frontmatter/escudoUGTO.png used on inpu
+t line 13.
+(pdftex.def)             Requested size: 92.71275pt x 108.02975pt.
 LaTeX Font Info:    Try loading font information for T1+lmtt on input line 32.
 
-(/usr/local/texlive/2010/texmf-dist/tex/latex/lm/t1lmtt.fd
+(/usr/local/texlive/2013/texmf-dist/tex/latex/lm/t1lmtt.fd
 File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
 ) [1
 
 
 
 
-{/usr/local/texlive/2010/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./conte
-nt/images/frontmatter/logo.png (PNG copy)> <./content/images/frontmatter/escudo
-UGTO.png>])
+{/usr/local/texlive/2013/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./conte
+nt/images/frontmatter/logo.png> <./content/images/frontmatter/escudoUGTO.png>])
 \openout2 = `content/front/abstract.aux'.
 
 
@@ -746,7 +735,10 @@ l.63 \include{content/front/abstract}
                                       [1
 
 
-] (./thesis.toc [2
+] (./thesis.toc
+LaTeX Info: Redefining \. on input line 2.
+LaTeX Info: Redefining \% on input line 2.
+ [2
 
 
 ])
@@ -754,6 +746,8 @@ l.63 \include{content/front/abstract}
 \openout6 = `thesis.toc'.
 
  [3] (./thesis.lof
+LaTeX Info: Redefining \. on input line 2.
+LaTeX Info: Redefining \% on input line 2.
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <10> on input line 19.
 LaTeX Font Info:    External font `lmex10' loaded for size
@@ -764,7 +758,7 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 [4
 
 ]
-Overfull \hbox (7.58035pt too wide) in paragraph at lines 43--43
+Overfull \hbox (7.58035pt too wide) in paragraph at lines 44--44
  [][] [][][]\T1/lmr/m/n/10.95 Espectros de ab-sor-ción no li-neal del co-po-lí-
 me-ro en so-lu-ción, c=$\OT1/lmr/m/n/10.95 9\OML/lmm/m/it/10.95 :\OT1/lmr/m/n/1
 0.95 25 \OMS/lmsy/m/n/10.95 ^^B 
@@ -774,7 +768,7 @@ me-ro en so-lu-ción, c=$\OT1/lmr/m/n/10.95 9\OML/lmm/m/it/10.95 :\OT1/lmr/m/n/1
 \tf@lof=\write7
 \openout7 = `thesis.lof'.
 
- [5] (./base/fancyheaders.tex
+ [5] [6] (./base/fancyheaders.tex
 
 Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is use
 less on input line 6.
@@ -799,47 +793,72 @@ Cap\'{\i }tulo 1.
 
 
 ]
-<content/images/c1_Introduction/intro.png, id=357, 1067.99pt x 492.84125pt>
+<content/images/c1_Introduction/intro.png, id=364, 1067.99pt x 492.84125pt>
 File: content/images/c1_Introduction/intro.png Graphic file (type png)
 
 <use content/images/c1_Introduction/intro.png>
+Package pdftex.def Info: content/images/c1_Introduction/intro.png used on input
+ line 16.
+(pdftex.def)             Requested size: 383.03123pt x 176.7534pt.
+
 Overfull \hbox (4.66295pt too wide) in paragraph at lines 33--33
 []\T1/lmr/bx/n/14.4 Antecedentes: Mar-ca-do-res en mi-cros-co-pía de fluo-
  []
 
+LaTeX Info: Redefining \. on input line 36.
+LaTeX Info: Redefining \% on input line 36.
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 13.59999pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[2 <./content/images/c1_Introduction/intro.png (PNG copy)>]
-<content/images/c1_Introduction/FluorescentCells.jpg, id=366, 513.92pt x 513.92
+[2 <./content/images/c1_Introduction/intro.png>]
+<content/images/c1_Introduction/FluorescentCells.jpg, id=373, 513.92pt x 513.92
 pt>
 File: content/images/c1_Introduction/FluorescentCells.jpg Graphic file (type jp
 g)
  <use content/images/c1_Introduction/FluorescentCells.jpg>
+Package pdftex.def Info: content/images/c1_Introduction/FluorescentCells.jpg us
+ed on input line 44.
+(pdftex.def)             Requested size: 231.26186pt x 180.67455pt.
+
 Overfull \hbox (2.67094pt too wide) in paragraph at lines 57--57
 []\T1/lmr/bx/n/14.4 Diferentes ti-pos de mar-ca-do-res fluo-res-cen-tes ?`Por
  []
 
-[3] <content/images/c1_Introduction/qdots.png, id=378, 658.46pt x 379.4175pt>
+LaTeX Info: Redefining \. on input line 62.
+LaTeX Info: Redefining \% on input line 62.
+[3] <content/images/c1_Introduction/qdots.png, id=385, 658.46pt x 379.4175pt>
 File: content/images/c1_Introduction/qdots.png Graphic file (type png)
 
 <use content/images/c1_Introduction/qdots.png>
+Package pdftex.def Info: content/images/c1_Introduction/qdots.png used on input
+ line 69.
+(pdftex.def)             Requested size: 231.2582pt x 126.47025pt.
+LaTeX Info: Redefining \. on input line 72.
+LaTeX Info: Redefining \% on input line 72.
+
 
 Package Fancyhdr Warning: \headheight is too small (13.59999pt): 
  Make it at least 25.2232pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[4 <./content/images/c1_Introduction/FluorescentCells.jpg>] [5 <./content/image
-s/c1_Introduction/qdots.png>]
+[4 <./content/images/c1_Introduction/FluorescentCells.jpg>]
+LaTeX Info: Redefining \. on input line 83.
+LaTeX Info: Redefining \% on input line 83.
+ [5 <./content/images/c1_Introduction/qdots.png>]
 Overfull \hbox (11.02055pt too wide) in paragraph at lines 89--89
 []\T1/lmr/bx/n/14.4 Nanopartículas or-gá-ni-cas fun-cio-na-li-za-das con PEG
  []
 
-[6]) [7]
+LaTeX Info: Redefining \. on input line 98.
+LaTeX Info: Redefining \% on input line 98.
+[6])
+LaTeX Info: Redefining \. on input line 75.
+LaTeX Info: Redefining \% on input line 75.
+ [7]
 \openout2 = `content/main/capitulo2.aux'.
 
  (./content/main/capitulo2.tex
@@ -853,48 +872,107 @@ Cap\'{\i }tulo 2.
 
 
 ]
-<content/images/capitulo2/airydisk.png, id=422, 499.8675pt x 249.93375pt>
+<content/images/capitulo2/airydisk.png, id=429, 499.8675pt x 249.93375pt>
 File: content/images/capitulo2/airydisk.png Graphic file (type png)
 
-<use content/images/capitulo2/airydisk.png> [9 <./content/images/capitulo2/airy
-disk.png (PNG copy)>] [10]
-<content/images/capitulo2/micrfluor.png, id=439, 390.45876pt x 322.20375pt>
+<use content/images/capitulo2/airydisk.png>
+Package pdftex.def Info: content/images/capitulo2/airydisk.png used on input li
+ne 19.
+(pdftex.def)             Requested size: 268.12068pt x 134.066pt.
+LaTeX Info: Redefining \. on input line 30.
+LaTeX Info: Redefining \% on input line 30.
+ [9 <./content/images/capitulo2/airydisk.png>]
+LaTeX Info: Redefining \. on input line 55.
+LaTeX Info: Redefining \% on input line 55.
+ [10]
+<content/images/capitulo2/micrfluor.png, id=446, 390.45876pt x 322.20375pt>
 File: content/images/capitulo2/micrfluor.png Graphic file (type png)
 
-<use content/images/capitulo2/micrfluor.png> [11 <./content/images/capitulo2/mi
-crfluor.png (PNG copy)>]
-<content/images/capitulo2/confocal2.png, id=446, 514.92375pt x 281.05pt>
+<use content/images/capitulo2/micrfluor.png>
+Package pdftex.def Info: content/images/capitulo2/micrfluor.png used on input l
+ine 68.
+(pdftex.def)             Requested size: 231.26234pt x 180.6836pt.
+LaTeX Info: Redefining \. on input line 73.
+LaTeX Info: Redefining \% on input line 73.
+ [11 <./content/images/capitulo2/micrfluor.png>]
+<content/images/capitulo2/confocal2.png, id=453, 514.92375pt x 281.05pt>
 File: content/images/capitulo2/confocal2.png Graphic file (type png)
 
-<use content/images/capitulo2/confocal2.png> [12 <./content/images/capitulo2/co
-nfocal2.png (PNG copy)>]
-<content/images/capitulo2/compara.png, id=455, 619.31375pt x 365.365pt>
+<use content/images/capitulo2/confocal2.png>
+Package pdftex.def Info: content/images/capitulo2/confocal2.png used on input l
+ine 82.
+(pdftex.def)             Requested size: 363.8785pt x 198.612pt.
+LaTeX Info: Redefining \. on input line 90.
+LaTeX Info: Redefining \% on input line 90.
+ [12 <./content/images/capitulo2/confocal2.png>]
+<content/images/capitulo2/compara.png, id=464, 619.31375pt x 365.365pt>
 File: content/images/capitulo2/compara.png Graphic file (type png)
 
-<use content/images/capitulo2/compara.png> [13 <./content/images/capitulo2/comp
-ara.png (PNG copy)>]
-<content/images/capitulo2/tpa1.png, id=464, 409.53pt x 175.65625pt>
+<use content/images/capitulo2/compara.png>
+Package pdftex.def Info: content/images/capitulo2/compara.png used on input lin
+e 96.
+(pdftex.def)             Requested size: 268.12068pt x 158.18544pt.
+LaTeX Info: Redefining \. on input line 106.
+LaTeX Info: Redefining \% on input line 106.
+ [13 <./content/images/capitulo2/compara.png>] <content/images/capitulo2/tpa1.p
+ng, id=471, 409.53pt x 175.65625pt>
 File: content/images/capitulo2/tpa1.png Graphic file (type png)
 
 <use content/images/capitulo2/tpa1.png>
-<content/images/capitulo2/penetras.png, id=468, 465.74pt x 226.8475pt>
+Package pdftex.def Info: content/images/capitulo2/tpa1.png used on input line 1
+09.
+(pdftex.def)             Requested size: 303.5536pt x 159.00581pt.
+
+<content/images/capitulo2/penetras.png, id=475, 465.74pt x 226.8475pt>
 File: content/images/capitulo2/penetras.png Graphic file (type png)
 
-<use content/images/capitulo2/penetras.png> [14 <./content/images/capitulo2/tpa
-1.png (PNG copy)>] [15 <./content/images/capitulo2/penetras.png (PNG copy)>]
-[16] [17]
+<use content/images/capitulo2/penetras.png>
+Package pdftex.def Info: content/images/capitulo2/penetras.png used on input li
+ne 124.
+(pdftex.def)             Requested size: 325.22694pt x 158.99292pt.
+LaTeX Info: Redefining \. on input line 131.
+LaTeX Info: Redefining \% on input line 131.
+ [14 <./content/images/capitulo2/tpa1.png>]
+LaTeX Info: Redefining \. on input line 140.
+LaTeX Info: Redefining \% on input line 140.
+ [15 <./content/images/capitulo2/penetras.png>]
+LaTeX Info: Redefining \. on input line 157.
+LaTeX Info: Redefining \% on input line 157.
+ [16]
+LaTeX Info: Redefining \. on input line 181.
+LaTeX Info: Redefining \% on input line 181.
+ [17]
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <9> on input line 182.
+LaTeX Info: Redefining \. on input line 205.
+LaTeX Info: Redefining \% on input line 205.
  [18]
-<content/images/capitulo2/tercerorden.png, id=517, 309.155pt x 126.4725pt>
+<content/images/capitulo2/tercerorden.png, id=525, 309.155pt x 126.4725pt>
 File: content/images/capitulo2/tercerorden.png Graphic file (type png)
 
-<use content/images/capitulo2/tercerorden.png> [19 <./content/images/capitulo2/
-tercerorden.png (PNG copy)>] [20] [21]
-<content/images/capitulo2/gra2.png, id=558, 257.96375pt x 196.735pt>
+<use content/images/capitulo2/tercerorden.png>
+Package pdftex.def Info: content/images/capitulo2/tercerorden.png used on input
+ line 221.
+(pdftex.def)             Requested size: 229.82108pt x 94.02045pt.
+LaTeX Info: Redefining \. on input line 226.
+LaTeX Info: Redefining \% on input line 226.
+ [19 <./content/images/capitulo2/tercerorden.png>]
+LaTeX Info: Redefining \. on input line 251.
+LaTeX Info: Redefining \% on input line 251.
+ [20]
+LaTeX Info: Redefining \. on input line 277.
+LaTeX Info: Redefining \% on input line 277.
+ [21]
+<content/images/capitulo2/gra2.png, id=565, 257.96375pt x 196.735pt>
 File: content/images/capitulo2/gra2.png Graphic file (type png)
 
-<use content/images/capitulo2/gra2.png> [22]
+<use content/images/capitulo2/gra2.png>
+Package pdftex.def Info: content/images/capitulo2/gra2.png used on input line 2
+96.
+(pdftex.def)             Requested size: 130.2292pt x 99.32185pt.
+LaTeX Info: Redefining \. on input line 308.
+LaTeX Info: Redefining \% on input line 308.
+ [22]
 
 LaTeX Warning: Command \' invalid in math mode on input line 319.
 
@@ -904,7 +982,9 @@ LaTeX Warning: Command \' invalid in math mode on input line 319.
 
 LaTeX Warning: Command \' invalid in math mode on input line 319.
 
-[23 <./content/images/capitulo2/gra2.png (PNG copy)>]
+LaTeX Info: Redefining \. on input line 331.
+LaTeX Info: Redefining \% on input line 331.
+[23 <./content/images/capitulo2/gra2.png>]
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <12> on input line 333.
 
@@ -924,17 +1004,38 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 333.
 
-[24] [25] [26]
-<content/images/capitulo2/fret.png, id=618, 338.26375pt x 377.41pt>
+LaTeX Info: Redefining \. on input line 356.
+LaTeX Info: Redefining \% on input line 356.
+[24]
+LaTeX Info: Redefining \. on input line 374.
+LaTeX Info: Redefining \% on input line 374.
+ [25]
+LaTeX Info: Redefining \. on input line 401.
+LaTeX Info: Redefining \% on input line 401.
+ [26]
+<content/images/capitulo2/fret.png, id=625, 338.26375pt x 377.41pt>
 File: content/images/capitulo2/fret.png Graphic file (type png)
 
-<use content/images/capitulo2/fret.png> [27 <./content/images/capitulo2/fret.pn
-g (PNG copy)>]
-<content/images/capitulo2/overlap.png, id=624, 429.605pt x 413.545pt>
+<use content/images/capitulo2/fret.png>
+Package pdftex.def Info: content/images/capitulo2/fret.png used on input line 4
+04.
+(pdftex.def)             Requested size: 191.51561pt x 213.68623pt.
+LaTeX Info: Redefining \. on input line 413.
+LaTeX Info: Redefining \% on input line 413.
+ [27 <./content/images/capitulo2/fret.png>] <content/images/capitulo2/overlap.p
+ng, id=631, 429.605pt x 413.545pt>
 File: content/images/capitulo2/overlap.png Graphic file (type png)
 
-<use content/images/capitulo2/overlap.png> [28 <./content/images/capitulo2/over
-lap.png (PNG copy)>]) [29]
+<use content/images/capitulo2/overlap.png>
+Package pdftex.def Info: content/images/capitulo2/overlap.png used on input lin
+e 418.
+(pdftex.def)             Requested size: 229.82108pt x 221.2286pt.
+LaTeX Info: Redefining \. on input line 424.
+LaTeX Info: Redefining \% on input line 424.
+ [28 <./content/images/capitulo2/overlap.png>])
+LaTeX Info: Redefining \. on input line 76.
+LaTeX Info: Redefining \% on input line 76.
+ [29]
 \openout2 = `content/main/capitulo3.aux'.
 
  (./content/main/capitulo3.tex
@@ -953,103 +1054,165 @@ Overfull \hbox (0.64261pt too wide) in paragraph at lines 26--27
 quilfluoreno)-b-poli[3-
  []
 
-<content/images/capitulo3/HIDALGO.png, id=652, 522.95375pt x 399.4925pt>
+<content/images/capitulo3/HIDALGO.png, id=660, 522.95375pt x 399.4925pt>
 File: content/images/capitulo3/HIDALGO.png Graphic file (type png)
 
-<use content/images/capitulo3/HIDALGO.png> [31]
-<content/images/capitulo3/copolimero.png, id=658, 499.8675pt x 260.975pt>
+<use content/images/capitulo3/HIDALGO.png>
+Package pdftex.def Info: content/images/capitulo3/HIDALGO.png used on input lin
+e 30.
+(pdftex.def)             Requested size: 325.57887pt x 248.71906pt.
+LaTeX Info: Redefining \. on input line 33.
+LaTeX Info: Redefining \% on input line 33.
+ [31]
+<content/images/capitulo3/copolimero.png, id=665, 499.8675pt x 260.975pt>
 File: content/images/capitulo3/copolimero.png Graphic file (type png)
 
 <use content/images/capitulo3/copolimero.png>
-<content/images/capitulo3/arturo.png, id=660, 482.80376pt x 370.38374pt>
+Package pdftex.def Info: content/images/capitulo3/copolimero.png used on input 
+line 37.
+(pdftex.def)             Requested size: 210.66833pt x 109.98705pt.
+
+<content/images/capitulo3/arturo.png, id=667, 482.80376pt x 370.38374pt>
 File: content/images/capitulo3/arturo.png Graphic file (type png)
 
 <use content/images/capitulo3/arturo.png>
+Package pdftex.def Info: content/images/capitulo3/arturo.png used on input line
+ 46.
+(pdftex.def)             Requested size: 383.03123pt x 293.8546pt.
+
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[32 <./content/images/capitulo3/HIDALGO.png (PNG copy)> <./content/images/capit
-ulo3/copolimero.png (PNG copy)>]
-<content/images/capitulo3/PMC300.png, id=667, 375.4025pt x 185.69376pt>
+LaTeX Info: Redefining \. on input line 51.
+LaTeX Info: Redefining \% on input line 51.
+[32 <./content/images/capitulo3/HIDALGO.png> <./content/images/capitulo3/copoli
+mero.png>]
+<content/images/capitulo3/PMC300.png, id=674, 375.4025pt x 185.69376pt>
 File: content/images/capitulo3/PMC300.png Graphic file (type png)
 
-<use content/images/capitulo3/PMC300.png> [33 <./content/images/capitulo3/artur
-o.png (PNG copy)> <./content/images/capitulo3/PMC300.png>]
-<content/images/capitulo3/peg.png, id=675, 530.98375pt x 224.84pt>
+<use content/images/capitulo3/PMC300.png>
+Package pdftex.def Info: content/images/capitulo3/PMC300.png used on input line
+ 55.
+(pdftex.def)             Requested size: 268.12068pt x 132.63402pt.
+LaTeX Info: Redefining \. on input line 60.
+LaTeX Info: Redefining \% on input line 60.
+ [33 <./content/images/capitulo3/arturo.png> <./content/images/capitulo3/PMC300
+.png>]
+<content/images/capitulo3/rodamina6g.png, id=681, 501.875pt x 320.19624pt>
+File: content/images/capitulo3/rodamina6g.png Graphic file (type png)
+
+<use content/images/capitulo3/rodamina6g.png>
+Package pdftex.def Info: content/images/capitulo3/rodamina6g.png used on input 
+line 63.
+(pdftex.def)             Requested size: 210.66833pt x 134.4082pt.
+
+<content/images/capitulo3/peg.png, id=683, 530.98375pt x 224.84pt>
 File: content/images/capitulo3/peg.png Graphic file (type png)
 
-<use content/images/capitulo3/peg.png> [34 <./content/images/capitulo3/peg.png 
-(PNG copy)>]
-<content/images/capitulo3/reprecipitacion.png, id=685, 537.00626pt x 225.84375p
+<use content/images/capitulo3/peg.png>
+Package pdftex.def Info: content/images/capitulo3/peg.png used on input line 76
+.
+(pdftex.def)             Requested size: 325.57887pt x 137.8658pt.
+LaTeX Info: Redefining \. on input line 91.
+LaTeX Info: Redefining \% on input line 91.
+ [34 <./content/images/capitulo3/rodamina6g.png> <./content/images/capitulo3/pe
+g.png>]
+<content/images/capitulo3/reprecipitacion.png, id=691, 537.00626pt x 225.84375p
 t>
 File: content/images/capitulo3/reprecipitacion.png Graphic file (type png)
- <use content/images/capitulo3/reprecipitacion.png> [35 <./content/images/capit
-ulo3/reprecipitacion.png (PNG copy)>]
-<content/images/capitulo3/emision_lineal.png, id=692, 451.6875pt x 273.02pt>
+ <use content/images/capitulo3/reprecipitacion.png>
+Package pdftex.def Info: content/images/capitulo3/reprecipitacion.png used on i
+nput line 103.
+(pdftex.def)             Requested size: 383.03123pt x 161.08763pt.
+LaTeX Info: Redefining \. on input line 108.
+LaTeX Info: Redefining \% on input line 108.
+ [35 <./content/images/capitulo3/reprecipitacion.png>]
+LaTeX Info: Redefining \. on input line 133.
+LaTeX Info: Redefining \% on input line 133.
+ [36]
+<content/images/capitulo3/emision_lineal.png, id=706, 451.6875pt x 273.02pt>
 File: content/images/capitulo3/emision_lineal.png Graphic file (type png)
 
-<use content/images/capitulo3/emision_lineal.png> [36 <./content/images/capitul
-o3/emision_lineal.png (PNG copy)>]
-<content/images/capitulo3/arreglo_qy.png, id=698, 533.995pt x 328.22626pt>
+<use content/images/capitulo3/emision_lineal.png>
+Package pdftex.def Info: content/images/capitulo3/emision_lineal.png used on in
+put line 136.
+(pdftex.def)             Requested size: 344.72577pt x 208.38054pt.
+LaTeX Info: Redefining \. on input line 147.
+LaTeX Info: Redefining \% on input line 147.
+ [37 <./content/images/capitulo3/emision_lineal.png>]
+<content/images/capitulo3/arreglo_qy.png, id=712, 533.995pt x 328.22626pt>
 File: content/images/capitulo3/arreglo_qy.png Graphic file (type png)
 
 <use content/images/capitulo3/arreglo_qy.png>
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[37] [38 <./content/images/capitulo3/arreglo_qy.png (PNG copy)>]
+Package pdftex.def Info: content/images/capitulo3/arreglo_qy.png used on input 
+line 150.
+(pdftex.def)             Requested size: 383.03123pt x 235.44125pt.
+LaTeX Info: Redefining \. on input line 159.
+LaTeX Info: Redefining \% on input line 159.
+ [38 <./content/images/capitulo3/arreglo_qy.png>]
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <14.4> on input line 153.
+(Font)              <14.4> on input line 166.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 153.
+(hyperref)                removing `math shift' on input line 166.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\sigma' on input line 153.
+(hyperref)                removing `\sigma' on input line 166.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `superscript' on input line 153.
+(hyperref)                removing `superscript' on input line 166.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 153.
+(hyperref)                removing `math shift' on input line 166.
 
-<content/images/capitulo3/tpa.png, id=715, 720.6925pt x 289.08pt>
+LaTeX Info: Redefining \. on input line 171.
+LaTeX Info: Redefining \% on input line 171.
+[39] <content/images/capitulo3/tpa.png, id=727, 720.6925pt x 289.08pt>
 File: content/images/capitulo3/tpa.png Graphic file (type png)
 
 <use content/images/capitulo3/tpa.png>
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[39]
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 171.
-
+Package pdftex.def Info: content/images/capitulo3/tpa.png used on input line 17
+6.
+(pdftex.def)             Requested size: 383.03123pt x 153.63953pt.
+LaTeX Info: Redefining \. on input line 183.
+LaTeX Info: Redefining \% on input line 183.
+ [40 <./content/images/capitulo3/tpa.png>]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\sigma' on input line 171.
+(hyperref)                removing `math shift' on input line 184.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `superscript' on input line 171.
+(hyperref)                removing `\sigma' on input line 184.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 171.
+(hyperref)                removing `superscript' on input line 184.
 
-<content/images/capitulo3/tpa_femto.png, id=720, 681.54625pt x 459.7175pt>
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 184.
+
+<content/images/capitulo3/tpa_femto.png, id=732, 681.54625pt x 459.7175pt>
 File: content/images/capitulo3/tpa_femto.png Graphic file (type png)
 
 <use content/images/capitulo3/tpa_femto.png>
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[40 <./content/images/capitulo3/tpa.png (PNG copy)>] [41 <./content/images/capi
-tulo3/tpa_femto.png (PNG copy)>]) [42]
+Package pdftex.def Info: content/images/capitulo3/tpa_femto.png used on input l
+ine 190.
+(pdftex.def)             Requested size: 383.03123pt x 258.36598pt.
+LaTeX Info: Redefining \. on input line 195.
+LaTeX Info: Redefining \% on input line 195.
+ [41 <./content/images/capitulo3/tpa_femto.png>])
+LaTeX Info: Redefining \. on input line 77.
+LaTeX Info: Redefining \% on input line 77.
+ [42]
+LaTeX Info: Redefining \. on input line 77.
+LaTeX Info: Redefining \% on input line 77.
+ [43]
 \openout2 = `content/main/resultados.aux'.
 
  (./content/main/resultados.tex
@@ -1072,118 +1235,201 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 4.
 
 
-<content/images/resultados/sechgo/abstodas.png, id=742, 516.93124pt x 402.50375
+<content/images/resultados/sechgo/abstodas.png, id=755, 516.93124pt x 402.50375
 pt>
 File: content/images/resultados/sechgo/abstodas.png Graphic file (type png)
  <use content/images/resultados/sechgo/abstodas.png>
+Package pdftex.def Info: content/images/resultados/sechgo/abstodas.png used on 
+input line 12.
+(pdftex.def)             Requested size: 344.72577pt x 268.42934pt.
+
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[43
+[44
 
 
 
 ]
-<content/images/resultados/sechgo/emlinsol.png, id=754, 530.98375pt x 415.5525p
+<content/images/resultados/sechgo/emlinsol.png, id=766, 530.98375pt x 415.5525p
 t>
 File: content/images/resultados/sechgo/emlinsol.png Graphic file (type png)
  <use content/images/resultados/sechgo/emlinsol.png>
-<content/images/resultados/sechgo/m3.png, id=755, 539.01375pt x 414.54875pt>
+Package pdftex.def Info: content/images/resultados/sechgo/emlinsol.png used on 
+input line 27.
+(pdftex.def)             Requested size: 248.96796pt x 194.84682pt.
+
+<content/images/resultados/sechgo/m3.png, id=767, 539.01375pt x 414.54875pt>
 File: content/images/resultados/sechgo/m3.png Graphic file (type png)
 
 <use content/images/resultados/sechgo/m3.png>
-<content/images/resultados/sechgo/m7.png, id=756, 534.99875pt x 408.52625pt>
+Package pdftex.def Info: content/images/resultados/sechgo/m3.png used on input 
+line 31.
+(pdftex.def)             Requested size: 248.96796pt x 191.4791pt.
+
+<content/images/resultados/sechgo/m7.png, id=768, 534.99875pt x 408.52625pt>
 File: content/images/resultados/sechgo/m7.png Graphic file (type png)
 
-<use content/images/resultados/sechgo/m7.png> [44 <./content/images/resultados/
-sechgo/abstodas.png (PNG copy)>]
+<use content/images/resultados/sechgo/m7.png>
+Package pdftex.def Info: content/images/resultados/sechgo/m7.png used on input 
+line 35.
+(pdftex.def)             Requested size: 248.96796pt x 190.11235pt.
+LaTeX Info: Redefining \. on input line 40.
+LaTeX Info: Redefining \% on input line 40.
+ [45 <./content/images/resultados/sechgo/abstodas.png>]
 Overfull \vbox (59.1617pt too high) has occurred while \output is active []
 
+LaTeX Info: Redefining \. on input line 40.
+LaTeX Info: Redefining \% on input line 40.
 
-[45 <./content/images/resultados/sechgo/emlinsol.png (PNG copy)> <./content/ima
-ges/resultados/sechgo/m3.png (PNG copy)> <./content/images/resultados/sechgo/m7
-.png (PNG copy)>]
-<content/images/resultados/sechgo/suspturbias.png, id=766, 455.7025pt x 283.057
+[46 <./content/images/resultados/sechgo/emlinsol.png> <./content/images/resulta
+dos/sechgo/m3.png> <./content/images/resultados/sechgo/m7.png>]
+<content/images/resultados/sechgo/suspturbias.png, id=778, 455.7025pt x 283.057
 5pt>
 File: content/images/resultados/sechgo/suspturbias.png Graphic file (type png)
- <use content/images/resultados/sechgo/suspturbias.png> [46 <./content/images/r
-esultados/sechgo/suspturbias.png (PNG copy)>]
-<content/images/resultados/sechgo/eminolinhgo.png, id=776, 570.13pt x 440.64626
+ <use content/images/resultados/sechgo/suspturbias.png>
+Package pdftex.def Info: content/images/resultados/sechgo/suspturbias.png used 
+on input line 43.
+(pdftex.def)             Requested size: 172.36288pt x 107.06194pt.
+LaTeX Info: Redefining \. on input line 71.
+LaTeX Info: Redefining \% on input line 71.
+ [47 <./content/images/resultados/sechgo/suspturbias.png>]
+<content/images/resultados/sechgo/eminolinhgo.png, id=790, 570.13pt x 440.64626
 pt>
 File: content/images/resultados/sechgo/eminolinhgo.png Graphic file (type png)
  <use content/images/resultados/sechgo/eminolinhgo.png>
-<content/images/resultados/sechgo/TPAhgo.png, id=778, 547.04375pt x 436.63126pt
+Package pdftex.def Info: content/images/resultados/sechgo/eminolinhgo.png used 
+on input line 75.
+(pdftex.def)             Requested size: 325.57887pt x 251.6349pt.
+
+<content/images/resultados/sechgo/TPAhgo.png, id=792, 547.04375pt x 436.63126pt
 >
 File: content/images/resultados/sechgo/TPAhgo.png Graphic file (type png)
- <use content/images/resultados/sechgo/TPAhgo.png> [47 <./content/images/result
-ados/sechgo/eminolinhgo.png (PNG copy)>]
-<content/images/resultados/copolimero/absmol.png, id=786, 555.07375pt x 433.62p
+ <use content/images/resultados/sechgo/TPAhgo.png>
+Package pdftex.def Info: content/images/resultados/sechgo/TPAhgo.png used on in
+put line 85.
+(pdftex.def)             Requested size: 325.57887pt x 259.86877pt.
+LaTeX Info: Redefining \. on input line 87.
+LaTeX Info: Redefining \% on input line 87.
+ [48 <./content/images/resultados/sechgo/eminolinhgo.png>]
+LaTeX Info: Redefining \. on input line 106.
+LaTeX Info: Redefining \% on input line 106.
+ [49 <./content/images/resultados/sechgo/TPAhgo.png>]
+<content/images/resultados/copolimero/absmol.png, id=806, 555.07375pt x 433.62p
 t>
 File: content/images/resultados/copolimero/absmol.png Graphic file (type png)
- <use content/images/resultados/copolimero/absmol.png> [48 <./content/images/re
-sultados/sechgo/TPAhgo.png (PNG copy)>]
-<content/images/resultados/copolimero/abs_norm.png, id=793, 576.1525pt x 441.65
+ <use content/images/resultados/copolimero/absmol.png>
+Package pdftex.def Info: content/images/resultados/copolimero/absmol.png used o
+n input line 109.
+(pdftex.def)             Requested size: 325.57887pt x 254.33826pt.
+
+<content/images/resultados/copolimero/abs_norm.png, id=808, 576.1525pt x 441.65
 pt>
 File: content/images/resultados/copolimero/abs_norm.png Graphic file (type png)
 
  <use content/images/resultados/copolimero/abs_norm.png>
+Package pdftex.def Info: content/images/resultados/copolimero/abs_norm.png used
+ on input line 117.
+(pdftex.def)             Requested size: 248.96796pt x 190.84926pt.
+
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-<content/images/resultados/copolimero/pl_lineal.png, id=796, 592.2125pt x 450.6
+<content/images/resultados/copolimero/pl_lineal.png, id=811, 592.2125pt x 450.6
 8375pt>
 File: content/images/resultados/copolimero/pl_lineal.png Graphic file (type png
 )
  <use content/images/resultados/copolimero/pl_lineal.png>
-<content/images/resultados/copolimero/pl_lineal_norm.png, id=797, 547.04375pt x
+Package pdftex.def Info: content/images/resultados/copolimero/pl_lineal.png use
+d on input line 127.
+(pdftex.def)             Requested size: 187.68741pt x 142.83261pt.
+
+<content/images/resultados/copolimero/pl_lineal_norm.png, id=812, 547.04375pt x
  450.68375pt>
 File: content/images/resultados/copolimero/pl_lineal_norm.png Graphic file (typ
 e png)
  <use content/images/resultados/copolimero/pl_lineal_norm.png>
-[49 <./content/images/resultados/copolimero/absmol.png (PNG copy)>] [50 <./cont
-ent/images/resultados/copolimero/abs_norm.png (PNG copy)> <./content/images/res
-ultados/copolimero/pl_lineal.png (PNG copy)> <./content/images/resultados/copol
-imero/pl_lineal_norm.png (PNG copy)>]
-<content/images/resultados/copolimero/eminolineal.png, id=810, 564.1075pt x 457
+Package pdftex.def Info: content/images/resultados/copolimero/pl_lineal_norm.pn
+g used on input line 131.
+(pdftex.def)             Requested size: 180.02515pt x 148.31348pt.
+LaTeX Info: Redefining \. on input line 135.
+LaTeX Info: Redefining \% on input line 135.
+
+[50 <./content/images/resultados/copolimero/absmol.png>]
+LaTeX Info: Redefining \. on input line 137.
+LaTeX Info: Redefining \% on input line 137.
+ [51 <./content/images/resultados/copolimero/abs_norm.png> <./content/images/re
+sultados/copolimero/pl_lineal.png> <./content/images/resultados/copolimero/pl_l
+ineal_norm.png>]
+<content/images/resultados/copolimero/eminolineal.png, id=825, 564.1075pt x 457
 .71pt>
 File: content/images/resultados/copolimero/eminolineal.png Graphic file (type p
 ng)
  <use content/images/resultados/copolimero/eminolineal.png>
-<content/images/resultados/copolimero/tpacopo.png, id=811, 527.9725pt x 433.62p
+Package pdftex.def Info: content/images/resultados/copolimero/eminolineal.png u
+sed on input line 142.
+(pdftex.def)             Requested size: 264.29248pt x 214.44627pt.
+
+<content/images/resultados/copolimero/tpacopo.png, id=826, 527.9725pt x 433.62p
 t>
 File: content/images/resultados/copolimero/tpacopo.png Graphic file (type png)
- <use content/images/resultados/copolimero/tpacopo.png> [51 <./content/images/r
-esultados/copolimero/eminolineal.png (PNG copy)> <./content/images/resultados/c
-opolimero/tpacopo.png (PNG copy)>]
-<content/images/resultados/sec1/comp.png, id=819, 532.99126pt x 412.54124pt>
+ <use content/images/resultados/copolimero/tpacopo.png>
+Package pdftex.def Info: content/images/resultados/copolimero/tpacopo.png used 
+on input line 150.
+(pdftex.def)             Requested size: 260.45842pt x 213.91144pt.
+LaTeX Info: Redefining \. on input line 155.
+LaTeX Info: Redefining \% on input line 155.
+ [52 <./content/images/resultados/copolimero/eminolineal.png> <./content/images
+/resultados/copolimero/tpacopo.png>]
+<content/images/resultados/sec1/comp.png, id=834, 532.99126pt x 412.54124pt>
 File: content/images/resultados/sec1/comp.png Graphic file (type png)
 
 <use content/images/resultados/sec1/comp.png>
+Package pdftex.def Info: content/images/resultados/sec1/comp.png used on input 
+line 170.
+(pdftex.def)             Requested size: 325.57887pt x 252.00859pt.
+
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<content/images/resultados/sec1/1n.png, id=822, 540.0175pt x 412.54124pt>
+<content/images/resultados/sec1/1n.png, id=837, 540.0175pt x 412.54124pt>
 File: content/images/resultados/sec1/1n.png Graphic file (type png)
 
 <use content/images/resultados/sec1/1n.png>
-<content/images/resultados/sec1/2n.png, id=823, 543.02875pt x 410.53375pt>
+Package pdftex.def Info: content/images/resultados/sec1/1n.png used on input li
+ne 182.
+(pdftex.def)             Requested size: 248.96796pt x 190.19302pt.
+
+<content/images/resultados/sec1/2n.png, id=838, 543.02875pt x 410.53375pt>
 File: content/images/resultados/sec1/2n.png Graphic file (type png)
 
 <use content/images/resultados/sec1/2n.png>
-<content/images/resultados/sec1/3n.png, id=824, 543.02875pt x 398.48875pt>
+Package pdftex.def Info: content/images/resultados/sec1/2n.png used on input li
+ne 186.
+(pdftex.def)             Requested size: 248.96796pt x 188.22139pt.
+
+<content/images/resultados/sec1/3n.png, id=839, 543.02875pt x 398.48875pt>
 File: content/images/resultados/sec1/3n.png Graphic file (type png)
 
 <use content/images/resultados/sec1/3n.png>
+Package pdftex.def Info: content/images/resultados/sec1/3n.png used on input li
+ne 190.
+(pdftex.def)             Requested size: 248.96796pt x 182.699pt.
+
 
 LaTeX Warning: Float too large for page by 43.83685pt on input line 194.
 
 
-<content/images/resultados/sec1/emilinealnorm3N.png, id=825, 586.19pt x 445.665
+<content/images/resultados/sec1/emilinealnorm3N.png, id=840, 586.19pt x 445.665
 pt>
 File: content/images/resultados/sec1/emilinealnorm3N.png Graphic file (type png
 )
  <use content/images/resultados/sec1/emilinealnorm3N.png>
+Package pdftex.def Info: content/images/resultados/sec1/emilinealnorm3N.png use
+d on input line 200.
+(pdftex.def)             Requested size: 325.57887pt x 247.5238pt.
+
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
@@ -1192,75 +1438,126 @@ Overfull \hbox (1.52281pt too wide) in paragraph at lines 215--216
  [][] 
  []
 
-[52]
-<content/images/resultados/sec1/nojalo.png, id=837, 559.08875pt x 447.6725pt>
+LaTeX Info: Redefining \. on input line 218.
+LaTeX Info: Redefining \% on input line 218.
+[53]
+<content/images/resultados/sec1/nojalo.png, id=851, 559.08875pt x 447.6725pt>
 File: content/images/resultados/sec1/nojalo.png Graphic file (type png)
 
 <use content/images/resultados/sec1/nojalo.png>
-<content/images/resultados/sec1/sijalo.png, id=838, 573.14125pt x 452.69125pt>
+Package pdftex.def Info: content/images/resultados/sec1/nojalo.png used on inpu
+t line 226.
+(pdftex.def)             Requested size: 229.82108pt x 184.01823pt.
+
+<content/images/resultados/sec1/sijalo.png, id=852, 573.14125pt x 452.69125pt>
 File: content/images/resultados/sec1/sijalo.png Graphic file (type png)
 
 <use content/images/resultados/sec1/sijalo.png>
-<content/images/resultados/sec1/TPA_1.png, id=839, 559.08875pt x 449.68pt>
+Package pdftex.def Info: content/images/resultados/sec1/sijalo.png used on inpu
+t line 231.
+(pdftex.def)             Requested size: 268.12068pt x 211.77713pt.
+
+<content/images/resultados/sec1/TPA_1.png, id=853, 559.08875pt x 449.68pt>
 File: content/images/resultados/sec1/TPA_1.png Graphic file (type png)
 
 <use content/images/resultados/sec1/TPA_1.png>
+Package pdftex.def Info: content/images/resultados/sec1/TPA_1.png used on input
+ line 240.
+(pdftex.def)             Requested size: 268.12068pt x 215.65868pt.
+
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[53 <./content/images/resultados/sec1/comp.png (PNG copy)>] [54 <./content/imag
-es/resultados/sec1/1n.png (PNG copy)> <./content/images/resultados/sec1/2n.png 
-(PNG copy)> <./content/images/resultados/sec1/3n.png (PNG copy)>]
-<content/images/resultados/sec1/abs_peg5000.png, id=851, 555.07375pt x 436.6312
+LaTeX Info: Redefining \. on input line 245.
+LaTeX Info: Redefining \% on input line 245.
+[54 <./content/images/resultados/sec1/comp.png>]
+LaTeX Info: Redefining \. on input line 245.
+LaTeX Info: Redefining \% on input line 245.
+ [55 <./content/images/resultados/sec1/1n.png> <./content/images/resultados/sec
+1/2n.png> <./content/images/resultados/sec1/3n.png>]
+<content/images/resultados/sec1/abs_peg5000.png, id=866, 555.07375pt x 436.6312
 6pt>
 File: content/images/resultados/sec1/abs_peg5000.png Graphic file (type png)
  <use content/images/resultados/sec1/abs_peg5000.png>
-<content/images/resultados/sec1/emi_peg5000.png, id=852, 568.1225pt x 439.6425p
+Package pdftex.def Info: content/images/resultados/sec1/abs_peg5000.png used on
+ input line 250.
+(pdftex.def)             Requested size: 191.51561pt x 150.65126pt.
+
+<content/images/resultados/sec1/emi_peg5000.png, id=867, 568.1225pt x 439.6425p
 t>
 File: content/images/resultados/sec1/emi_peg5000.png Graphic file (type png)
  <use content/images/resultados/sec1/emi_peg5000.png>
-<content/images/resultados/sec1/TPA_PEG1.png, id=854, 569.12625pt x 446.66875pt
->
+Package pdftex.def Info: content/images/resultados/sec1/emi_peg5000.png used on
+ input line 255.
+(pdftex.def)             Requested size: 187.68741pt x 145.24347pt.
+
+<content/images/resultados/sec1/TPA_PEG1.png, id=869, 506.89375pt x 415.5525pt>
 File: content/images/resultados/sec1/TPA_PEG1.png Graphic file (type png)
- <use content/images/resultados/sec1/TPA_PEG1.png>
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[55 <./content/images/resultados/sec1/emilinealnorm3N.png (PNG copy)>] [56 <./c
-ontent/images/resultados/sec1/nojalo.png (PNG copy)> <./content/images/resultad
-os/sec1/sijalo.png (PNG copy)>]
-<content/images/resultados/sec1/TPA_femto.png, id=867, 556.0775pt x 450.68375pt
+<use content/images/resultados/sec1/TPA_PEG1.png>
+Package pdftex.def Info: content/images/resultados/sec1/TPA_PEG1.png used on in
+put line 266.
+(pdftex.def)             Requested size: 268.12068pt x 219.8106pt.
+LaTeX Info: Redefining \. on input line 269.
+LaTeX Info: Redefining \% on input line 269.
+ [56 <./content/images/resultados/sec1/emilinealnorm3N.png>]
+LaTeX Info: Redefining \. on input line 269.
+LaTeX Info: Redefining \% on input line 269.
+ [57 <./content/images/resultados/sec1/nojalo.png> <./content/images/resultados
+/sec1/sijalo.png>]
+LaTeX Info: Redefining \. on input line 271.
+LaTeX Info: Redefining \% on input line 271.
+ [58 <./content/images/resultados/sec1/TPA_1.png> <./content/images/resultados/
+sec1/TPA_PEG1.png>]
+<content/images/resultados/sec1/TPA_femto.png, id=886, 556.0775pt x 450.68375pt
 >
 File: content/images/resultados/sec1/TPA_femto.png Graphic file (type png)
  <use content/images/resultados/sec1/TPA_femto.png>
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<content/images/resultados/sec1/tem.png, id=869, 698.61pt x 331.2375pt>
+Package pdftex.def Info: content/images/resultados/sec1/TPA_femto.png used on i
+nput line 277.
+(pdftex.def)             Requested size: 268.12068pt x 217.30225pt.
+LaTeX Info: Redefining \. on input line 280.
+LaTeX Info: Redefining \% on input line 280.
+ [59 <./content/images/resultados/sec1/abs_peg5000.png> <./content/images/resul
+tados/sec1/emi_peg5000.png>] <content/images/resultados/sec1/tem.png, id=891, 6
+98.61pt x 331.2375pt>
 File: content/images/resultados/sec1/tem.png Graphic file (type png)
 
 <use content/images/resultados/sec1/tem.png>
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<content/images/resultados/pmc300/abs1.png, id=871, 503.8825pt x 408.52625pt>
+Package pdftex.def Info: content/images/resultados/sec1/tem.png used on input l
+ine 283.
+(pdftex.def)             Requested size: 383.03123pt x 181.61005pt.
+LaTeX Info: Redefining \. on input line 288.
+LaTeX Info: Redefining \% on input line 288.
+ [60 <./content/images/resultados/sec1/TPA_femto.png> <./content/images/resulta
+dos/sec1/tem.png>]
+<content/images/resultados/pmc300/abs1.png, id=902, 500.87125pt x 417.56pt>
 File: content/images/resultados/pmc300/abs1.png Graphic file (type png)
 
-<use content/images/resultados/pmc300/abs1.png>) [57 <./content/images/resultad
-os/sec1/TPA_1.png (PNG copy)>] [58 <./content/images/resultados/sec1/abs_peg500
-0.png (PNG copy)> <./content/images/resultados/sec1/emi_peg5000.png (PNG copy)>
- <./content/images/resultados/pmc300/abs1.png (PNG copy)>] [59 <./content/image
-s/resultados/sec1/TPA_PEG1.png (PNG copy)> <./content/images/resultados/sec1/TP
-A_femto.png (PNG copy)>] [60 <./content/images/resultados/sec1/tem.png (PNG cop
-y)>]
+<use content/images/resultados/pmc300/abs1.png>
+Package pdftex.def Info: content/images/resultados/pmc300/abs1.png used on inpu
+t line 301.
+(pdftex.def)             Requested size: 325.57887pt x 271.43625pt.
+LaTeX Info: Redefining \. on input line 304.
+LaTeX Info: Redefining \% on input line 304.
+ [61])
+LaTeX Info: Redefining \. on input line 78.
+LaTeX Info: Redefining \% on input line 78.
+ [62 <./content/images/resultados/pmc300/abs1.png>]
 \openout2 = `content/back/bibliography.aux'.
 
- (./content/back/bibliography.tex (./thesis.bbl [61
+ (./content/back/bibliography.tex (./thesis.bbl
+[63
 
 
 
 
-] [62])) [63]
+]
+LaTeX Info: Redefining \. on input line 136.
+LaTeX Info: Redefining \% on input line 136.
+ [64]))
+LaTeX Info: Redefining \. on input line 86.
+LaTeX Info: Redefining \% on input line 86.
+ [65]
 Package minitoc Info: I0009
 (minitoc)             Listing minitoc auxiliary files. 
 (minitoc)             Creating the thesis.maf file.
@@ -1283,57 +1580,64 @@ Package minitoc(hints) Warning: W0024
 (minitoc(hints))                in the thesis.log file.
 
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 88.
-[64
+LaTeX Info: Redefining \. on input line 88.
+LaTeX Info: Redefining \% on input line 88.
+[66
 
 ]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 88.
- (./thesis.aux (./content/front/cioCIO.aux) (./content/front/abstract.aux)
+ (./thesis.aux (./content/front/cioCIO.aux)
+LaTeX Info: Redefining \. on input line 28.
+LaTeX Info: Redefining \% on input line 28.
+ (./content/front/abstract.aux)
 (./content/main/introduction.aux) (./content/main/capitulo2.aux)
 (./content/main/capitulo3.aux) (./content/main/resultados.aux)
 (./content/back/bibliography.aux))
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 88.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 88.
 Package rerunfilecheck Info: File `thesis.out' has not changed.
-(rerunfilecheck)             Checksum: 9962A0062EF2433A2517AF65E02E7911;3143.
+(rerunfilecheck)             Checksum: 5545F18695F8695CA1E7EC7ED075B8CD;3143.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 88.
  ) 
 Here is how much of TeX's memory you used:
- 10664 strings out of 493747
- 161486 string characters out of 3143546
- 275271 words of memory out of 3000000
- 13166 multiletter control sequences out of 15000+200000
- 95086 words of font info for 82 fonts, out of 3000000 for 9000
- 714 hyphenation exceptions out of 8191
- 36i,14n,43p,1160b,544s stack positions out of 5000i,500n,10000p,200000b,50000s
-{/usr/local/texlive/2010/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/lo
-cal/texlive/2010/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/local/texliv
-e/2010/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{/usr/local/texlive/2010/texmf-d
-ist/fonts/enc/dvips/lm/lm-mathex.enc}{/usr/local/texlive/2010/texmf-dist/fonts/
-enc/dvips/lm/lm-ec.enc}</usr/local/texlive/2010/texmf-dist/fonts/type1/public/l
-m/lmbx10.pfb></usr/local/texlive/2010/texmf-dist/fonts/type1/public/lm/lmbx12.p
-fb></usr/local/texlive/2010/texmf-dist/fonts/type1/public/lm/lmcsc10.pfb></usr/
-local/texlive/2010/texmf-dist/fonts/type1/public/lm/lmex10.pfb></usr/local/texl
-ive/2010/texmf-dist/fonts/type1/public/lm/lmmi10.pfb></usr/local/texlive/2010/t
-exmf-dist/fonts/type1/public/lm/lmmi12.pfb></usr/local/texlive/2010/texmf-dist/
-fonts/type1/public/lm/lmmi5.pfb></usr/local/texlive/2010/texmf-dist/fonts/type1
-/public/lm/lmmi6.pfb></usr/local/texlive/2010/texmf-dist/fonts/type1/public/lm/
-lmmi7.pfb></usr/local/texlive/2010/texmf-dist/fonts/type1/public/lm/lmmi8.pfb><
-/usr/local/texlive/2010/texmf-dist/fonts/type1/public/lm/lmmi9.pfb></usr/local/
-texlive/2010/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/local/texlive/201
-0/texmf-dist/fonts/type1/public/lm/lmr17.pfb></usr/local/texlive/2010/texmf-dis
-t/fonts/type1/public/lm/lmr5.pfb></usr/local/texlive/2010/texmf-dist/fonts/type
-1/public/lm/lmr6.pfb></usr/local/texlive/2010/texmf-dist/fonts/type1/public/lm/
-lmr8.pfb></usr/local/texlive/2010/texmf-dist/fonts/type1/public/lm/lmr9.pfb></u
-sr/local/texlive/2010/texmf-dist/fonts/type1/public/lm/lmri10.pfb></usr/local/t
-exlive/2010/texmf-dist/fonts/type1/public/lm/lmri8.pfb></usr/local/texlive/2010
-/texmf-dist/fonts/type1/public/lm/lmsy10.pfb></usr/local/texlive/2010/texmf-dis
-t/fonts/type1/public/lm/lmsy6.pfb></usr/local/texlive/2010/texmf-dist/fonts/typ
-e1/public/lm/lmsy7.pfb></usr/local/texlive/2010/texmf-dist/fonts/type1/public/l
-m/lmsy8.pfb></usr/local/texlive/2010/texmf-dist/fonts/type1/public/lm/lmsy9.pfb
-></usr/local/texlive/2010/texmf-dist/fonts/type1/public/lm/lmtt12.pfb></usr/loc
-al/texlive/2010/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on thesis.pdf (70 pages, 4674256 bytes).
+ 11316 strings out of 493308
+ 170732 string characters out of 6137817
+ 288961 words of memory out of 5000000
+ 14010 multiletter control sequences out of 15000+600000
+ 95086 words of font info for 82 fonts, out of 8000000 for 9000
+ 957 hyphenation exceptions out of 8191
+ 36i,13n,43p,1170b,581s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2013/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/lo
+cal/texlive/2013/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/local/texliv
+e/2013/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{/usr/local/texlive/2013/texmf-d
+ist/fonts/enc/dvips/lm/lm-mathex.enc}{/usr/local/texlive/2013/texmf-dist/fonts/
+enc/dvips/lm/lm-ec.enc}</usr/local/texlive/2013/texmf-dist/fonts/type1/public/l
+m/lmbx10.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/lm/lmbx12.p
+fb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/lm/lmcsc10.pfb></usr/
+local/texlive/2013/texmf-dist/fonts/type1/public/lm/lmex10.pfb></usr/local/texl
+ive/2013/texmf-dist/fonts/type1/public/lm/lmmi10.pfb></usr/local/texlive/2013/t
+exmf-dist/fonts/type1/public/lm/lmmi12.pfb></usr/local/texlive/2013/texmf-dist/
+fonts/type1/public/lm/lmmi5.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1
+/public/lm/lmmi6.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/lm/
+lmmi7.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/lm/lmmi8.pfb><
+/usr/local/texlive/2013/texmf-dist/fonts/type1/public/lm/lmmi9.pfb></usr/local/
+texlive/2013/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/local/texlive/201
+3/texmf-dist/fonts/type1/public/lm/lmr17.pfb></usr/local/texlive/2013/texmf-dis
+t/fonts/type1/public/lm/lmr5.pfb></usr/local/texlive/2013/texmf-dist/fonts/type
+1/public/lm/lmr6.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/lm/
+lmr8.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/lm/lmr9.pfb></u
+sr/local/texlive/2013/texmf-dist/fonts/type1/public/lm/lmri10.pfb></usr/local/t
+exlive/2013/texmf-dist/fonts/type1/public/lm/lmri8.pfb></usr/local/texlive/2013
+/texmf-dist/fonts/type1/public/lm/lmsy10.pfb></usr/local/texlive/2013/texmf-dis
+t/fonts/type1/public/lm/lmsy6.pfb></usr/local/texlive/2013/texmf-dist/fonts/typ
+e1/public/lm/lmsy7.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/l
+m/lmsy8.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/lm/lmsy9.pfb
+></usr/local/texlive/2013/texmf-dist/fonts/type1/public/lm/lmtt12.pfb></usr/loc
+al/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
+Output written on thesis.pdf (73 pages, 4621751 bytes).
 PDF statistics:
- 1044 PDF objects out of 1200 (max. 8388607)
- 880 compressed objects within 9 object streams
- 214 named destinations out of 1000 (max. 500000)
- 537 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1076 PDF objects out of 1200 (max. 8388607)
+ 907 compressed objects within 10 object streams
+ 221 named destinations out of 1000 (max. 500000)
+ 542 words of extra memory for PDF output out of 10000 (max. 10000000)
 
