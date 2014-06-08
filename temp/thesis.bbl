@@ -1,149 +1,150 @@
 \begin{thebibliography}{10}
 
 \bibitem{revistanature}
-Nicole Rusk.
+N.~Rusk.
 \newblock {(1911, 1929, 1967) First fluorescence microscope, First
   epifluorescence microscope, The dichroic mirror}.
 \newblock {\em Nature}, 2009.
 
 \bibitem{libro}
-Barry~R. Masters.
+B.R. Masters.
 \newblock {\em Confocal Microscopy and Multiphoton Excitation Microscopy, The
   Genesis of Live Cell Imaging}.
 \newblock SPIE PRESS, 2006.
 
 \bibitem{procons}
-Sarah~M. Wilson and Antony Bacic.
+S.M. Wilson and A.~Bacic.
 \newblock {Preparation of plant cells for transmission electron microscopy to
   optimize immunogold labeling of carbohydrate and protein epitopes}.
 \newblock {\em Nature Protocols}, 7:1716--1727, 2012.
 
 \bibitem{bioph}
-Paras~N. Prasad.
+P.N. Prasad.
 \newblock {\em Introduction to Biophotonics}.
 \newblock Wiley- Interscience, 2003.
 
 \bibitem{artiqdtox}
-S.~N.~Bhatia A.~M.~Derfus, W. C. W.~Chan.
+A.M. Derfus, W.C.W. Chan, and S.N. Bhatia.
 \newblock {Probing the Cytotoxycity of Semiconductor Quantum Dots}.
 \newblock {\em Nano Letters}, pages 11--18, 2004.
 
 \bibitem{articuloQDtoxico}
-P.~Misra E. Tanaka J. P. Zimmer B. I. Ipe M. G. Bawendi J. V.~Frangioni
-  H.~S.~Choi, W.~Liu.
+H.S. Choi, W.~Liu, P.~Misra, E.~Tanaka, J.P. Zimmer, B.I. Ipe, M.G. Bawendi,
+  and J.V. Frangioni.
 \newblock {Renal clearance of quantum dots}.
 \newblock {\em Nature Biotechnology}, 25:1165--1170, 2007.
 
 \bibitem{artconcluyente}
-S.~Wang M. Liu L. Tao Y.~Wei X.~Zhang, X.~Zhang.
+X.~Zhang, X.~Zhang, S.~Wang, M.~Liu, L.~Tao, and Y.~Wei.
 \newblock {Surfactant modification of aggregation-induced emission material as
   biocompatible nanoparticles: Facile preparation and cell imaging}.
 \newblock {\em Nanoscale}, 5:147--150, 2013.
 
 \bibitem{drugsdeliv}
-P.~Quellec T. Blunk R.H. M\"{u}ller J.M. Verbavatz R.~Langer R.~Gref, A.~Domb.
+R.~Gref, A.~Domb, P.~Quellec, T.~Blunk, R.H. M\"{u}ller, J.M. Verbavatz, and
+  R.~Langer.
 \newblock {The controlled intravenous delivery of drugs using PEG-coated
   sterically stabilized nanospheres}.
 \newblock {\em Advanced Drug Delivery Reviews}, 16:215, 1995.
 
 \bibitem{ventajasepi}
-Kenneth~R. Spring.
+K.R. Spring.
 \newblock {Fluorescence Microscopy}.
 \newblock {\em Marcel Dekker, Inc.}, 2003.
 
 \bibitem{lscm}
-Michael W.~Davidson Nathan S.~Claxton, Thomas J.~Fellers.
+N.S. Claxton, T.J. Fellers, and M.W. Davidson.
 \newblock {Laser scanning confocal microscopy}.
 \newblock {\em Department of Optical Microscopy and Digital Imaging, National
   High Magnetic Field Laboratory, Florida State University. Unpublished
   (http://www.olympusfluoview.com/theory/LSCMIntro.pdf)}, page~37, 2005.
 
 \bibitem{UK}
-Jobin Yvon.
+J.~Yvon.
 \newblock {A Guide to Recording Fluorescence Quantum Yields}.
 \newblock {\em Horiba Scientific}.
 
 \bibitem{tesisdoc}
-A.~KOBAYASHI.
+A.~Kobayashi.
 \newblock {\em Absolute Measurements of Photoluminescence Quantum Yields of
   Organic Compounds Using an Integrating Sphere}.
 \newblock PhD thesis, Gunma University, 2010.
 
 \bibitem{boyd}
-Robert~W. Boyd.
+R.W. Boyd.
 \newblock {\em Nonlinear Optics}.
 \newblock Academic Press, third edition, 2008.
 
 \bibitem{megalibro}
-Peter T. C.~So Edited~by Barry R.~Masters.
-\newblock {\em Handbook of BIOMEDICAL NONLINEAR OPTICAL MICROSCOPY}.
-\newblock OXFORD, University Press, 2008.
+B.R. Masters and P.T.C. So.
+\newblock {\em Handbook of Biomedical Nonlinear Optical Microscopy}.
+\newblock Oxford, University Press, 2008.
 
 \bibitem{todoTPA}
-Mariacristina Rumi and Joseph~W. Perry.
+M.C. Rumi and J.W. Perry.
 \newblock {Two-photon absorption: an overview of measurements and principles}.
 \newblock {\em Advances in Optics and Photonics}, 2:451--518, 2010.
 
 \bibitem{rescatetpa}
-Robert G.~Denning Milosz~Pawlicki, Hazel A.~Collins and Harry~L. Anderson.
+M.~Pawlicki, H.A. Collins, R.G. Denning, and H.L. Anderson.
 \newblock {Two-Photon Absorption and the Design of Two-Photon Dyes}.
 \newblock {\em Angewandte Chemie}, 48:3244--3266, 2009.
 
 \bibitem{pre_rigo}
-Chris~Xu Marius A.~Albota and Watt~W. Webb.
+M.A. Albota, C.~Xu, and W.W. Webb.
 \newblock {Two-photon fluorescence excitation cross sections of biomolecular
   probes from 690 to 960 nm}.
 \newblock {\em Applied Optics}, 37.
 
 \bibitem{maso}
-Chris Xu and Watt~W. Webb.
+C.~Xu and W.W. Webb.
 \newblock {Measurement of two-photon excitation cross sections of molecular
   fluorophores with data from 690 to 1050 nm}.
 \newblock {\em Optical Society of America}, 13.
 
 \bibitem{refderef}
-J.~Shear R.~Williams C.~Xu, W.~Zipfel and W.~W. Webb.
+C.~Xu, W.~Zipfel, J.~Shear, R.~Williams, and W.W. Webb.
 \newblock {Multiphoton fluorescence excitation: new spectral windows for
   biological nonlinear microscopy}.
 \newblock {\em Proceedings of the National Academy of Sciences},
   93:10763--10768, 1996.
 
 \bibitem{laura}
-M.C.G. Hern\'andez M.G. Zolotukhin S. Fomine N. Fr\"ohlich U. Scherf F.
-  Galbrecht E. Preis M. Salmon J. C\'ardenas M.I.~Ch\'avez G.~Ramos-Ort\'iz,
-  J.L.~Maldonado.
+G.~Ramos-Ort\'iz, J.L. Maldonado, M.C.G. Hern\'andez, M.G. Zolotukhin,
+  S.~Fomine, N.~Fr\"ohlich, U.~Scherf, F.~Galbrecht, E.~Preis, M.~Salmon,
+  J.~C\'ardenas, and M.I. Ch\'avez.
 \newblock {Synthesis, characterization and third-order non-linear optical
   properties of novel fluorene monomers and their cross-conjugated polymers}.
 \newblock {\em Polymer}, 51:2351--2359, 2010.
 
 \bibitem{reprecipita}
-H.~Kasai H. Nakanishi H.~Oikawa K.~Ujiiye-Ishii, E.~Kwon.
+K.~Ujiiye-Ishii, E.~Kwon, H.~Kasai, H.~Nakanishi, and H.~Oikawa.
 \newblock {Methodological Features of the Emulsion and Reprecipitation Methods
   for Organic Nanocrystal Fabrication}.
 \newblock {\em Crystal Growth \& Design}, 8:369--371, 2007.
 
 \bibitem{coloidal}
-A.~Peng Y. Ma D. Xiao J.~Yao Y.~S.~Zhao, H.~Fu.
+Y.S. Zhao, H.~Fu, A.~Peng, Y.~Ma, D.~Xiao, and J.~Yao.
 \newblock {Low- Dimensional Nanomaterials Based on Small Organic Molecules:
   Preparation and Optoelectronic Properties}.
 \newblock {\em Advanced Materials}, 20:2859--2876, 2008.
 
 \bibitem{rusitos}
-M.~Drobizhev N.~S.~Makarov and A.~Rebane.
+N.S. Makarov, M.~Drobizhev, and A.~Rebane.
 \newblock {Two-photon absorption standards in the 550-1600 nm excitation
   wavelength range}.
 \newblock {\em Optics Express}, 16:4029--4047, 2008.
 
 \bibitem{scherf}
-A.~Helfer L. E. Garner R. C. Evans S. M. Fonseca M. Knaapila G. C. Bazan H.
-  D.~Burrowsd A.~Gutacker, S.~Adamczyk and U.~Scherf.
+A.~Gutacker, S.~Adamczyk, A.~Helfer, L.E. Garner, R.C. Evans, S.M. Fonseca,
+  M.~Knaapila, G.C. Bazan, H.D. Burrowsd, and U.~Scherf.
 \newblock {All-conjugated polyelectrolyte block copolymers}.
 \newblock {\em Journal of Materials Chemistry}, 20:1423--1430, 2010.
 
 \bibitem{laurita}
-J.~L. Pichardo-Molina J. Luis Maldonado M. Rodr\'iguez V. M. Tellez-Lopez D.
-  Martinez-Fong M. G. Zolotukhin S. Fomine M. A. Meneses-Nava L.~Aparicio-Ixta,
-  G. Ramos-Ortiz and O.~Barbosa-Garc\'ia.
+L.~Aparicio-Ixta, G.~Ramos-Ortiz, J.L. Pichardo-Molina, M.~Maldonado,
+  J.L.~Rodr\'iguez, V.M. Tellez-Lopez, D.~Martinez-Fong, M.G. Zolotukhin,
+  S.~Fomine, M.A. Meneses-Nava, and O.~Barbosa-Garc\'ia.
 \newblock {Two-photon excited fluorescence of silica nanoparticles loaded with
   a fluorene-based monomer and its cross conjugated polymer: their application
   to cell imaging}.

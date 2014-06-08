@@ -1,0 +1,67 @@
+This is BibTeX, Version 0.99d (TeX Live 2013)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: thesis.aux
+A level-1 auxiliary file: content/front/cioCIO.aux
+A level-1 auxiliary file: content/front/abstract.aux
+A level-1 auxiliary file: content/main/introduction.aux
+A level-1 auxiliary file: content/main/capitulo2.aux
+A level-1 auxiliary file: content/main/capitulo3.aux
+A level-1 auxiliary file: content/main/resultados.aux
+A level-1 auxiliary file: content/back/bibliography.aux
+The style file: unsrt.bst
+Database file #1: base/thesis.bib
+You're missing a field name---line 155 of file base/thesis.bib
+ :  
+ :  %pages={1716--1727},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 173 of file base/thesis.bib
+ :  
+ :  %pages={1716--1727},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Warning--empty year in UK
+Warning--empty year in pre_rigo
+Warning--empty year in maso
+You've used 25 entries,
+            1791 wiz_defined-function locations,
+            594 strings with 8353 characters,
+and the built_in function-call counts, 5878 in all, are:
+= -- 493
+> -- 343
+< -- 2
++ -- 125
+- -- 100
+* -- 422
+:= -- 996
+add.period$ -- 75
+call.type$ -- 25
+change.case$ -- 21
+chr.to.int$ -- 0
+cite$ -- 28
+duplicate$ -- 234
+empty$ -- 518
+format.name$ -- 100
+if$ -- 1249
+int.to.chr$ -- 0
+int.to.str$ -- 25
+missing$ -- 28
+newline$ -- 128
+num.names$ -- 25
+pop$ -- 63
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 89
+stack$ -- 0
+substring$ -- 397
+swap$ -- 37
+text.length$ -- 2
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 3
+while$ -- 54
+width$ -- 27
+write$ -- 268
+(There were 2 error messages)
