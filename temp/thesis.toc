@@ -28,10 +28,13 @@
 \contentsline {section}{\numberline {3.6}Medici\'on de $\sigma ^{TPA}$ de 740 a 840 nm}{39}{section.3.6}
 \contentsline {section}{\numberline {3.7}Medici\'on de $\sigma ^{TPA}$ de 650 a 760 nm}{41}{section.3.7}
 \contentsline {section}{\numberline {3.8}Fotoestabilidad de las nanopart\'iculas}{43}{section.3.8}
-\contentsline {section}{\numberline {3.9}Internalizaci\'on de nanopart\'iculas en l\'ineas celulares X}{43}{section.3.9}
-\contentsline {chapter}{\numberline {4}Resultados}{44}{chapter.4}
-\contentsline {section}{\numberline {4.1}Propiedades \'opticas de algunas mol\'eculas $\pi $ conjugadas}{44}{section.4.1}
-\contentsline {section}{\numberline {4.2}Copol\'imero PF2/6-b-P3TMAHT}{49}{section.4.2}
-\contentsline {section}{\numberline {4.3}Comparaci\'on de propiedades \'opticas entre sistemas moleculares dipolar, cuadrupolar y octopolar}{53}{section.4.3}
-\contentsline {section}{\numberline {4.4}Nanopart\'iculas del pol\'imero PMC300}{61}{section.4.4}
-\contentsline {chapter}{Bibliograf\'{\i }a}{63}{appendix*.50}
+\contentsline {section}{\numberline {3.9}Internalizaci\'on de nanopart\'iculas en l\'ineas celulares epiteliales (L929)}{43}{section.3.9}
+\contentsline {chapter}{\numberline {4}Resultados}{45}{chapter.4}
+\contentsline {section}{\numberline {4.1}Propiedades \'opticas de algunos sistemas moleculares arilenetinilenos}{45}{section.4.1}
+\contentsline {section}{\numberline {4.2}Copol\'imero PF2/6-b-P3TMAHT}{50}{section.4.2}
+\contentsline {section}{\numberline {4.3}Nanopart\'iculas del pol\'imero PMC300}{54}{section.4.3}
+\contentsline {section}{\numberline {4.4}Comparaci\'on de propiedades \'opticas entre sistemas moleculares dipolar, cuadrupolar y octopolar}{68}{section.4.4}
+\contentsline {chapter}{\numberline {5}Conclusiones}{78}{chapter.5}
+\contentsline {chapter}{\numberline {A}Ap\'endice A: Una Derivaci\'on Interesante}{81}{appendix.Alph1}
+\contentsline {section}{\numberline {A.1}C\'alculo del factor de correccion del PMT}{81}{section.Alph1.1}
+\contentsline {chapter}{Bibliograf\'{\i }a}{82}{appendix*.63}

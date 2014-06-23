@@ -7,6 +7,9 @@ A level-1 auxiliary file: content/main/introduction.aux
 A level-1 auxiliary file: content/main/capitulo2.aux
 A level-1 auxiliary file: content/main/capitulo3.aux
 A level-1 auxiliary file: content/main/resultados.aux
+A level-1 auxiliary file: content/main/conclusiones.aux
+A level-1 auxiliary file: content/front/acknowledgments.aux
+A level-1 auxiliary file: content/main/app-thes.aux
 A level-1 auxiliary file: content/back/bibliography.aux
 The style file: unsrt.bst
 Database file #1: base/thesis.bib
@@ -25,7 +28,7 @@ Warning--empty year in pre_rigo
 Warning--empty year in maso
 You've used 25 entries,
             1791 wiz_defined-function locations,
-            594 strings with 8353 characters,
+            597 strings with 8440 characters,
 and the built_in function-call counts, 5878 in all, are:
 = -- 493
 > -- 343

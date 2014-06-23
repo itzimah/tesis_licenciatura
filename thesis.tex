@@ -25,7 +25,7 @@
 \usepackage[lmargin=1.8in,rmargin=1.4in]{geometry}    
 \usepackage[T1]{fontenc}% T1 font encoding for special characters.
 \usepackage{lmodern}% Better Latin Modern font.
-\usepackage[spanish,activeacute]{babel}
+\usepackage[spanish,activeacute,es-nosectiondot]{babel}
 \decimalpoint
 \usepackage[latin1]{inputenc}
 \usepackage{layout}
@@ -64,7 +64,6 @@
 %\include{content/front/dedication}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%AGRADECIMIENTOS!!!!!!!!!
-%\include{content/front/acknowledgments}
 
 \tableofcontents
 \listoffigures
@@ -76,13 +75,16 @@
 \include{content/main/capitulo2}
 \include{content/main/capitulo3}
 \include{content/main/resultados}
-%\include{content/main/conclusiones}
+\include{content/main/conclusiones}
+\include{content/front/acknowledgments}
+
+
 
 \appendix
-%\include{content/main/app-thes}
+\include{content/main/app-thes}
 %\include{content/main/app-defs}
-
 \backmatter
-\include{content/back/bibliography}
 %\include{content/back/vita}
+\include{content/back/bibliography}
+
 \end{document}
