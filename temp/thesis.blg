@@ -3,68 +3,62 @@ Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: thesis.aux
 A level-1 auxiliary file: content/front/cioCIO.aux
 A level-1 auxiliary file: content/front/abstract.aux
+A level-1 auxiliary file: content/front/acknowledgments.aux
 A level-1 auxiliary file: content/main/introduction.aux
 A level-1 auxiliary file: content/main/capitulo2.aux
 A level-1 auxiliary file: content/main/capitulo3.aux
 A level-1 auxiliary file: content/main/resultados.aux
 A level-1 auxiliary file: content/main/conclusiones.aux
-A level-1 auxiliary file: content/front/acknowledgments.aux
 A level-1 auxiliary file: content/main/app-thes.aux
 A level-1 auxiliary file: content/back/bibliography.aux
 The style file: unsrt.bst
 Database file #1: base/thesis.bib
-You're missing a field name---line 155 of file base/thesis.bib
- :  
- :  %pages={1716--1727},
-(Error may have been on previous line)
-I'm skipping whatever remains of this entry
-You're missing a field name---line 173 of file base/thesis.bib
- :  
- :  %pages={1716--1727},
-(Error may have been on previous line)
-I'm skipping whatever remains of this entry
 Warning--empty year in UK
-Warning--empty year in pre_rigo
-Warning--empty year in maso
-You've used 25 entries,
+Too many commas in name 1 of "M. Atreya, S. Li, E. T. Kang, K. G. Neoh, Z. H. Ma, K. L . Tan and W. Huang" for entry almost
+while executing---line 944 of file unsrt.bst
+Too many commas in name 1 of "M. Atreya, S. Li, E. T. Kang, K. G. Neoh, Z. H. Ma, K. L . Tan and W. Huang" for entry almost
+while executing---line 944 of file unsrt.bst
+Too many commas in name 1 of "M. Atreya, S. Li, E. T. Kang, K. G. Neoh, Z. H. Ma, K. L . Tan and W. Huang" for entry almost
+while executing---line 944 of file unsrt.bst
+You've used 26 entries,
             1791 wiz_defined-function locations,
-            597 strings with 8440 characters,
-and the built_in function-call counts, 5878 in all, are:
-= -- 493
-> -- 343
+            605 strings with 8664 characters,
+and the built_in function-call counts, 6101 in all, are:
+= -- 516
+> -- 351
 < -- 2
-+ -- 125
-- -- 100
-* -- 422
-:= -- 996
-add.period$ -- 75
-call.type$ -- 25
-change.case$ -- 21
++ -- 128
+- -- 102
+* -- 433
+:= -- 1034
+add.period$ -- 78
+call.type$ -- 26
+change.case$ -- 22
 chr.to.int$ -- 0
-cite$ -- 28
-duplicate$ -- 234
-empty$ -- 518
-format.name$ -- 100
-if$ -- 1249
+cite$ -- 27
+duplicate$ -- 243
+empty$ -- 541
+format.name$ -- 102
+if$ -- 1302
 int.to.chr$ -- 0
-int.to.str$ -- 25
-missing$ -- 28
-newline$ -- 128
-num.names$ -- 25
-pop$ -- 63
+int.to.str$ -- 26
+missing$ -- 29
+newline$ -- 133
+num.names$ -- 26
+pop$ -- 62
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 89
+skip$ -- 93
 stack$ -- 0
-substring$ -- 397
-swap$ -- 37
+substring$ -- 418
+swap$ -- 38
 text.length$ -- 2
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
-warning$ -- 3
-while$ -- 54
-width$ -- 27
-write$ -- 268
-(There were 2 error messages)
+warning$ -- 1
+while$ -- 56
+width$ -- 28
+write$ -- 281
+(There were 3 error messages)

@@ -31,10 +31,10 @@
 \contentsline {section}{\numberline {3.9}Internalizaci\'on de nanopart\'iculas en l\'ineas celulares epiteliales (L929)}{43}{section.3.9}
 \contentsline {chapter}{\numberline {4}Resultados}{45}{chapter.4}
 \contentsline {section}{\numberline {4.1}Propiedades \'opticas de algunos sistemas moleculares arilenetinilenos}{45}{section.4.1}
-\contentsline {section}{\numberline {4.2}Copol\'imero PF2/6-b-P3TMAHT}{50}{section.4.2}
-\contentsline {section}{\numberline {4.3}Nanopart\'iculas del pol\'imero PMC300}{54}{section.4.3}
-\contentsline {section}{\numberline {4.4}Comparaci\'on de propiedades \'opticas entre sistemas moleculares dipolar, cuadrupolar y octopolar}{68}{section.4.4}
-\contentsline {chapter}{\numberline {5}Conclusiones}{78}{chapter.5}
-\contentsline {chapter}{\numberline {A}Ap\'endice A: Una Derivaci\'on Interesante}{81}{appendix.Alph1}
-\contentsline {section}{\numberline {A.1}C\'alculo del factor de correccion del PMT}{81}{section.Alph1.1}
-\contentsline {chapter}{Bibliograf\'{\i }a}{82}{appendix*.63}
+\contentsline {section}{\numberline {4.2}Copol\'imero PF2/6-b-P3TMAHT}{51}{section.4.2}
+\contentsline {section}{\numberline {4.3}Nanopart\'iculas del pol\'imero PMC300}{56}{section.4.3}
+\contentsline {subsection}{\numberline {4.3.1}Internalizaci\'on de nanopart\IeC {\'\i }culas}{67}{subsection.4.3.1}
+\contentsline {section}{\numberline {4.4}Comparaci\'on de propiedades \'opticas entre sistemas moleculares dipolar, cuadrupolar y octopolar}{71}{section.4.4}
+\contentsline {chapter}{\numberline {5}Discusi\'on de resultados y conclusiones}{81}{chapter.5}
+\contentsline {chapter}{\numberline {A}\texttt C\'alculo del factor de correccion para $\Phi _f$}{83}{appendix.Alph1}
+\contentsline {chapter}{Bibliograf\'{\i }a}{85}{appendix*.64}

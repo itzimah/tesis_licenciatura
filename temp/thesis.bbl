@@ -94,13 +94,13 @@ M.~Pawlicki, H.A. Collins, R.G. Denning, and H.L. Anderson.
 M.A. Albota, C.~Xu, and W.W. Webb.
 \newblock {Two-photon fluorescence excitation cross sections of biomolecular
   probes from 690 to 960 nm}.
-\newblock {\em Applied Optics}, 37.
+\newblock {\em Applied Optics}, 37, 1998.
 
 \bibitem{maso}
 C.~Xu and W.W. Webb.
 \newblock {Measurement of two-photon excitation cross sections of molecular
   fluorophores with data from 690 to 1050 nm}.
-\newblock {\em Optical Society of America}, 13.
+\newblock {\em Optical Society of America}, 13, 1996.
 
 \bibitem{refderef}
 C.~Xu, W.~Zipfel, J.~Shear, R.~Williams, and W.W. Webb.
@@ -149,5 +149,11 @@ L.~Aparicio-Ixta, G.~Ramos-Ortiz, J.L. Pichardo-Molina, M.~Maldonado,
   a fluorene-based monomer and its cross conjugated polymer: their application
   to cell imaging}.
 \newblock {\em The Royal Society of Chemistry}, 4:7751--7759, 2012.
+
+\bibitem{almost}
+E.~T. Kang K. G. Neoh Z. H. Ma K. L .~Tan M.~Atreya, S.~Li and W.~Huang.
+\newblock Stability studies of poly(2-methoxy-5-(2'-ethyl hexyloxy)-
+  p-(phenylene vinylene) [{MEH-PPV}].
+\newblock {\em Polymer Degradation and Stability}, 65:287--296, 1999.
 
 \end{thebibliography}
