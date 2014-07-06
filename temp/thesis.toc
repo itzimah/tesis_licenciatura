@@ -23,18 +23,19 @@
 \contentsline {section}{\numberline {3.2}Materiales y reactivos}{31}{section.3.2}
 \contentsline {section}{\numberline {3.3}Fabricaci\'on de nanopart\'iculas por el m\'etodo de reprecipitaci\'on}{35}{section.3.3}
 \contentsline {subsection}{\numberline {3.3.1}Recubrimiento de nanopart\'iculas con PEG}{36}{subsection.3.3.1}
-\contentsline {section}{\numberline {3.4}Espectros de absorci\'on y emisi\'on lineal}{36}{section.3.4}
-\contentsline {section}{\numberline {3.5}Medici\'on de eficiencia cu\'antica de fluorescencia}{37}{section.3.5}
-\contentsline {section}{\numberline {3.6}Medici\'on de $\sigma ^{TPA}$ de 740 a 840 nm}{39}{section.3.6}
+\contentsline {section}{\numberline {3.4}Espectros de absorci\'on y emisi\'on lineal}{37}{section.3.4}
+\contentsline {section}{\numberline {3.5}Medici\'on de eficiencia cu\'antica de fluorescencia}{38}{section.3.5}
+\contentsline {section}{\numberline {3.6}Medici\'on de $\sigma ^{TPA}$ de 740 a 840 nm}{40}{section.3.6}
 \contentsline {section}{\numberline {3.7}Medici\'on de $\sigma ^{TPA}$ de 650 a 760 nm}{41}{section.3.7}
 \contentsline {section}{\numberline {3.8}Fotoestabilidad de las nanopart\'iculas}{43}{section.3.8}
 \contentsline {section}{\numberline {3.9}Internalizaci\'on de nanopart\'iculas en l\'ineas celulares epiteliales (L929)}{43}{section.3.9}
 \contentsline {chapter}{\numberline {4}Resultados}{45}{chapter.4}
 \contentsline {section}{\numberline {4.1}Propiedades \'opticas de algunos sistemas moleculares arilenetinilenos}{45}{section.4.1}
-\contentsline {section}{\numberline {4.2}Copol\'imero PF2/6-b-P3TMAHT}{51}{section.4.2}
-\contentsline {section}{\numberline {4.3}Nanopart\'iculas del pol\'imero PMC300}{56}{section.4.3}
-\contentsline {subsection}{\numberline {4.3.1}Internalizaci\'on de nanopart\IeC {\'\i }culas}{67}{subsection.4.3.1}
-\contentsline {section}{\numberline {4.4}Comparaci\'on de propiedades \'opticas entre sistemas moleculares dipolar, cuadrupolar y octopolar}{71}{section.4.4}
-\contentsline {chapter}{\numberline {5}Discusi\'on de resultados y conclusiones}{81}{chapter.5}
-\contentsline {chapter}{\numberline {A}\texttt C\'alculo del factor de correccion para $\Phi _f$}{83}{appendix.Alph1}
-\contentsline {chapter}{Bibliograf\'{\i }a}{85}{appendix*.64}
+\contentsline {section}{\numberline {4.2}Copol\'imero PF2/6-b-P3TMAHT}{50}{section.4.2}
+\contentsline {section}{\numberline {4.3}Nanopart\'iculas del pol\'imero PMC300}{55}{section.4.3}
+\contentsline {subsection}{\numberline {4.3.1}Internalizaci\'on de nanopart\IeC {\'\i }culas}{65}{subsection.4.3.1}
+\contentsline {section}{\numberline {4.4}Comparaci\'on de propiedades \'opticas entre los sistemas etinilfluoreno-nitrilo, etinilfluoreno- piridazina y etinilfluoreno-triazina}{70}{section.4.4}
+\contentsline {subsection}{\numberline {4.4.1}Internalizaci\'on de nanopart\IeC {\'\i }culas 3NOS}{78}{subsection.4.4.1}
+\contentsline {chapter}{\numberline {5}Conclusiones}{81}{chapter.5}
+\contentsline {chapter}{\numberline {A}\texttt C\'alculo del factor de correccion para $\Phi _f$}{84}{appendix.Alph1}
+\contentsline {chapter}{Bibliograf\'{\i }a}{86}{appendix*.68}
