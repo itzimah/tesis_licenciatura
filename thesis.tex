@@ -1,52 +1,71 @@
-%-----------------------------------------------------------------------------%
-% Este es el trabajo de tesis de Itzel Isunza Manrique (itzimah@gmail.com).   %
-% Está basada en una plantilla por Sean Anderson (github.com/roguephysicist). %
-%-----------------------------------------------------------------------------%
+%--------------------------------------------------------------------------%
+% This work is licensed under a Creative Commons Attribution-		   %
+% NonCommercial-ShareAlike 3.0 Unported License. To view a copy of this    %
+% license, visit http://creativecommons.org/licenses/by-nc-sa/3.0/.	   %
+%									   %
+% This license only applies to the actual template. Please modify and	   %
+% enhance this template any way you see fit and share it with others under %
+% the same conditions. Please do not use this template for financial gain  %
+% (i.e. don't sell it). However, you can license your work under any	   %
+% license that suits your needs, for financial gain or otherwise.	   %
+%									   %
+% This template is free and open source software. It comes with no 	   %
+% warranty of any kind. Use at your own risk!				   %
+%--------------------------------------------------------------------------%
 
-\documentclass[letterpaper,11pt,openany]{book}
+\documentclass[letterpaper,11pt,openany,oneside]{book}
 
 \input{base/definitions}% Packages and new defintions
+\includexmp{base/CC_Attribution-NonCommercial-ShareAlike_3.0_Unported}% Licensing XMP metadata
 \hypersetup{% PDF display options
-    pdftitle={Emision de luz en sistemas organicos nanoestructurados y funcionalizados},
-    pdfauthor={Itzel Isunza Manrique},
-    pdfsubject={Trabajo de tesis de Itzel Isunza Manrique.},
-    pdfkeywords={nanoparticulas} {nolineal} {optica} {organico} {tesis} {licenciatura}}
+    pdftitle={\LaTeX{} Graduate Thesis Template},
+    pdfsubject={A very modular LaTeX template that is appropriate for a masters or doctoral thesis.},
+    pdfkeywords={masters} {doctoral} {phd} {thesis} {dissertation} {latex}}
   
-%\usepackage[lmargin=1.8in,rmargin=1.4in]{geometry}    
+\usepackage[lmargin=1.8in,rmargin=1.4in]{geometry}    
 \usepackage[T1]{fontenc}% T1 font encoding for special characters.
 \usepackage{lmodern}% Better Latin Modern font.
-\usepackage[latin1]{inputenc}
-%\usepackage{layout}
-\usepackage{subcaption}
 \usepackage[spanish,activeacute,es-nosectiondot]{babel}
 \decimalpoint
-
-\addto\captionsspanish{\renewcommand{\tablename}{Tabla}}
+\usepackage[latin1]{inputenc}
+\usepackage{layout}
+\usepackage{caption}
+\usepackage{float}
+\usepackage{subcaption}
 
 %\usepackage{draftwatermark}% Add watermark to background
 %\SetWatermarkText{DRAFT}
 %\SetWatermarkScale{2}
 %\SetWatermarkLightness{0.87}
-%\SetWatermarkFontSize{2cm}
 
+\addto\captionsspanish{%
+  \renewcommand{\tablename}{Tabla}%
+}
+
+%\SetWatermarkFontSize{2cm}
 %\usepackage{showkeys}% Shows all \label values for quick troubleshooting
 %\includeonly{}% Select individual chapters for quicker drafts
-
 %\addtolength{\voffset}{-0.96cm} 
 %\addtolength{\hoffset}{0.9cm}
-
 \begin{document}
 \mtcselectlanguage{spanish2}
 \dominitoc
-
 %\renewcommand{\contentsname}{Contenido}
-%\layout %% para tener los valores del margen y por si los quieres cambiar, esto por si no te dejan imprimir la tesis en las dos paginas de una hoja
+
+%\layout     para tener los valores del margen y por si los quieres cambiar////// esto por si no te dejan imprimir la tesis en las dos paginas de una hoja
 
 \frontmatter
-\include{content/front/portada_cio_ug} %esta es del cio ug
-\include{content/front/abstracto}
-%\include{content/front/dedicatoria}
-\include{content/front/agradecimientos} % AGRADECIMIENTOS!!!!!!!!!
+
+%%%%%%%%%%%%%%%%%%\include{content/front/titlepage_cio}   %% esta es la portada de la ug
+\include{content/front/cioCIO} %esta es del cio ug
+%\include{content/front/copyright}
+%\include{content/front/signature_page}
+%\include{content/front/epigraph}
+\include{content/front/abstract}
+%\include{content/front/dedication}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%AGRADECIMIENTOS!!!!!!!!!
+\include{content/front/acknowledgments}
 
 \tableofcontents
 \listoffigures
@@ -54,17 +73,19 @@
 
 \mainmatter
 \input{base/fancyheaders}
-\include{content/main/introduccion}
-\include{content/main/marco_teorico}
-\include{content/main/desarrollo_experimental}
+\include{content/main/introduction}
+\include{content/main/capitulo2}
+\include{content/main/capitulo3}
 \include{content/main/resultados}
 \include{content/main/conclusiones}
 
-\appendix
-\include{content/main/factor_correccion}
 
+
+\appendix
+\include{content/main/app-thes}
+%\include{content/main/app-defs}
 \backmatter
 %\include{content/back/vita}
-\input{content/back/bibliografia}
+\include{content/back/bibliography}
 
 \end{document}
