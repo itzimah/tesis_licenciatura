@@ -13,10 +13,11 @@
     pdfkeywords={nanoparticulas} {nolineal} {optica} {organico} {tesis} {licenciatura}}
   
 %\usepackage[lmargin=1.8in,rmargin=1.4in]{geometry}    
+%\usepackage[lmargin=default,rmargin=default]{geometry} 
 \usepackage[T1]{fontenc}% T1 font encoding for special characters.
 \usepackage{lmodern}% Better Latin Modern font.
 \usepackage[latin1]{inputenc}
-%\usepackage{layout}
+\usepackage{layout}
 \usepackage{subcaption}
 \usepackage[spanish,activeacute,es-nosectiondot]{babel}
 \decimalpoint
@@ -43,7 +44,8 @@
 %\layout %% para tener los valores del margen y por si los quieres cambiar, esto por si no te dejan imprimir la tesis en las dos paginas de una hoja
 
 \frontmatter
-\include{content/front/portada_cio_ug} %esta es del cio ug
+\include{content/front/titlepage_cio}
+%\include{content/front/portada_cio_ug} %esta es del cio ug
 \include{content/front/abstracto}
 %\include{content/front/dedicatoria}
 \include{content/front/agradecimientos} % AGRADECIMIENTOS!!!!!!!!!
