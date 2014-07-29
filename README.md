@@ -5,7 +5,7 @@ Una tesis de licenciatura por Itzel Isunza Manrique
 
 Copyright (C) 2012 Itzel Isunza Manrique
 
-![](content/images/resultados/sec1/60x/060x_ex420-450_em570-590yo.jpg =100x20)
+![](content/images/resultados/sec1/60x/060x_ex420-450_em570-590yo.jpg)
 
 En este trabajo se presenta un estudio de las propiedades \'opticas m\'as relevantes de nuevos sistemas moleculares org\'anicos para el desarrollo de marcadores biocompatibles en microscop\'ia de fluorescencia.
 
