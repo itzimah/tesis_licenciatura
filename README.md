@@ -3,7 +3,7 @@ Emisión de luz en sistemas orgánicos nanoestructurados y funcionalizados
 
 Una tesis de licenciatura por Itzel Isunza Manrique
 
-Copyright (C) 2012 Itzel Isunza Manrique
+Copyright (C) 2014 Itzel Isunza Manrique
 
 ![](content/images/resultados/sec1/60x/060x_ex420-450_em570-590yo.jpg)
 
